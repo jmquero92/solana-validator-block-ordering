@@ -1,0 +1,6 @@
+# Keys & secrets — NEVER commit private keys
+keys/*.json
+*.keypair
+.env
+__pycache__/
+*.pyc

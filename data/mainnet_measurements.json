@@ -1,0 +1,2505 @@
+{
+  "experiment_metadata": {
+    "bounty": "Inside the Block: How Solana Validators Order Transactions",
+    "measurement_timestamp_utc": "2026-11-05T16:54:35.477912+00:00",
+    "network": "solana-mainnet-beta",
+    "alpenglow_regime": "post-alpenglow (after October 21 upgrade; all blocks include v1 transaction support & costUnits)",
+    "execution_mode": "MAINNET_DRY_RUN",
+    "spend_cap_lamports": 50000000,
+    "simulated_or_live_reserved_lamports": 904400,
+    "total_validators_measured": 8,
+    "distinct_client_versions": [
+      "0.1.1",
+      "26.10.5",
+      "26.10.6",
+      "4.3.2",
+      "4.4.0",
+      "4.4.0-rc.1",
+      "4.5.0-alpha.2"
+    ]
+  },
+  "validator_measurements": [
+    {
+      "slot": 465777655,
+      "blockhash": "7VEr76ZndoVC1zoSBaTmABhGVodPQDBsUyXSBZXk6tHJ",
+      "block_time": 1793897125,
+      "block_height": 443797579,
+      "leader_identity": "GZ4U21pYmFkCk6ZNTHRzfVEZZXauyZLKDmuuuKGwvp5H",
+      "client_version": "26.10.6",
+      "client_family": "Firedancer / Frankendancer (26.10.6)",
+      "total_transactions": 665,
+      "vote_transactions": 0,
+      "non_vote_transactions": 665,
+      "jito_tip_touching_transactions": 21,
+      "scheduler_evaluated_transactions": 644,
+      "metrics": {
+        "spearman_rho_index_vs_descending_fee_per_cost": 0.1803,
+        "spearman_rho_index_vs_descending_total_fee": 0.0054,
+        "spearman_rho_index_vs_descending_cu_price": 0.0083,
+        "q1_earliest_median_fee_lamports": 5226.0,
+        "q4_latest_median_fee_lamports": 5196.0,
+        "q1_earliest_median_fee_per_cost": 1.0724,
+        "q4_latest_median_fee_per_cost": 0.4808,
+        "same_writelock_pairs_evaluated": 633,
+        "same_writelock_priority_monotonicity_rate": 0.5008
+      },
+      "verifiable_sample_signatures": {
+        "first_10_non_vote": [
+          {
+            "index": 0,
+            "signature": "2auacA6GUMDU1STBDGysiDEh1RPx8DxyJyceP6YjtwubcAQyqSd82Bq6NyhZJQTESTmbxBTaG6V1QMDPmMeZNyD8",
+            "version": "1",
+            "fee_lamports": 5000,
+            "cost_units": 73828,
+            "cu_consumed": 66813,
+            "cu_price_micro_lamports": 0,
+            "fee_per_cost_unit": 0.0677
+          },
+          {
+            "index": 1,
+            "signature": "sRwJhTrnFuJPpZhjZ78exLVq6rKDzQy93veGdZW63WkgS72AUc9BVDEBBujzA6NwFXhbQS18FZ42Ufo2B84uCyW",
+            "version": "1",
+            "fee_lamports": 10000,
+            "cost_units": 1028,
+            "cu_consumed": 0,
+            "cu_price_micro_lamports": 0,
+            "fee_per_cost_unit": 9.7276
+          },
+          {
+            "index": 2,
+            "signature": "3mG7x9jyLnGDkeJU6yRSeiuPdz62d8ECDYYqbbLhCWJaRPUWPakTFuHr1ZobPgd2BzrUhuMFm8wujfSPShpDo16V",
+            "version": "1",
+            "fee_lamports": 10000,
+            "cost_units": 1028,
+            "cu_consumed": 0,
+            "cu_price_micro_lamports": 0,
+            "fee_per_cost_unit": 9.7276
+          },
+          {
+            "index": 3,
+            "signature": "2Ghv3QzGGTLPHdAfwCzDNtV7yTHUaQAfxpVvTiTUAdZ7WpzLHWQ93jcE7ipRreCT6ptWWJwPz5zHWs3c2zmxbjhC",
+            "version": "1",
+            "fee_lamports": 10000,
+            "cost_units": 1028,
+            "cu_consumed": 0,
+            "cu_price_micro_lamports": 0,
+            "fee_per_cost_unit": 9.7276
+          },
+          {
+            "index": 4,
+            "signature": "ADqoFkFjttfxP3C8dgszy2HFAPfZXFtNYxaQEBdoNwU3LHkKan7H6MGACVnmRqsPE7JoYQB294vA1FqVKUgWCKD",
+            "version": "1",
+            "fee_lamports": 10000,
+            "cost_units": 1028,
+            "cu_consumed": 0,
+            "cu_price_micro_lamports": 0,
+            "fee_per_cost_unit": 9.7276
+          },
+          {
+            "index": 5,
+            "signature": "4yvHzaBvFEuFpMvHSUVn2nyy6jNQSmcExUB9z9GkdzboQtiiCvUofJV1Sf7MEXVMXq21fVMifap16jG9zkqXxSk8",
+            "version": "0",
+            "fee_lamports": 5527,
+            "cost_units": 38270,
+            "cu_consumed": 30314,
+            "cu_price_micro_lamports": 3764,
+            "fee_per_cost_unit": 0.1444
+          },
+          {
+            "index": 6,
+            "signature": "5fNR27PGkjbFrfaaUTXpYi1K4UQxaqahexrgLC2FC3EoD7PQjUixVafFWLADmJjxST2q18wivhUKC4DibVTBTrra",
+            "version": "1",
+            "fee_lamports": 15000,
+            "cost_units": 1028,
+            "cu_consumed": 0,
+            "cu_price_micro_lamports": 0,
+            "fee_per_cost_unit": 14.5914
+          },
+          {
+            "index": 7,
+            "signature": "3SDYtbqi4VsSeVuLmSAQeGyswuLithX8gZ2MAY3r69sn5NakMp9p4hfNg4VuByAYiVEp7eL2hptPRMmftWvkA5sh",
+            "version": "0",
+            "fee_lamports": 5527,
+            "cost_units": 35603,
+            "cu_consumed": 27626,
+            "cu_price_micro_lamports": 3764,
+            "fee_per_cost_unit": 0.1552
+          },
+          {
+            "index": 8,
+            "signature": "34R9zKU8LMoT6skvkx9gJmrfiu9Bd8eQmj5jvURH2YsebnasXNyDjxhsYPofLBUBeoQY739VcArbAQK1G5m6KfVy",
+            "version": "1",
+            "fee_lamports": 15000,
+            "cost_units": 1028,
+            "cu_consumed": 0,
+            "cu_price_micro_lamports": 0,
+            "fee_per_cost_unit": 14.5914
+          },
+          {
+            "index": 9,
+            "signature": "fbdNmM3gTALMaZfBVq3xAeaZTKnwRayWGgsEaPkHwhcxpj1KbQLjCND7zVM3PrqpETMZmvpVTtC1mxjqqN7y2ot",
+            "version": "0",
+            "fee_lamports": 15000,
+            "cost_units": 61373,
+            "cu_consumed": 53841,
+            "cu_price_micro_lamports": 109835,
+            "fee_per_cost_unit": 0.2444
+          }
+        ],
+        "last_10_non_vote": [
+          {
+            "index": 655,
+            "signature": "3gShJey49rfiiyBN873wE7yeqnnKt11ZBMT7dGn2Ln8BRr1QrMv9zPYCF34fqvxHmZAxJ4u1M1GtwNkC5MNo8pUq",
+            "version": "1",
+            "fee_lamports": 5051,
+            "cost_units": 1747,
+            "cu_consumed": 87,
+            "cu_price_micro_lamports": 443478,
+            "fee_per_cost_unit": 2.8912
+          },
+          {
+            "index": 656,
+            "signature": "23TNkb3SM5Zv3sXUbMSJaM28ryiPKaB7fLjBSsBKAPFFQnUjteF9zZ15Zew7w2KkukTY5UPGc8dihfVAs6o9RVDR",
+            "version": "0",
+            "fee_lamports": 5410,
+            "cost_units": 39432,
+            "cu_consumed": 35975,
+            "cu_price_micro_lamports": 510,
+            "fee_per_cost_unit": 0.1372
+          },
+          {
+            "index": 657,
+            "signature": "3EE85HzaDZi2eKkancnmFWrqc6TiiBPhijsXVNUZsBGLpvmyiDArYmaWUcKT8ArqJErd22Zack9weh3dNwWdJ6db",
+            "version": "0",
+            "fee_lamports": 5800,
+            "cost_units": 1856,
+            "cu_consumed": 486,
+            "cu_price_micro_lamports": 1632653,
+            "fee_per_cost_unit": 3.125
+          },
+          {
+            "index": 658,
+            "signature": "4xGtDnQrchhbU4Lu1gL25WMBjQjhDCWV1pn85ZryMxaStd8jut2ZndmS5Hk1iAqT9a84MYbYVMRYJBbsoiD9f6hR",
+            "version": "legacy",
+            "fee_lamports": 5009,
+            "cost_units": 66972,
+            "cu_consumed": 61461,
+            "cu_price_micro_lamports": 109,
+            "fee_per_cost_unit": 0.0748
+          },
+          {
+            "index": 659,
+            "signature": "3YvtaeFFWqFMj5sfVDyTY27FKLpZ8dB6x3ecRAge219KaADkRAPgch3HT2wCMdACY4Cp5F5S3nteTXKj9fRvhuW",
+            "version": "1",
+            "fee_lamports": 5002,
+            "cost_units": 9184,
+            "cu_consumed": 651,
+            "cu_price_micro_lamports": 10,
+            "fee_per_cost_unit": 0.5446
+          },
+          {
+            "index": 660,
+            "signature": "3oCMrhhu95Y34wjNgUgmd25a3AJbToXSrg9FUmMX3bkQT7w4SyxTu3w1gfietySKZg5zk981EZ8KdBuJMHCj2HhH",
+            "version": "1",
+            "fee_lamports": 5387,
+            "cost_units": 2012,
+            "cu_consumed": 193,
+            "cu_price_micro_lamports": 2005181,
+            "fee_per_cost_unit": 2.6774
+          },
+          {
+            "index": 661,
+            "signature": "4haGQM3K5zVdeUdgy8p1Wvpe4DtDrPxgRDDtSwaA1m9X4PPeCAwX8WFuhmCmtKL59SWgFuNdMoiaQrxfUvdXmaiP",
+            "version": "0",
+            "fee_lamports": 5250,
+            "cost_units": 1850,
+            "cu_consumed": 480,
+            "cu_price_micro_lamports": 510204,
+            "fee_per_cost_unit": 2.8378
+          },
+          {
+            "index": 662,
+            "signature": "2NinoidtHzhzcR34Tmjf7h9xwakj7XbkvbAUvHqeAeFAT9d5MYsvp3WWg6vua7uKSqmk2Z8t8ZqoUNidYcxxyUG7",
+            "version": "0",
+            "fee_lamports": 5301,
+            "cost_units": 123336,
+            "cu_consumed": 106528,
+            "cu_price_micro_lamports": 824,
+            "fee_per_cost_unit": 0.043
+          },
+          {
+            "index": 663,
+            "signature": "5m4f4yT4WRi7FKDkyGdY7KCnPqcihD5yo6Er11hHVt97cjWkn7DwBp6CC1xQWCj1DZHKX9xttR1CxEDQqeAtcNeo",
+            "version": "legacy",
+            "fee_lamports": 5000,
+            "cost_units": 1881,
+            "cu_consumed": 226,
+            "cu_price_micro_lamports": 0,
+            "fee_per_cost_unit": 2.6582
+          },
+          {
+            "index": 664,
+            "signature": "38hwkgZPnMrvMQNhJhrjXJBpuZWcAoPXJAULyWmRc3Fep8rkSbP6jKZNoshE7F8mf3aPVvtQPxDuUqrtbfJVQ1Vz",
+            "version": "1",
+            "fee_lamports": 5067,
+            "cost_units": 68712,
+            "cu_consumed": 60567,
+            "cu_price_micro_lamports": 507,
+            "fee_per_cost_unit": 0.0737
+          }
+        ]
+      }
+    },
+    {
+      "slot": 465779183,
+      "blockhash": "G6proKzjGUtydDtSN2JunXgRZgpp85keKRRZppTeMPMJ",
+      "block_time": 1793897453,
+      "block_height": 443799107,
+      "leader_identity": "zeroT6PTAEjipvZuACTh1mbGCqTHgA6i1ped9DcuidX",
+      "client_version": "26.10.5",
+      "client_family": "Firedancer / Frankendancer (26.10.5)",
+      "total_transactions": 554,
+      "vote_transactions": 0,
+      "non_vote_transactions": 554,
+      "jito_tip_touching_transactions": 16,
+      "scheduler_evaluated_transactions": 538,
+      "metrics": {
+        "spearman_rho_index_vs_descending_fee_per_cost": 0.0154,
+        "spearman_rho_index_vs_descending_total_fee": 0.0715,
+        "spearman_rho_index_vs_descending_cu_price": -0.0336,
+        "q1_earliest_median_fee_lamports": 5324.0,
+        "q4_latest_median_fee_lamports": 5102.0,
+        "q1_earliest_median_fee_per_cost": 2.3529,
+        "q4_latest_median_fee_per_cost": 1.9391,
+        "same_writelock_pairs_evaluated": 533,
+        "same_writelock_priority_monotonicity_rate": 0.5403
+      },
+      "verifiable_sample_signatures": {
+        "first_10_non_vote": [
+          {
+            "index": 0,
+            "signature": "w2yRMsQc1f2wwW7tyWafkhTTvbDBkWY6uViD7trquKNMh2GEjT5BJ8gdfyiZXKm2JJHt37hGSugMsjc4ezmaet4",
+            "version": "1",
+            "fee_lamports": 40479,
+            "cost_units": 1661,
+            "cu_consumed": 226,
+            "cu_price_micro_lamports": 128547101,
+            "fee_per_cost_unit": 24.3703
+          },
+          {
+            "index": 1,
+            "signature": "5VyjtyaMezfhAqoYR5cgKhEAW8V16cuXFzLHo37k2Ek4YtAhLGSQoqcqf3zNR8AioPGBMVUsx2UdKCfuoPHWrQpg",
+            "version": "1",
+            "fee_lamports": 5324,
+            "cost_units": 1360,
+            "cu_consumed": 24,
+            "cu_price_micro_lamports": 13500000,
+            "fee_per_cost_unit": 3.9147
+          },
+          {
+            "index": 2,
+            "signature": "2jYyyJpKcMoLSWFqq5kEDW3QYa3subUSd2XWAmuf9uTtVMdSq4uPwvLpHE142za88myYAvtPNur3bb5d4AYwcoof",
+            "version": "1",
+            "fee_lamports": 5324,
+            "cost_units": 1360,
+            "cu_consumed": 24,
+            "cu_price_micro_lamports": 13500000,
+            "fee_per_cost_unit": 3.9147
+          },
+          {
+            "index": 3,
+            "signature": "28fgv6HZ6bWvLYWs4SGi2V3XCLq9PuZTgw8nGk5Qdi8RQzKH6N6ekXBFtGfn5Uyp1u74cbsTCTQ3qFTHFuhw54op",
+            "version": "1",
+            "fee_lamports": 5324,
+            "cost_units": 1360,
+            "cu_consumed": 24,
+            "cu_price_micro_lamports": 13500000,
+            "fee_per_cost_unit": 3.9147
+          },
+          {
+            "index": 4,
+            "signature": "PnQ9vShvqr28vSrCu6ytr6nGaJfzzAtJBYWfcLuGcVHsgYT3cjXVmQ3ZPtAD5iRTsL2qmBf7JGdSz438SxsWWYh",
+            "version": "legacy",
+            "fee_lamports": 12380,
+            "cost_units": 38641,
+            "cu_consumed": 36200,
+            "cu_price_micro_lamports": 55000,
+            "fee_per_cost_unit": 0.3204
+          },
+          {
+            "index": 5,
+            "signature": "2rAPiGde2BCyGR4xKpDPaPZwWoFZaAButUcfkray1zavdtyPpv7yzfB9wrC9a7uhY83cERuq3R6EDjc12aZomqfq",
+            "version": "1",
+            "fee_lamports": 5324,
+            "cost_units": 1360,
+            "cu_consumed": 24,
+            "cu_price_micro_lamports": 13500000,
+            "fee_per_cost_unit": 3.9147
+          },
+          {
+            "index": 6,
+            "signature": "2YyexNNeZ14Dc9JpRJMx6jAW7ieyXXTcyYXEZPvQ9Ny4qUnU2kukamELCePkCHGuJSpdKv1kcKMLsx6dtpDBkWSt",
+            "version": "1",
+            "fee_lamports": 5001,
+            "cost_units": 2579,
+            "cu_consumed": 357,
+            "cu_price_micro_lamports": 1666,
+            "fee_per_cost_unit": 1.9391
+          },
+          {
+            "index": 7,
+            "signature": "3BrBDqfX8kKYe7yNsaneJ1xqrN1TqUuqwpf3p9WNvgKh3gJtrzesPjrnCdEACqD876NKmsdGd4r2JR2RpMNpARax",
+            "version": "1",
+            "fee_lamports": 5000,
+            "cost_units": 3720,
+            "cu_consumed": 866,
+            "cu_price_micro_lamports": 0,
+            "fee_per_cost_unit": 1.3441
+          },
+          {
+            "index": 8,
+            "signature": "5ALCu3dsRwUpu4dhVfjnG4GxkhBNWpuHAPtgYQBf8sKw6V4WpZ7A7ZwJoS9kY2SVXP9q6tyyCme4WdAN5b1P6dL3",
+            "version": "1",
+            "fee_lamports": 6774,
+            "cost_units": 1579,
+            "cu_consumed": 195,
+            "cu_price_micro_lamports": 7211382,
+            "fee_per_cost_unit": 4.2901
+          },
+          {
+            "index": 9,
+            "signature": "4PiBh5HY4aDR69iJrof2eGapG3ZL2bxvHpUF3GnTJCoikqqadErfe2XsU1QheRhc4aSMsq1t7Nbz2QL48q67ZUw5",
+            "version": "0",
+            "fee_lamports": 10001,
+            "cost_units": 2783,
+            "cu_consumed": 405,
+            "cu_price_micro_lamports": 1,
+            "fee_per_cost_unit": 3.5936
+          }
+        ],
+        "last_10_non_vote": [
+          {
+            "index": 544,
+            "signature": "4NP6WfrUkioB9ZRKyNRMG76k1XEa2nfruCQ5TdGibzhnX15fTrTHuRKDjZSVkJGkQ3md3sM8uniZBvEXbujGk99m",
+            "version": "legacy",
+            "fee_lamports": 5000,
+            "cost_units": 115146,
+            "cu_consumed": 107931,
+            "cu_price_micro_lamports": 0,
+            "fee_per_cost_unit": 0.0434
+          },
+          {
+            "index": 545,
+            "signature": "5pmTDJ1J7cUFNPwA1BKzkGMpF6XwKnWSSmpNF4zR8tB2TuVgKVpVd8q4w5WDuEPwygVticnQngwZtRZhnqb8hQZW",
+            "version": "1",
+            "fee_lamports": 5000,
+            "cost_units": 1547,
+            "cu_consumed": 31,
+            "cu_price_micro_lamports": 0,
+            "fee_per_cost_unit": 3.2321
+          },
+          {
+            "index": 546,
+            "signature": "3CQyLwKxV5AWhgDo7JYiWauyVCtkbkK562A7YTCF1RAVDpp7fbDLqeXuGsSDZBXEbmUrUPLEFgH9Ws2CEEU4GhFE",
+            "version": "1",
+            "fee_lamports": 15000,
+            "cost_units": 195880,
+            "cu_consumed": 187317,
+            "cu_price_micro_lamports": 15267,
+            "fee_per_cost_unit": 0.0766
+          },
+          {
+            "index": 547,
+            "signature": "2X2KAiRAGw6JnsD4Bigt1KKsUGtFYV6q3xp4LECM3GsfRZ1HBdSA5wNaAD4VGuPDNtqNFd69s1Nq2mX7PMvDjt7F",
+            "version": "0",
+            "fee_lamports": 5000,
+            "cost_units": 94492,
+            "cu_consumed": 87877,
+            "cu_price_micro_lamports": 0,
+            "fee_per_cost_unit": 0.0529
+          },
+          {
+            "index": 548,
+            "signature": "4AfrmmnCgmYJQggDUWz3dwsNs2i7p5SDiEA3Srf9YJhreiyDJr33zvQKMpFMRB281RZxLLXW2sWwiFk48xduZoCD",
+            "version": "1",
+            "fee_lamports": 7000,
+            "cost_units": 68729,
+            "cu_consumed": 62075,
+            "cu_price_micro_lamports": 24215,
+            "fee_per_cost_unit": 0.1018
+          },
+          {
+            "index": 549,
+            "signature": "91GK6r3PUC1JaTu3RL35aBGN381xe1wGHuGE9iSHh9C3Ft6Y5vsHencYwyR1kPMPJJ5Ln5MFsQ4W7uZGnJW2bJN",
+            "version": "1",
+            "fee_lamports": 5217,
+            "cost_units": 12553,
+            "cu_consumed": 4589,
+            "cu_price_micro_lamports": 1285,
+            "fee_per_cost_unit": 0.4156
+          },
+          {
+            "index": 550,
+            "signature": "4n1TTZpJTj9mApjaHnfMEqouQY8EBxzorS7YYr95e8jmT52hxLB4P8Md8dFF677Kd36EVWfUdi4THW4sPUmZNKcB",
+            "version": "1",
+            "fee_lamports": 10000,
+            "cost_units": 176167,
+            "cu_consumed": 161978,
+            "cu_price_micro_lamports": 23347,
+            "fee_per_cost_unit": 0.0568
+          },
+          {
+            "index": 551,
+            "signature": "5KqSRFnaD4vK7enXrYUAGACFvEiReUtNBw9LUsK5MsW8amogga2ng7VqYUJXn63jqAxFg1BXyGoU8PbxL7GshC4M",
+            "version": "1",
+            "fee_lamports": 5087,
+            "cost_units": 1547,
+            "cu_consumed": 31,
+            "cu_price_micro_lamports": 2023255,
+            "fee_per_cost_unit": 3.2883
+          },
+          {
+            "index": 552,
+            "signature": "hxR39EuRpTPHHAbcSRW1D4XcXem85k4VEPfkupVCHad4SuvpMotUkJ8CkGxVQFBpW1w16g4bX8Ntzj5pjchxwii",
+            "version": "1",
+            "fee_lamports": 5324,
+            "cost_units": 1360,
+            "cu_consumed": 24,
+            "cu_price_micro_lamports": 13500000,
+            "fee_per_cost_unit": 3.9147
+          },
+          {
+            "index": 553,
+            "signature": "UXJ6t3y76jBtdPiag6Aj18FBauNghnodAYQJyn1W2K2vvXLYCrMGo528ZEPd8tte1DDmcDDH1o3pCkv7u8ciaLP",
+            "version": "1",
+            "fee_lamports": 5324,
+            "cost_units": 1360,
+            "cu_consumed": 24,
+            "cu_price_micro_lamports": 13500000,
+            "fee_per_cost_unit": 3.9147
+          }
+        ]
+      }
+    },
+    {
+      "slot": 465778775,
+      "blockhash": "DT97sWMHBtqRAyDzjebgPEZhz2PLwNVy8LGX4Xd3Qo7g",
+      "block_time": 1793897365,
+      "block_height": 443798699,
+      "leader_identity": "FBbqKvwLfKGZrKrfSbPJz4ymQ7zMarhRyZtu1RBkSe89",
+      "client_version": "0.1.1",
+      "client_family": "Firedancer / Frankendancer (0.1.1)",
+      "total_transactions": 500,
+      "vote_transactions": 0,
+      "non_vote_transactions": 500,
+      "jito_tip_touching_transactions": 35,
+      "scheduler_evaluated_transactions": 465,
+      "metrics": {
+        "spearman_rho_index_vs_descending_fee_per_cost": 0.1877,
+        "spearman_rho_index_vs_descending_total_fee": -0.0504,
+        "spearman_rho_index_vs_descending_cu_price": 0.0447,
+        "q1_earliest_median_fee_lamports": 5261.0,
+        "q4_latest_median_fee_lamports": 5300.0,
+        "q1_earliest_median_fee_per_cost": 0.9492,
+        "q4_latest_median_fee_per_cost": 0.4094,
+        "same_writelock_pairs_evaluated": 491,
+        "same_writelock_priority_monotonicity_rate": 0.5051
+      },
+      "verifiable_sample_signatures": {
+        "first_10_non_vote": [
+          {
+            "index": 0,
+            "signature": "5NjfvdrHfjuzL3BRFkVY2ggmi1c5bdeMNtDZN5ZD3g7eyqraZRbs9ExZv6tgWMrWpYWsF5t2EVZRBaBC4VWoN9mp",
+            "version": "1",
+            "fee_lamports": 5324,
+            "cost_units": 1360,
+            "cu_consumed": 24,
+            "cu_price_micro_lamports": 13500000,
+            "fee_per_cost_unit": 3.9147
+          },
+          {
+            "index": 1,
+            "signature": "bwxUc7r3GBsJfhPhwSxeEftZo151piFUpCLcVwYzbRjgY1SKc1S9GYcQ6igPSKsaDGw2ApJvAyXrxHW5iAAxSBy",
+            "version": "1",
+            "fee_lamports": 410000,
+            "cost_units": 172058,
+            "cu_consumed": 160935,
+            "cu_price_micro_lamports": 1332325,
+            "fee_per_cost_unit": 2.3829
+          },
+          {
+            "index": 2,
+            "signature": "2o2u3RWKUoU2rcVakLN73ABXa7Q7qP1hiPof7dcXjcPYyiRpHyDZvjhRxRW58cKUBGxPTbP8PcUoMYvNf8rTi7kE",
+            "version": "0",
+            "fee_lamports": 5500,
+            "cost_units": 1784,
+            "cu_consumed": 450,
+            "cu_price_micro_lamports": 1000000,
+            "fee_per_cost_unit": 3.083
+          },
+          {
+            "index": 3,
+            "signature": "3HfZcvWKH883wk9xHtcZd5nVeCkpMMfZvLhvj7a5cHq8QEVUe2CkoKwu8S3wZ5BGvKkqK8TU3GF4tC4xxiNwGLSQ",
+            "version": "legacy",
+            "fee_lamports": 10800,
+            "cost_units": 11440,
+            "cu_consumed": 5344,
+            "cu_price_micro_lamports": 77310,
+            "fee_per_cost_unit": 0.9441
+          },
+          {
+            "index": 4,
+            "signature": "DQVMYWehjHzXATB7P2Z6RdMja5Fep7pqLFYk8frU56FnU4Ek1nnwHWiwhs3pr5KRJ2sYw5fTDf7Za7KxoY8PEc1",
+            "version": "1",
+            "fee_lamports": 7120,
+            "cost_units": 7516,
+            "cu_consumed": 801,
+            "cu_price_micro_lamports": 42009,
+            "fee_per_cost_unit": 0.9473
+          },
+          {
+            "index": 5,
+            "signature": "4EazBxsK6VtaodAwkPFr4zVUU5RUJCn9VkaHX5eLXfyo4EkSAYrcpHdveQzUHmLdczcRxbkXTcxLPTan1VmtbiB6",
+            "version": "0",
+            "fee_lamports": 8450,
+            "cost_units": 63215,
+            "cu_consumed": 55664,
+            "cu_price_micro_lamports": 30000,
+            "fee_per_cost_unit": 0.1337
+          },
+          {
+            "index": 6,
+            "signature": "5zJPKvqSyAYqxqXx46qKVq6qopVNiigQXYer2zZUMobG1NLisnj3CBfhiTxYdRUeaZLYX6W7QCjjyu5GUjY3tfvx",
+            "version": "1",
+            "fee_lamports": 5700,
+            "cost_units": 10628,
+            "cu_consumed": 3396,
+            "cu_price_micro_lamports": 5490,
+            "fee_per_cost_unit": 0.5363
+          },
+          {
+            "index": 7,
+            "signature": "4gtcixciiD2JmiDaKkfxHrmXKh9Rcf4EbByE2DtaawtShQTvLQQRjooVSPatvxmCjPU6n9R2swygvqv5JkbusrCS",
+            "version": "0",
+            "fee_lamports": 10000,
+            "cost_units": 2779,
+            "cu_consumed": 105,
+            "cu_price_micro_lamports": 0,
+            "fee_per_cost_unit": 3.5984
+          },
+          {
+            "index": 8,
+            "signature": "5QW7DDPQgdW6D7S8Pau5iQMidES5eNVJddoYi6tioPjxxsNEJwDjcSmHJWF9UCBDiQawyhmHjh7CiHDDb5HwiPve",
+            "version": "1",
+            "fee_lamports": 5047,
+            "cost_units": 14098,
+            "cu_consumed": 7445,
+            "cu_price_micro_lamports": 505,
+            "fee_per_cost_unit": 0.358
+          },
+          {
+            "index": 9,
+            "signature": "562CwkmokJJaQ3vNP2E7fBDGWX6x6hp7DSm3uNkbGL3TMi3qCWjRGG1njCKJTWPU19nwAsuTFYMBmkye6783qLsF",
+            "version": "1",
+            "fee_lamports": 5110,
+            "cost_units": 82427,
+            "cu_consumed": 77341,
+            "cu_price_micro_lamports": 1000,
+            "fee_per_cost_unit": 0.062
+          }
+        ],
+        "last_10_non_vote": [
+          {
+            "index": 490,
+            "signature": "54mkdFvzBKGdxoP3p6EteZHfHgGUFGNH55yEFov99xuJ2K45RdaAHVCMfKU2UQi4u8m9q6WpRLHSYrmTJb6xMu9v",
+            "version": "1",
+            "fee_lamports": 5001,
+            "cost_units": 155696,
+            "cu_consumed": 146146,
+            "cu_price_micro_lamports": 5,
+            "fee_per_cost_unit": 0.0321
+          },
+          {
+            "index": 491,
+            "signature": "3QsHBn3DnbMiyTFz87T4BtCrrA8EMVEpUtY3tA7rtFjp4F2UHZALZ2RPAxmbXHxf4w3o31JchRK9sMBBua5tDJpv",
+            "version": "0",
+            "fee_lamports": 5000,
+            "cost_units": 68588,
+            "cu_consumed": 61887,
+            "cu_price_micro_lamports": 0,
+            "fee_per_cost_unit": 0.0729
+          },
+          {
+            "index": 492,
+            "signature": "XB3ysfQWvK3heoyqEBsCbjQfF2WGSFEHqh8ULCFAhX4wyjNCtHTQ8RumSLGjhBY8Z9WLnU7Dn6nv5fGREdQaWjW",
+            "version": "1",
+            "fee_lamports": 6087,
+            "cost_units": 50215,
+            "cu_consumed": 43782,
+            "cu_price_micro_lamports": 17063,
+            "fee_per_cost_unit": 0.1212
+          },
+          {
+            "index": 493,
+            "signature": "5k7hodMhhBP9AMqcLxDzMKWhCYANTuxBSJhaUuywZC4UNiYkEtViYq5xBTDPCJu5gD1GyfDCC6HjAF8dYUkwCmey",
+            "version": "1",
+            "fee_lamports": 5001,
+            "cost_units": 2579,
+            "cu_consumed": 357,
+            "cu_price_micro_lamports": 1666,
+            "fee_per_cost_unit": 1.9391
+          },
+          {
+            "index": 494,
+            "signature": "maJqQx1gAvXSgYBUkphkKNqddoLabeiuZHF3j2PcFi6tffzaYKgCqfxMAyTDc8u5bbULhFiz8SDKCRZJSd6CtCU",
+            "version": "1",
+            "fee_lamports": 5046,
+            "cost_units": 1507,
+            "cu_consumed": 87,
+            "cu_price_micro_lamports": 505494,
+            "fee_per_cost_unit": 3.3484
+          },
+          {
+            "index": 495,
+            "signature": "avNtev6jmdbWwDdjRsxukX7yNTQZ48QronwwSThV34WQZ2dqPSY4ogEcrNu9kGCiMe9oNqANjdQFsK7fqQ5ZMjH",
+            "version": "0",
+            "fee_lamports": 5300,
+            "cost_units": 39536,
+            "cu_consumed": 32795,
+            "cu_price_micro_lamports": 3076,
+            "fee_per_cost_unit": 0.1341
+          },
+          {
+            "index": 496,
+            "signature": "jBxwiGHakHmARP3PLPFuJ3FNwYBeRQDa1j8JJ5b7o2UGqsTkMLWMZorTahzLoPxEh6BzTipxuqXcKQecgBCznWB",
+            "version": "1",
+            "fee_lamports": 7120,
+            "cost_units": 7516,
+            "cu_consumed": 801,
+            "cu_price_micro_lamports": 42009,
+            "fee_per_cost_unit": 0.9473
+          },
+          {
+            "index": 497,
+            "signature": "2TvM8oHnLeGDs1yUSLtnLdxSS1Bo4dq5q4JnSVc2mUbtBEt9HiTQGCkHtkUuYYJtucC7aTHWYYcnPneXWjoQh5v8",
+            "version": "0",
+            "fee_lamports": 5706,
+            "cost_units": 12709,
+            "cu_consumed": 9216,
+            "cu_price_micro_lamports": 20000,
+            "fee_per_cost_unit": 0.449
+          },
+          {
+            "index": 498,
+            "signature": "64YPQx1NThNqMkXwMCi2NqxkNQgm5fPSFHDLvv9itxrEWYZrbgpvuSWLYs3jzneVcXBH3MA5qpwM1qeCFQs7HTsq",
+            "version": "1",
+            "fee_lamports": 5657,
+            "cost_units": 140731,
+            "cu_consumed": 131564,
+            "cu_price_micro_lamports": 4502,
+            "fee_per_cost_unit": 0.0402
+          },
+          {
+            "index": 499,
+            "signature": "65SndyGqKENBDySEvk8swqb5tvXpu55gZ9HioiC3Rbpsj7nsT1GeScNUVfTNAB2Bk5cBeQdazE63wp6FM1HfoYPf",
+            "version": "0",
+            "fee_lamports": 5000,
+            "cost_units": 42220,
+            "cu_consumed": 38764,
+            "cu_price_micro_lamports": 0,
+            "fee_per_cost_unit": 0.1184
+          }
+        ]
+      }
+    },
+    {
+      "slot": 465779299,
+      "blockhash": "2AAS9xqpDYe9WAme4MsyZPbhFFDhQJFGzXAj8QtGKAR3",
+      "block_time": 1793897478,
+      "block_height": 443799219,
+      "leader_identity": "8gDfqHXZ5ektqQQrLrCGtSzYRwkWQrm3ANnAvQCt2LoM",
+      "client_version": "4.3.2",
+      "client_family": "Agave / Jito-Solana 4.3 (4.3.2)",
+      "total_transactions": 364,
+      "vote_transactions": 0,
+      "non_vote_transactions": 364,
+      "jito_tip_touching_transactions": 29,
+      "scheduler_evaluated_transactions": 335,
+      "metrics": {
+        "spearman_rho_index_vs_descending_fee_per_cost": 0.0512,
+        "spearman_rho_index_vs_descending_total_fee": 0.0435,
+        "spearman_rho_index_vs_descending_cu_price": 0.1078,
+        "q1_earliest_median_fee_lamports": 5324.0,
+        "q4_latest_median_fee_lamports": 5324.0,
+        "q1_earliest_median_fee_per_cost": 1.3441,
+        "q4_latest_median_fee_per_cost": 0.695,
+        "same_writelock_pairs_evaluated": 284,
+        "same_writelock_priority_monotonicity_rate": 0.5387
+      },
+      "verifiable_sample_signatures": {
+        "first_10_non_vote": [
+          {
+            "index": 0,
+            "signature": "4eTTth3bA2vwE8dEsRBu6BcgbbEBr4Ns8BHx9kvNCZ6Z6VKiVnRuvQx7EBTPvivD5o1kWCe7crhcL56x8x7LAZgZ",
+            "version": "1",
+            "fee_lamports": 5324,
+            "cost_units": 1360,
+            "cu_consumed": 24,
+            "cu_price_micro_lamports": 13500000,
+            "fee_per_cost_unit": 3.9147
+          },
+          {
+            "index": 1,
+            "signature": "3Z5W4dEUC8nAHHAVmUymehRwjaLUdvBEw4zXCFmfPZnBAafBiYpSccjjt2VqX419DfmLpHxKWQsL136vboeDLqDs",
+            "version": "legacy",
+            "fee_lamports": 5011,
+            "cost_units": 3732,
+            "cu_consumed": 2363,
+            "cu_price_micro_lamports": 2200,
+            "fee_per_cost_unit": 1.3427
+          },
+          {
+            "index": 2,
+            "signature": "51RxphBD51JmGRL1ho15ybMs5uXXtBkmtF4ZARXqr5bNwpBNyCLi5vUnT1tP8xd1wLvBLdmb3NjTpYr61d8kWGUo",
+            "version": "0",
+            "fee_lamports": 6234,
+            "cost_units": 2672,
+            "cu_consumed": 1134,
+            "cu_price_micro_lamports": 1000000,
+            "fee_per_cost_unit": 2.3331
+          },
+          {
+            "index": 3,
+            "signature": "64j7LGwH6hevFCvEUh2z2m4NorSwWGUmASPDTUCWUh4NQJAaWyNzLP38jYUBdhraBr4qa1ri5BhQoEUQ6SWE9rhW",
+            "version": "0",
+            "fee_lamports": 5415,
+            "cost_units": 2073,
+            "cu_consumed": 410,
+            "cu_price_micro_lamports": 1000000,
+            "fee_per_cost_unit": 2.6122
+          },
+          {
+            "index": 4,
+            "signature": "4aZLLwxBscgmSnUxbCrrmPYqZRZdaa5LPtjSZcZpms2icrohjwhS5gKn9NNUb5D5qpnCY7hEzhon5RESnHpY517y",
+            "version": "0",
+            "fee_lamports": 5319,
+            "cost_units": 1660,
+            "cu_consumed": 319,
+            "cu_price_micro_lamports": 1000000,
+            "fee_per_cost_unit": 3.2042
+          },
+          {
+            "index": 5,
+            "signature": "3hDWxxDLf44q4Qx88GLaG6mhXvhCfkhtwGu6qJ4TzjX4bRxsR8w8318W3WJvRTSFj828NUzEg6YueoTQQf2g5kna",
+            "version": "1",
+            "fee_lamports": 5324,
+            "cost_units": 1360,
+            "cu_consumed": 24,
+            "cu_price_micro_lamports": 13500000,
+            "fee_per_cost_unit": 3.9147
+          },
+          {
+            "index": 6,
+            "signature": "4jNAE1EobUS4WL168kjv2Xj1A7E6oa8CaW6XkYKx8HkiWtjh4T8MAreGNHwzHhm7oZEKrrccW97XcA9NgLmRvraW",
+            "version": "1",
+            "fee_lamports": 6242,
+            "cost_units": 2754,
+            "cu_consumed": 1105,
+            "cu_price_micro_lamports": 1000000,
+            "fee_per_cost_unit": 2.2665
+          },
+          {
+            "index": 7,
+            "signature": "2hqtfcng8wLxggmNH2TKHSoxDpdi9wLDVgDSVK3piMDMsWk59F5a7yQXFnpiFnU2a83iHNi6k7uosAUst79rNBhr",
+            "version": "1",
+            "fee_lamports": 5627,
+            "cost_units": 2106,
+            "cu_consumed": 95,
+            "cu_price_micro_lamports": 1000000,
+            "fee_per_cost_unit": 2.6719
+          },
+          {
+            "index": 8,
+            "signature": "5g96uo1rnJhbXnTbXCapjQJU2cDCCXZCqhqiUBDAWpRVtYugbQKWgNMJbUAPsHQJQC3gcEx5N3VJETCm72VjBGm4",
+            "version": "0",
+            "fee_lamports": 5338,
+            "cost_units": 1989,
+            "cu_consumed": 338,
+            "cu_price_micro_lamports": 1000000,
+            "fee_per_cost_unit": 2.6838
+          },
+          {
+            "index": 9,
+            "signature": "41qjck53T6K57ZDyyDhkRpnnEkrVFjKsoR9U7vZK6UWwqLTowtXoGXSR9SWChCHvoT94bfMRFoMDMXy8NpAzcfSX",
+            "version": "legacy",
+            "fee_lamports": 80000,
+            "cost_units": 1784,
+            "cu_consumed": 450,
+            "cu_price_micro_lamports": 150000000,
+            "fee_per_cost_unit": 44.843
+          }
+        ],
+        "last_10_non_vote": [
+          {
+            "index": 353,
+            "signature": "4am6o3J9qG3qwvTwLeJ6S987oPsKeaaWib6PHfBWKHFCP1zToBwJGRTDdBNQn4izut55DBqJjsu3m6BRdzEGeVEE",
+            "version": "legacy",
+            "fee_lamports": 13250,
+            "cost_units": 46925,
+            "cu_consumed": 38980,
+            "cu_price_micro_lamports": 50000,
+            "fee_per_cost_unit": 0.2824
+          },
+          {
+            "index": 354,
+            "signature": "5VhzFx8HspSMBpaCTyyVNY1kTqp4XajaRqnH28FC2DJcnNrJ86m4FH9wVDZrKUkTMBzdzRxruibfegAT1BVAPDQU",
+            "version": "legacy",
+            "fee_lamports": 5032,
+            "cost_units": 10134,
+            "cu_consumed": 3179,
+            "cu_price_micro_lamports": 300,
+            "fee_per_cost_unit": 0.4965
+          },
+          {
+            "index": 355,
+            "signature": "M4fixrzjHX43ER8Ttp53aMLaCjBxaBhDuXNh8UsXHrbF6njjYSrHUBqrAAA4rUkckvZwtEumP4ckKE5DHEusmfG",
+            "version": "1",
+            "fee_lamports": 9000,
+            "cost_units": 98064,
+            "cu_consumed": 87267,
+            "cu_price_micro_lamports": 10000,
+            "fee_per_cost_unit": 0.0918
+          },
+          {
+            "index": 356,
+            "signature": "45fRJ7rNAQekpcV1KJNSMh4MpEpxxBQpTM16nboAMJuuUuSq3bN3tNQ44eZ9spY4X2L8KWCrH3iJDfSo8uf28WoY",
+            "version": "0",
+            "fee_lamports": 5000,
+            "cost_units": 93891,
+            "cu_consumed": 87278,
+            "cu_price_micro_lamports": 0,
+            "fee_per_cost_unit": 0.0533
+          },
+          {
+            "index": 357,
+            "signature": "4pjbYnGjF4zYovP5fRHgvamf8bC3bZYph6sVxoSJWoAeMGnbdqX4XM3MTkfMUfTgJXtg5b8L3aSFAaAF6Phho8sA",
+            "version": "1",
+            "fee_lamports": 9000,
+            "cost_units": 110532,
+            "cu_consumed": 99732,
+            "cu_price_micro_lamports": 10000,
+            "fee_per_cost_unit": 0.0814
+          },
+          {
+            "index": 358,
+            "signature": "4gfdtrtfADoX7gHoWCkELyuAjsZLnTPtCxExE6LeZhWRuXNRodMkgtM6qLbLEWGqq1VgNPec9cJSRabStDpvgK23",
+            "version": "0",
+            "fee_lamports": 5002,
+            "cost_units": 84674,
+            "cu_consumed": 79896,
+            "cu_price_micro_lamports": 10,
+            "fee_per_cost_unit": 0.0591
+          },
+          {
+            "index": 360,
+            "signature": "41zipWZh95eWcnGtG944iJcrLdvHbQhfHQVuV5bVPDUXRJLR5n3ngyd44KVsvec1MQvKb3Guc5xQnmcJhPUVRj25",
+            "version": "0",
+            "fee_lamports": 5000,
+            "cost_units": 39228,
+            "cu_consumed": 35772,
+            "cu_price_micro_lamports": 0,
+            "fee_per_cost_unit": 0.1275
+          },
+          {
+            "index": 361,
+            "signature": "NzgND5VzEJRLbMdZHMR8CD4273BsbuzsRAdwTifHowdcR1NwEqCngVPKW15WDeK3ThyKrW3x4xBwzJEXAqimVBV",
+            "version": "0",
+            "fee_lamports": 5000,
+            "cost_units": 39237,
+            "cu_consumed": 35781,
+            "cu_price_micro_lamports": 0,
+            "fee_per_cost_unit": 0.1274
+          },
+          {
+            "index": 362,
+            "signature": "66rBSsN2dowuGhnrYR3hbGxSdjXbuENBXY3GEm8P1fRgQwyJ4DMuMWznLKzNihRmExjZwKskMzSA7bNvt1LUtQDE",
+            "version": "0",
+            "fee_lamports": 5000,
+            "cost_units": 43865,
+            "cu_consumed": 40406,
+            "cu_price_micro_lamports": 0,
+            "fee_per_cost_unit": 0.114
+          },
+          {
+            "index": 363,
+            "signature": "42mHfEDAcHhZvNKBSsVTuUZbeWFLFkZmTqQWY4Q4V92f1ei4EgKReqtujDs8fzSRKR8MwZAvRUnJU6pE6hg981j5",
+            "version": "0",
+            "fee_lamports": 5000,
+            "cost_units": 43739,
+            "cu_consumed": 40283,
+            "cu_price_micro_lamports": 0,
+            "fee_per_cost_unit": 0.1143
+          }
+        ]
+      }
+    },
+    {
+      "slot": 465779983,
+      "blockhash": "4ueSgpBqdYXrPzS1zze8YvK73jeb3gGi3oxH6BCYwz5W",
+      "block_time": 1793897625,
+      "block_height": 443799903,
+      "leader_identity": "EXckihF3qmguH5znjhfzLvHsbk2E3nEW2DqNh4MMnDMm",
+      "client_version": "4.4.0",
+      "client_family": "Agave / Jito-Solana 4.4 (4.4.0)",
+      "total_transactions": 416,
+      "vote_transactions": 0,
+      "non_vote_transactions": 416,
+      "jito_tip_touching_transactions": 14,
+      "scheduler_evaluated_transactions": 402,
+      "metrics": {
+        "spearman_rho_index_vs_descending_fee_per_cost": 0.1057,
+        "spearman_rho_index_vs_descending_total_fee": -0.0491,
+        "spearman_rho_index_vs_descending_cu_price": 0.0206,
+        "q1_earliest_median_fee_lamports": 5040.0,
+        "q4_latest_median_fee_lamports": 5324.0,
+        "q1_earliest_median_fee_per_cost": 1.1006,
+        "q4_latest_median_fee_per_cost": 0.5873,
+        "same_writelock_pairs_evaluated": 391,
+        "same_writelock_priority_monotonicity_rate": 0.5064
+      },
+      "verifiable_sample_signatures": {
+        "first_10_non_vote": [
+          {
+            "index": 0,
+            "signature": "3YTC2a79uzBgeGU2CgASeV1CNFmVwJsfsKmesmx1vrdkFVtptQycXTSdtv3sMG7z1MXkUC3aMyAiv7v2gRX7EJJa",
+            "version": "legacy",
+            "fee_lamports": 6000,
+            "cost_units": 2609,
+            "cu_consumed": 947,
+            "cu_price_micro_lamports": 1000000,
+            "fee_per_cost_unit": 2.2997
+          },
+          {
+            "index": 1,
+            "signature": "WkQ3PZHSoZZ95BiD65ZhNB1rT179SRUrdUFATiJZkUoEDCDJE9nvQYvQo1QVw671dBZRPQQQPMJNjM8CeYSHXf2",
+            "version": "1",
+            "fee_lamports": 5000,
+            "cost_units": 4967,
+            "cu_consumed": 1480,
+            "cu_price_micro_lamports": 0,
+            "fee_per_cost_unit": 1.0066
+          },
+          {
+            "index": 2,
+            "signature": "43au9AXP1JMvHTNHsHyHLYckyt6h9edMjA8w1nQf6caDo3FnQFEdhBcmZixhoWPjytrqQgRy5Nid327aJkRxi4GR",
+            "version": "1",
+            "fee_lamports": 5035,
+            "cost_units": 1770,
+            "cu_consumed": 110,
+            "cu_price_micro_lamports": 304347,
+            "fee_per_cost_unit": 2.8446
+          },
+          {
+            "index": 3,
+            "signature": "3yLJM5R7iFtFUvu5KDHjdWm4ST1mh8wQb9dq8KqyCUstu93j3dmDrKe5Gqjhkv7oj4u6p4Ukuq8bpmsi5utasLMR",
+            "version": "1",
+            "fee_lamports": 5365,
+            "cost_units": 2072,
+            "cu_consumed": 64,
+            "cu_price_micro_lamports": 2874015,
+            "fee_per_cost_unit": 2.5893
+          },
+          {
+            "index": 4,
+            "signature": "3weZ8Xf4qGaJ5KmbRjwkJGZBJFv7ZvvqvVSnwuZRiqeLP3aVqMLHpjocKjpntriUvziWA27eP5sf4KU2cAJcTy3H",
+            "version": "1",
+            "fee_lamports": 5011,
+            "cost_units": 1592,
+            "cu_consumed": 96,
+            "cu_price_micro_lamports": 108910,
+            "fee_per_cost_unit": 3.1476
+          },
+          {
+            "index": 5,
+            "signature": "3wDqzWZ4cGXyGtHr5bpg5qk5Yh72bVWGr5zq3LRhGUodYnLNAtVuQJc6pniPCSFPaGqXANzZ6YmFN7FP9BJJp974",
+            "version": "legacy",
+            "fee_lamports": 5000,
+            "cost_units": 2125,
+            "cu_consumed": 768,
+            "cu_price_micro_lamports": 0,
+            "fee_per_cost_unit": 2.3529
+          },
+          {
+            "index": 6,
+            "signature": "5uqJh46TGKjWLVaFTfAax534u3ku4p95GPrFdujE46WrwUxZ8VWBdBBdkFVm8pKVm6i3FB28dSFkFWNKCqgpCNoR",
+            "version": "1",
+            "fee_lamports": 5008,
+            "cost_units": 1747,
+            "cu_consumed": 87,
+            "cu_price_micro_lamports": 69565,
+            "fee_per_cost_unit": 2.8666
+          },
+          {
+            "index": 7,
+            "signature": "2Ft7AR64Zhe5kT5a1Z7f75GuoM43qjCEXYi7B2RxBrT3LeAP7WnK5bi4GoMBPtCyDZ3UpJLQMRNA8fpWMi4t8nFS",
+            "version": "1",
+            "fee_lamports": 5000,
+            "cost_units": 2124,
+            "cu_consumed": 116,
+            "cu_price_micro_lamports": 0,
+            "fee_per_cost_unit": 2.354
+          },
+          {
+            "index": 8,
+            "signature": "54Rq2ABDfqn5AhTxb432awT4R1UwS79hRti1biQXnLiomTH5derZkyvRDYp8PMjwH925obk5cJchTXomnMpQAGdB",
+            "version": "1",
+            "fee_lamports": 5000,
+            "cost_units": 1747,
+            "cu_consumed": 87,
+            "cu_price_micro_lamports": 0,
+            "fee_per_cost_unit": 2.862
+          },
+          {
+            "index": 9,
+            "signature": "3ViHoiaogRQ67kYXW5atH7n4iyVQTzraeqJzpcvcRV2DRZ9taq9NVZP41BfoZiUAyCEtjpBgXa8QrS7nugi8SCtr",
+            "version": "legacy",
+            "fee_lamports": 5000,
+            "cost_units": 2125,
+            "cu_consumed": 768,
+            "cu_price_micro_lamports": 0,
+            "fee_per_cost_unit": 2.3529
+          }
+        ],
+        "last_10_non_vote": [
+          {
+            "index": 404,
+            "signature": "gkZ9pvNzo1CQceqHZszBjBJ5r78XLoYBxPmXs63ffceTri4bYxA9rAqpWRNJvxDjuUBbJF7ngkCoegLXhpCZ15Q",
+            "version": "1",
+            "fee_lamports": 5006,
+            "cost_units": 1747,
+            "cu_consumed": 87,
+            "cu_price_micro_lamports": 52173,
+            "fee_per_cost_unit": 2.8655
+          },
+          {
+            "index": 405,
+            "signature": "3QTjvQuAdCrdjJ7JgQxDjcwR6qEYXFn5uMGY8Wg8zyS9X2S7sa6BWanZUoTLZriDgcvGoHP3Cmw8xLT2gwqJJokL",
+            "version": "1",
+            "fee_lamports": 5324,
+            "cost_units": 1360,
+            "cu_consumed": 24,
+            "cu_price_micro_lamports": 13500000,
+            "fee_per_cost_unit": 3.9147
+          },
+          {
+            "index": 406,
+            "signature": "5L7jVgfKskxSGvchUwQV688mEcRgedcGHdNZvxetCuzLhnVm89JG6E7u1zgQbFkuQzDaMRg7HhRwi2GEKqyaAFaa",
+            "version": "1",
+            "fee_lamports": 5324,
+            "cost_units": 1360,
+            "cu_consumed": 24,
+            "cu_price_micro_lamports": 13500000,
+            "fee_per_cost_unit": 3.9147
+          },
+          {
+            "index": 408,
+            "signature": "4yACsHoNxHAeMSzvDUYd4JcTrDC59PFzERgn43eN1bGXHmjaqaXw5b7p748i7G1TB7Y6q1h4N79e1NQxS7hZbNyQ",
+            "version": "legacy",
+            "fee_lamports": 5000,
+            "cost_units": 231373,
+            "cu_consumed": 223490,
+            "cu_price_micro_lamports": 0,
+            "fee_per_cost_unit": 0.0216
+          },
+          {
+            "index": 409,
+            "signature": "5xdZnqcCK2an1zVJ2v5o2DBRu6XRxjNPXde3zBHYnsdYeKa8vo8ePDjCzozLyLRS93UpSMUUJev3r9J3zqrc2E8Z",
+            "version": "1",
+            "fee_lamports": 5001,
+            "cost_units": 2579,
+            "cu_consumed": 357,
+            "cu_price_micro_lamports": 1666,
+            "fee_per_cost_unit": 1.9391
+          },
+          {
+            "index": 410,
+            "signature": "2iRSwx3nBxmbGoccftX3jB9FYSLjj9mJ7bviTBT8qjGAQaPPqs3RGHqdSziGDz9GrroWZ5qnWAXk6eURhtTcefjw",
+            "version": "1",
+            "fee_lamports": 5737,
+            "cost_units": 9111,
+            "cu_consumed": 2422,
+            "cu_price_micro_lamports": 11594,
+            "fee_per_cost_unit": 0.6297
+          },
+          {
+            "index": 411,
+            "signature": "2Zxc4ND2G6rN4zt5P6EwyKxS9E8RMwv2y3vL4vv7cUJfxUXHx3581HfzQ7rJFbCAZu2fxz3RxpqLGi5NbNa6qNiN",
+            "version": "legacy",
+            "fee_lamports": 5000,
+            "cost_units": 237773,
+            "cu_consumed": 229890,
+            "cu_price_micro_lamports": 0,
+            "fee_per_cost_unit": 0.021
+          },
+          {
+            "index": 412,
+            "signature": "jaNaqJx16GbxTMUwiZ9UAA66cEpkzEpxJ5uoK621FXU3n9xM6fdRo8QgYuiJnXwfJjs7TJEmwxLWgWaHeZEMoFp",
+            "version": "legacy",
+            "fee_lamports": 5000,
+            "cost_units": 19705,
+            "cu_consumed": 17472,
+            "cu_price_micro_lamports": 0,
+            "fee_per_cost_unit": 0.2537
+          },
+          {
+            "index": 414,
+            "signature": "42pbNwKpy1FMVuLPxvTBzVvD9wdYvYqezEPCt52EzMoZvESv171DwXzxe9SiAaM6v8at2aZoDF7of8BSjhuddkjJ",
+            "version": "legacy",
+            "fee_lamports": 5030,
+            "cost_units": 117937,
+            "cu_consumed": 111020,
+            "cu_price_micro_lamports": 100,
+            "fee_per_cost_unit": 0.0426
+          },
+          {
+            "index": 415,
+            "signature": "2MKqSZ6GS3juAYcreGQ8yoeQK3sagWZmyHdu3TrBGNUUFqhcjnpk45dwZGYRDtB7HM49Mbevt4Mu8v2kHb8TJWX6",
+            "version": "legacy",
+            "fee_lamports": 5000,
+            "cost_units": 156378,
+            "cu_consumed": 149093,
+            "cu_price_micro_lamports": 0,
+            "fee_per_cost_unit": 0.032
+          }
+        ]
+      }
+    },
+    {
+      "slot": 465779363,
+      "blockhash": "4mRoZANjipgvWHKY537H1KijacL4MyZvGAdxYE3xKuw3",
+      "block_time": 1793897492,
+      "block_height": 443799283,
+      "leader_identity": "Lua1fxRRHCnjVAYdfGyv2GbUsRHGM2DN2wgpWuF2WSb",
+      "client_version": "4.4.0-rc.1",
+      "client_family": "Agave Pre-Release / Canary (4.4.0-rc.1)",
+      "total_transactions": 471,
+      "vote_transactions": 0,
+      "non_vote_transactions": 471,
+      "jito_tip_touching_transactions": 18,
+      "scheduler_evaluated_transactions": 453,
+      "metrics": {
+        "spearman_rho_index_vs_descending_fee_per_cost": 0.0092,
+        "spearman_rho_index_vs_descending_total_fee": -0.015,
+        "spearman_rho_index_vs_descending_cu_price": 0.0737,
+        "q1_earliest_median_fee_lamports": 5171.0,
+        "q4_latest_median_fee_lamports": 5324.0,
+        "q1_earliest_median_fee_per_cost": 0.682,
+        "q4_latest_median_fee_per_cost": 0.682,
+        "same_writelock_pairs_evaluated": 309,
+        "same_writelock_priority_monotonicity_rate": 0.5178
+      },
+      "verifiable_sample_signatures": {
+        "first_10_non_vote": [
+          {
+            "index": 0,
+            "signature": "2r3iXQAcHLPeSdNMyre9H9yPaCNvvwCHBR9Vq9jZhfLPeU6LpLck5FA7WdC2hNDssHroSTKTK9Q3h6v2ymt49wPW",
+            "version": "legacy",
+            "fee_lamports": 5011,
+            "cost_units": 3732,
+            "cu_consumed": 2363,
+            "cu_price_micro_lamports": 2200,
+            "fee_per_cost_unit": 1.3427
+          },
+          {
+            "index": 1,
+            "signature": "y8uXBwsjN79tXagqSxLc2iTHGq1Sxi13AGwHNtLSekd2SWbjYRNMGaR3A8bde27PaMRYuQ3mG7cGo2WiuiaiXrX",
+            "version": "0",
+            "fee_lamports": 5415,
+            "cost_units": 2073,
+            "cu_consumed": 410,
+            "cu_price_micro_lamports": 1000000,
+            "fee_per_cost_unit": 2.6122
+          },
+          {
+            "index": 2,
+            "signature": "4FuCzDS3iizgDbWx6FF71Rq2Zn2p4YfYsRiyN25N1BaCw5LzHSNkV3P4EvKzmUt2jFGQWhEW9sLgsycxLuz9qReg",
+            "version": "1",
+            "fee_lamports": 5324,
+            "cost_units": 1360,
+            "cu_consumed": 24,
+            "cu_price_micro_lamports": 13500000,
+            "fee_per_cost_unit": 3.9147
+          },
+          {
+            "index": 3,
+            "signature": "MS8LLMAQQEMx8LQLLEZkYBGRqu7YgVG89egJQxK83B8coLX4M8RAzbDcFSrsEsSX1TCsG8brFrAS9jteQ5vZqQ9",
+            "version": "1",
+            "fee_lamports": 5087,
+            "cost_units": 1559,
+            "cu_consumed": 43,
+            "cu_price_micro_lamports": 2023255,
+            "fee_per_cost_unit": 3.263
+          },
+          {
+            "index": 4,
+            "signature": "5xbmyJ5SVuSxTTS5BbxhAsRqtaBy6VNqh7u8dsKAGxZXJZcHo2nyimkVFFC9LC2tf1uwimXM3FbQJvvbUDFjXenL",
+            "version": "0",
+            "fee_lamports": 6234,
+            "cost_units": 2672,
+            "cu_consumed": 1134,
+            "cu_price_micro_lamports": 1000000,
+            "fee_per_cost_unit": 2.3331
+          },
+          {
+            "index": 5,
+            "signature": "3faUyuY4ptq8Zh1Y4VVd5vwC5MLGnm6SDgxgtsq4KauiKQi52dKXidUiChbV1ATnZvzJ8QfEoe4J7Z1TtnZ2QVpF",
+            "version": "1",
+            "fee_lamports": 5324,
+            "cost_units": 1360,
+            "cu_consumed": 24,
+            "cu_price_micro_lamports": 13500000,
+            "fee_per_cost_unit": 3.9147
+          },
+          {
+            "index": 6,
+            "signature": "3srZztVTBwHAqhLE7XQZZFCVy7GuPcqTt1XShphCehMsvGdq1L1iJymMJFsnGYZ4xge65dVeWrERCkfrhT6Sxbx7",
+            "version": "1",
+            "fee_lamports": 5087,
+            "cost_units": 1559,
+            "cu_consumed": 43,
+            "cu_price_micro_lamports": 2023255,
+            "fee_per_cost_unit": 3.263
+          },
+          {
+            "index": 7,
+            "signature": "3cz71JdEuPLNmea4FhZ3PejzhnTaSpfeevW1NftjNqdPmKojYBgKS6jfyWC3hTS2gUYbejepxbMYZcBrwHKqjcrq",
+            "version": "1",
+            "fee_lamports": 5324,
+            "cost_units": 1360,
+            "cu_consumed": 24,
+            "cu_price_micro_lamports": 13500000,
+            "fee_per_cost_unit": 3.9147
+          },
+          {
+            "index": 8,
+            "signature": "4ebdG6JhX23Q8CAYERA5k8EbMDb4kean5WtEn3NTxddbyYravT3di7XD47NHMu7Y3ZbtzD88cyvZHMkTnqExWKkd",
+            "version": "0",
+            "fee_lamports": 5415,
+            "cost_units": 2073,
+            "cu_consumed": 410,
+            "cu_price_micro_lamports": 1000000,
+            "fee_per_cost_unit": 2.6122
+          },
+          {
+            "index": 9,
+            "signature": "wBN3j4fcJP8ZUJRfVebB1GGgbV57k3k8Mh2wq6WwGpeCd4QYW8rNQ5GevApMFMW85QRVE5As8UdpkC24Fj3myNi",
+            "version": "1",
+            "fee_lamports": 5324,
+            "cost_units": 1360,
+            "cu_consumed": 24,
+            "cu_price_micro_lamports": 13500000,
+            "fee_per_cost_unit": 3.9147
+          }
+        ],
+        "last_10_non_vote": [
+          {
+            "index": 461,
+            "signature": "PuLCfTLLuxtyqE5GcVWFTbYE2mzJGbPJKCackoXwwodJEB113Gm9X52t8mUZUjfLAECtXrqvMJyByPV4bY2zBQK",
+            "version": "0",
+            "fee_lamports": 5001,
+            "cost_units": 7567,
+            "cu_consumed": 1185,
+            "cu_price_micro_lamports": 1,
+            "fee_per_cost_unit": 0.6609
+          },
+          {
+            "index": 462,
+            "signature": "5wpKTZxFSJaLs7e1SAkEgYWEpDVeChh7TiD1dS2544K8PHXkRSs7aLKKkVcus5cMYJJ2GkPBRx6Y6XQbgScy4u5q",
+            "version": "0",
+            "fee_lamports": 5027,
+            "cost_units": 14712,
+            "cu_consumed": 7478,
+            "cu_price_micro_lamports": 200,
+            "fee_per_cost_unit": 0.3417
+          },
+          {
+            "index": 463,
+            "signature": "4EFC467cDcunAUpW7UD3PKxHjKRn6crdhHQEsXpudYFnpJWZUr7zJejDu4pje4c4GLZ5bz46Vj8Udw5mHvyfEVwp",
+            "version": "0",
+            "fee_lamports": 5001,
+            "cost_units": 7869,
+            "cu_consumed": 1185,
+            "cu_price_micro_lamports": 1,
+            "fee_per_cost_unit": 0.6355
+          },
+          {
+            "index": 464,
+            "signature": "3s1NjQcv97ZxtV3cAgvhmVtnZFfQeAxmmy47QMPYU5RtqSVK7arXSmNWsHpNv3ztBETed4aFDTYgXYd1e27nuLDt",
+            "version": "0",
+            "fee_lamports": 5001,
+            "cost_units": 7869,
+            "cu_consumed": 1185,
+            "cu_price_micro_lamports": 1,
+            "fee_per_cost_unit": 0.6355
+          },
+          {
+            "index": 465,
+            "signature": "5jQdH8YP5SCLp7UWP8PRC7LUkfZMkA5LxMBZsk8dnPxECjL68dczTpRQTu5rAK5MeND2zBFrpu5aei5ZKVzxaCQN",
+            "version": "1",
+            "fee_lamports": 5395,
+            "cost_units": 13019,
+            "cu_consumed": 5055,
+            "cu_price_micro_lamports": 2505,
+            "fee_per_cost_unit": 0.4144
+          },
+          {
+            "index": 466,
+            "signature": "XdxAwoZ8HfgNs3G4PnnaZtzncbUNa6iLTm517Ftvq3KESKHkHvxmmiunRkx6ECXeMExsgKw8mafzRMn64ZqMUyj",
+            "version": "0",
+            "fee_lamports": 5001,
+            "cost_units": 7567,
+            "cu_consumed": 1185,
+            "cu_price_micro_lamports": 1,
+            "fee_per_cost_unit": 0.6609
+          },
+          {
+            "index": 467,
+            "signature": "352pP8Ls6XQNbXU7fRMLafreYuSprX31Vmxaf2it3Yx9w8WCYMkn29oV2cZytXVDEqf6CrF3ZCA3Eat1PFbbM7dF",
+            "version": "0",
+            "fee_lamports": 9000,
+            "cost_units": 100478,
+            "cu_consumed": 93508,
+            "cu_price_micro_lamports": 10000,
+            "fee_per_cost_unit": 0.0896
+          },
+          {
+            "index": 468,
+            "signature": "4vQ7VWQ5yZXvwekbkFpJzS7HbdbFxEnT4uWK4F3oAREnSnywnB8v7jC8FLF8ao4QG2ukPWmfXGPdcQqQUKuSjV39",
+            "version": "0",
+            "fee_lamports": 5001,
+            "cost_units": 7567,
+            "cu_consumed": 1185,
+            "cu_price_micro_lamports": 1,
+            "fee_per_cost_unit": 0.6609
+          },
+          {
+            "index": 469,
+            "signature": "4eDVmv7gn2KmKKdpzAt3Rw24w4M2mjWhGFe52eQUUQdoJUiAPdTP5LsjAHTTQVjuQvUo91XJB7iKrxaanAA9zUG9",
+            "version": "1",
+            "fee_lamports": 5002,
+            "cost_units": 17023,
+            "cu_consumed": 9938,
+            "cu_price_micro_lamports": 13,
+            "fee_per_cost_unit": 0.2938
+          },
+          {
+            "index": 470,
+            "signature": "1H2ZgLRWEhjFyY1rRJtMoWrtontLXao5PCj6yr2ihUDEhrcXEDwo9Xfvz1YQSAehnaXPHs9SQp75Jt2mwDCqWWj",
+            "version": "0",
+            "fee_lamports": 5490,
+            "cost_units": 288678,
+            "cu_consumed": 272371,
+            "cu_price_micro_lamports": 613,
+            "fee_per_cost_unit": 0.019
+          }
+        ]
+      }
+    },
+    {
+      "slot": 465779847,
+      "blockhash": "5RJ5JUyKN2cxhhfDsXmL6LbZGQkkZALpNahapbCPzpsZ",
+      "block_time": 1793897597,
+      "block_height": 443799767,
+      "leader_identity": "soLStaCk5TiGCpeLKa9Fvv6f5JQGMa6S3uhLh826e9N",
+      "client_version": "4.5.0-alpha.2",
+      "client_family": "Agave Pre-Release / Canary (4.5.0-alpha.2)",
+      "total_transactions": 679,
+      "vote_transactions": 0,
+      "non_vote_transactions": 679,
+      "jito_tip_touching_transactions": 58,
+      "scheduler_evaluated_transactions": 621,
+      "metrics": {
+        "spearman_rho_index_vs_descending_fee_per_cost": 0.112,
+        "spearman_rho_index_vs_descending_total_fee": 0.1704,
+        "spearman_rho_index_vs_descending_cu_price": 0.1579,
+        "q1_earliest_median_fee_lamports": 6000.0,
+        "q4_latest_median_fee_lamports": 5324.0,
+        "q1_earliest_median_fee_per_cost": 0.7175,
+        "q4_latest_median_fee_per_cost": 0.5075,
+        "same_writelock_pairs_evaluated": 635,
+        "same_writelock_priority_monotonicity_rate": 0.5669
+      },
+      "verifiable_sample_signatures": {
+        "first_10_non_vote": [
+          {
+            "index": 0,
+            "signature": "3qPrVKTXYDsDwuiaAsndxma5bfvnVnobfx3YB7JS2shsf85zT39tWp9fYHWfEKisJdprdqhjv5zhisixkd2uemCz",
+            "version": "0",
+            "fee_lamports": 6234,
+            "cost_units": 2672,
+            "cu_consumed": 1134,
+            "cu_price_micro_lamports": 1000000,
+            "fee_per_cost_unit": 2.3331
+          },
+          {
+            "index": 1,
+            "signature": "M6VYx6Qyo7QPXapwa7BLcMz5ezLRtUQERAtH2o71BsVPBweLthNkPztTF6DFHVSx36GGAsGk1odD8SgAkzfy6Fb",
+            "version": "legacy",
+            "fee_lamports": 5011,
+            "cost_units": 3732,
+            "cu_consumed": 2363,
+            "cu_price_micro_lamports": 2200,
+            "fee_per_cost_unit": 1.3427
+          },
+          {
+            "index": 2,
+            "signature": "3NSS1n2g6ZR5RN5SNUgcHiS4QyhUVDJMtKx25e9i3aHKfTpA7gLh35SMiojjUfsimxdWdVBKp7B29wPSHbTrVgnr",
+            "version": "0",
+            "fee_lamports": 5415,
+            "cost_units": 2073,
+            "cu_consumed": 410,
+            "cu_price_micro_lamports": 1000000,
+            "fee_per_cost_unit": 2.6122
+          },
+          {
+            "index": 3,
+            "signature": "3kxkjqwsg1WjsLkmknEgKAdyafBasoWVaE6K74osY9Z2SNLtY3wXeH96t1imj41ozFxUirWeyuEEQwRXJV4zmDix",
+            "version": "1",
+            "fee_lamports": 5127,
+            "cost_units": 2124,
+            "cu_consumed": 116,
+            "cu_price_micro_lamports": 1000000,
+            "fee_per_cost_unit": 2.4138
+          },
+          {
+            "index": 4,
+            "signature": "5sW8JKKNJBLpD7Q1YfeNVaadLK5sTrHaovmVsCFASFwxjeZstw9dqMuCEGCW52DPyEBZJvgREcc4jJQqwV6JX7wE",
+            "version": "1",
+            "fee_lamports": 5324,
+            "cost_units": 1360,
+            "cu_consumed": 24,
+            "cu_price_micro_lamports": 13500000,
+            "fee_per_cost_unit": 3.9147
+          },
+          {
+            "index": 5,
+            "signature": "5xmzcmLniK4oErSfQ2wZMbBFRkoohXFjjFmrff7kBzKbxw2wn5eYASi1MxmQmwdrvRXUs7PADNpTCaSm1HCe8E9M",
+            "version": "0",
+            "fee_lamports": 5415,
+            "cost_units": 2073,
+            "cu_consumed": 410,
+            "cu_price_micro_lamports": 1000000,
+            "fee_per_cost_unit": 2.6122
+          },
+          {
+            "index": 6,
+            "signature": "3tALbobpXXUjY1YPaZBAELPmci8Ujz2gAsfc1H4sS686pNVddu9KLZyg3qmgsDFdtHqBrhjx774pbw6vNEd5p3T9",
+            "version": "1",
+            "fee_lamports": 5324,
+            "cost_units": 1360,
+            "cu_consumed": 24,
+            "cu_price_micro_lamports": 13500000,
+            "fee_per_cost_unit": 3.9147
+          },
+          {
+            "index": 7,
+            "signature": "5khFbVyYWkgdF2dTZg5FGSGx3FEFJjnZEbBGSs6pXCXqobLYATspFm1DHaPFva1qj3K7Fu6zXKVssdt1nkupYjtA",
+            "version": "1",
+            "fee_lamports": 5324,
+            "cost_units": 1360,
+            "cu_consumed": 24,
+            "cu_price_micro_lamports": 13500000,
+            "fee_per_cost_unit": 3.9147
+          },
+          {
+            "index": 8,
+            "signature": "4EmvDFMxuvweBqFt9EtB4TcBnc1YM6zfcABVmDn5rbZiBP4eAbcV6mUaSiBVV6puy7po2g4uno3zm5Rrei4T35Nf",
+            "version": "1",
+            "fee_lamports": 5324,
+            "cost_units": 1360,
+            "cu_consumed": 24,
+            "cu_price_micro_lamports": 13500000,
+            "fee_per_cost_unit": 3.9147
+          },
+          {
+            "index": 9,
+            "signature": "2czcUB5c16MGaUKue3impr4cBPNed8x8FovtrGSRUFgkbnkgc9fvvsZieEEL7bx23jkQAYTveCyFyziJKQrVXEiL",
+            "version": "1",
+            "fee_lamports": 7929,
+            "cost_units": 2000,
+            "cu_consumed": 543,
+            "cu_price_micro_lamports": 4492331,
+            "fee_per_cost_unit": 3.9645
+          }
+        ],
+        "last_10_non_vote": [
+          {
+            "index": 668,
+            "signature": "3pJuWN5RVuYrX1e2vTCqjqnpTVqTFDZdjz5qmJQxcXjpRWJFXXGSDy3U9VSHdjPwCDEAHNZFez5UYNW21awyf7yP",
+            "version": "legacy",
+            "fee_lamports": 5000,
+            "cost_units": 1931,
+            "cu_consumed": 576,
+            "cu_price_micro_lamports": 0,
+            "fee_per_cost_unit": 2.5893
+          },
+          {
+            "index": 669,
+            "signature": "4E3xYWaDF8TxEyty4ofPTgyEyjGMoGYFSSFbHxMvwqBrjz8wRYWDYdR98RzzHagzcWLnAJGkP1gdAvi3AhrfJNJP",
+            "version": "legacy",
+            "fee_lamports": 5000,
+            "cost_units": 1890,
+            "cu_consumed": 512,
+            "cu_price_micro_lamports": 0,
+            "fee_per_cost_unit": 2.6455
+          },
+          {
+            "index": 670,
+            "signature": "29WrBz5rtC9Qc5bKKfBP7wDtkwt4SNgA2LSpCFQp6CzLNARPUu5j6kS7VEML6R6nrkBCNiTusVGXV7ZDikBW6t4L",
+            "version": "legacy",
+            "fee_lamports": 5721,
+            "cost_units": 3692,
+            "cu_consumed": 1876,
+            "cu_price_micro_lamports": 300005,
+            "fee_per_cost_unit": 1.5496
+          },
+          {
+            "index": 671,
+            "signature": "3TYZByVv8ELJg7hug7uJmqdzoHJFsb5xb5SsZdvwNf1t9H1v2f3V9K8v2gYxN8rSRZqBvqnovJ8F1DqMLuTDNTxX",
+            "version": "legacy",
+            "fee_lamports": 5000,
+            "cost_units": 59294,
+            "cu_consumed": 53537,
+            "cu_price_micro_lamports": 0,
+            "fee_per_cost_unit": 0.0843
+          },
+          {
+            "index": 673,
+            "signature": "3FY3uEq6YspRD3jHvJSr6FFenwaA14rEUGibN12FSnJn4wixVRPc7AEJsBRosAiuquJJxghJy34cFr6GaGD411h5",
+            "version": "1",
+            "fee_lamports": 6000,
+            "cost_units": 6787,
+            "cu_consumed": 4358,
+            "cu_price_micro_lamports": 60606,
+            "fee_per_cost_unit": 0.884
+          },
+          {
+            "index": 674,
+            "signature": "3LMPC51cm4HjH9bYXVqwNTe6N3Y8NUcArY5aSA6rWRDNVNbEdsPd9nEnavGXov1XkLfNKUDJXPPmr5yF3HhfcWYQ",
+            "version": "legacy",
+            "fee_lamports": 15000,
+            "cost_units": 16168,
+            "cu_consumed": 14101,
+            "cu_price_micro_lamports": 526315,
+            "fee_per_cost_unit": 0.9278
+          },
+          {
+            "index": 675,
+            "signature": "2WtYmTdU1ZhZqMwvEewMusghRgbubiGjLv1PgbdVHXfG631XPJdiieJREJ53bWmr2Yx6Hc4HryVacqdajR5cyx4p",
+            "version": "1",
+            "fee_lamports": 6000,
+            "cost_units": 13461,
+            "cu_consumed": 11035,
+            "cu_price_micro_lamports": 52631,
+            "fee_per_cost_unit": 0.4457
+          },
+          {
+            "index": 676,
+            "signature": "58YWaBjHZFLJ7peBy5n8AUHa3EbHMGr4RjxFMDN358iae3pP5tVtbcgbLCFd9saacGHnwfQxWkiUyXvy5MfS335x",
+            "version": "1",
+            "fee_lamports": 35000,
+            "cost_units": 97058,
+            "cu_consumed": 89136,
+            "cu_price_micro_lamports": 262524,
+            "fee_per_cost_unit": 0.3606
+          },
+          {
+            "index": 677,
+            "signature": "2UgBNo9EEMNbNVA6MmeUnpXyypJRDfeFrSy27YNgCaacxZ6geEiZLSX2S4LJnmVMqgDPyTpcnrHQisrPCHZAj7jB",
+            "version": "1",
+            "fee_lamports": 55000,
+            "cost_units": 104447,
+            "cu_consumed": 96340,
+            "cu_price_micro_lamports": 416430,
+            "fee_per_cost_unit": 0.5266
+          },
+          {
+            "index": 678,
+            "signature": "5rVZ7npHjHPK3hbNogKPSCRLhm7RcZfkdFcybyL2kWiirDcSzS1CA55nfVVX1NVNVvSYGHJeCEyTitfoxnvtZiF4",
+            "version": "1",
+            "fee_lamports": 5835,
+            "cost_units": 15547,
+            "cu_consumed": 8024,
+            "cu_price_micro_lamports": 12180,
+            "fee_per_cost_unit": 0.3753
+          }
+        ]
+      }
+    },
+    {
+      "slot": 465779175,
+      "blockhash": "7qkTxckWMNysGod1eC4Z3wtiYnXwhu9JMLUjQKv6g1na",
+      "block_time": 1793897451,
+      "block_height": 443799099,
+      "leader_identity": "pSo1KZXgG1EGHch6pPmscfYhv3buXyaj2dR8WkVnkfc",
+      "client_version": "26.10.6",
+      "client_family": "Firedancer / Frankendancer (26.10.6)",
+      "total_transactions": 458,
+      "vote_transactions": 0,
+      "non_vote_transactions": 458,
+      "jito_tip_touching_transactions": 10,
+      "scheduler_evaluated_transactions": 448,
+      "metrics": {
+        "spearman_rho_index_vs_descending_fee_per_cost": 0.0329,
+        "spearman_rho_index_vs_descending_total_fee": 0.0537,
+        "spearman_rho_index_vs_descending_cu_price": -0.0207,
+        "q1_earliest_median_fee_lamports": 5658.0,
+        "q4_latest_median_fee_lamports": 5324.0,
+        "q1_earliest_median_fee_per_cost": 1.9396,
+        "q4_latest_median_fee_per_cost": 1.9391,
+        "same_writelock_pairs_evaluated": 505,
+        "same_writelock_priority_monotonicity_rate": 0.5248
+      },
+      "verifiable_sample_signatures": {
+        "first_10_non_vote": [
+          {
+            "index": 0,
+            "signature": "cQnYkDzuGFYPLZFC4u3b3afx2MmURpeg5XKS1Cb2pZkfHZfK4h7YgbSeSh1XAWKZg7mrCK9UNqkUFrpVuvmQNMJ",
+            "version": "1",
+            "fee_lamports": 5324,
+            "cost_units": 1360,
+            "cu_consumed": 24,
+            "cu_price_micro_lamports": 13500000,
+            "fee_per_cost_unit": 3.9147
+          },
+          {
+            "index": 1,
+            "signature": "My8pQkUUiacV1zWct6mwQqkTTQvJ6oJ9UZBsY1mF1UuVdB5KiqkVJS5Jk4MUtyz5F67sibe9L12AUg5HmvKfxzp",
+            "version": "1",
+            "fee_lamports": 5087,
+            "cost_units": 1547,
+            "cu_consumed": 31,
+            "cu_price_micro_lamports": 2023255,
+            "fee_per_cost_unit": 3.2883
+          },
+          {
+            "index": 2,
+            "signature": "3QiGjrp6AbmPVPb4tFe4gEsv8fXXMs3aHNQRKmQ6j8q6qH7QfApTsqrhzYehX5U7KaRfbDzzz3CBzxtHmiCTpM5z",
+            "version": "1",
+            "fee_lamports": 5324,
+            "cost_units": 1360,
+            "cu_consumed": 24,
+            "cu_price_micro_lamports": 13500000,
+            "fee_per_cost_unit": 3.9147
+          },
+          {
+            "index": 3,
+            "signature": "4mKCecscCmeDs98EhtjN1TankBgyBe5CdwWucSnMF6ztd9YvHNmnDrNeexCwy3P1f78u2phax91Y3zfBACmwbgh6",
+            "version": "1",
+            "fee_lamports": 5324,
+            "cost_units": 1360,
+            "cu_consumed": 24,
+            "cu_price_micro_lamports": 13500000,
+            "fee_per_cost_unit": 3.9147
+          },
+          {
+            "index": 4,
+            "signature": "3X73etYAqMZv1CEHKxF4L8PEfsY7VgZjXmr5nCbR5mVQBRjNfpp2bYVjw6HAA5Jww1neihj8WErqsQqJ3P5LEfZw",
+            "version": "legacy",
+            "fee_lamports": 7161,
+            "cost_units": 3692,
+            "cu_consumed": 1876,
+            "cu_price_micro_lamports": 900005,
+            "fee_per_cost_unit": 1.9396
+          },
+          {
+            "index": 5,
+            "signature": "3dBKEjebNe3eF1nqwhwhuJVpXQXQPv4GLrEZUPeYzqb3xpRUttBvx1f7c3jg4W44htUWc6UVbRiqY1eZMp1EzjS2",
+            "version": "0",
+            "fee_lamports": 5000,
+            "cost_units": 1632,
+            "cu_consumed": 300,
+            "cu_price_micro_lamports": 0,
+            "fee_per_cost_unit": 3.0637
+          },
+          {
+            "index": 6,
+            "signature": "hYTMtfBsz6kvkkSFpZwwEUBKPwH6pvTGxX9w5VzxKQSgMQtta4Mkk5aNwRXU334BVCL6B6nkPnm2pwCFyC2YHuy",
+            "version": "0",
+            "fee_lamports": 6060,
+            "cost_units": 87342,
+            "cu_consumed": 81285,
+            "cu_price_micro_lamports": 10000,
+            "fee_per_cost_unit": 0.0694
+          },
+          {
+            "index": 7,
+            "signature": "5WK93FDc9yPChZWc9WprkBYvo6vdx6dU8uNJA2b5Hrx7dXabS4fYPuKJqmwAch3dJdpbEFMgv5Qo5BtAStiLfQpi",
+            "version": "1",
+            "fee_lamports": 5135,
+            "cost_units": 1516,
+            "cu_consumed": 132,
+            "cu_price_micro_lamports": 1000000,
+            "fee_per_cost_unit": 3.3872
+          },
+          {
+            "index": 8,
+            "signature": "3KndBKGjzCS4hcF2Fuxu54t4UAQaQ1XACubCZRNPMNcdkJ1Gk4rGiyf8EE4qwkuuWaUVTh334ueJSvoefsS6U8Qr",
+            "version": "1",
+            "fee_lamports": 5000,
+            "cost_units": 1961,
+            "cu_consumed": 259,
+            "cu_price_micro_lamports": 0,
+            "fee_per_cost_unit": 2.5497
+          },
+          {
+            "index": 9,
+            "signature": "3CoVQTniT5mxQChqvWpEvCZuY5Er2D5jpgsADs9APiNYUhtragLQyR5TBhRfoduP6t4W6nnyWHWUqc25mkr84Kvu",
+            "version": "1",
+            "fee_lamports": 15880,
+            "cost_units": 10902,
+            "cu_consumed": 4225,
+            "cu_price_micro_lamports": 183449,
+            "fee_per_cost_unit": 1.4566
+          }
+        ],
+        "last_10_non_vote": [
+          {
+            "index": 448,
+            "signature": "2oWKRwB3vyw4ZeTR6EgydC4cKQeiHz1J9bFboVnaw243AHRYPGVio7NDqKBxpVvQkLCBn7CRgUcwDMGx84d4cGRH",
+            "version": "1",
+            "fee_lamports": 5001,
+            "cost_units": 3032,
+            "cu_consumed": 507,
+            "cu_price_micro_lamports": 1333,
+            "fee_per_cost_unit": 1.6494
+          },
+          {
+            "index": 449,
+            "signature": "3dckZAafu9Z9G8g6bbKN2xuycHrMaaa1Gw3oVQJNnfhxDzzNziHLK4HQkeKTdJF3T1tGHurGcbVy7VikTLh8msz9",
+            "version": "1",
+            "fee_lamports": 1005000,
+            "cost_units": 1028,
+            "cu_consumed": 0,
+            "cu_price_micro_lamports": 0,
+            "fee_per_cost_unit": 977.6265
+          },
+          {
+            "index": 450,
+            "signature": "4MPMzRD1hCPZDLMpwVfb9ZWZSj7fr4dJeah6UHnnjYygqEWvHrQrW2UuVAn8a2fYSDJ7gvJ9YsaCMKQuVkm3NogD",
+            "version": "0",
+            "fee_lamports": 9000,
+            "cost_units": 130596,
+            "cu_consumed": 123626,
+            "cu_price_micro_lamports": 10000,
+            "fee_per_cost_unit": 0.0689
+          },
+          {
+            "index": 451,
+            "signature": "4dUin22o599QPbE3KhKBFTVxsu4YbWsiDQ9pK8k5nQAhvM4Pfir3Ws6vsP168HJgsVGmvNLiR14Zq1VQeoJYUioQ",
+            "version": "1",
+            "fee_lamports": 5011,
+            "cost_units": 1592,
+            "cu_consumed": 96,
+            "cu_price_micro_lamports": 108910,
+            "fee_per_cost_unit": 3.1476
+          },
+          {
+            "index": 452,
+            "signature": "sf9cwVuf1wrkzeMjuerXWg8nLPVXHzuKCsxrHQYqxoHPUuAEAg9B12dth3WyWtgLsTUZjXKAKZo872nVvxT8SrE",
+            "version": "1",
+            "fee_lamports": 5001,
+            "cost_units": 2678,
+            "cu_consumed": 456,
+            "cu_price_micro_lamports": 1666,
+            "fee_per_cost_unit": 1.8674
+          },
+          {
+            "index": 453,
+            "signature": "2qHqi7FHgLmeZwnsif47EPKwTC7YBTWTe5duV7szwxtcxe8zszY1rbrDw1U7wLFPv5oByWSJcPPGigkHaqbKLn4p",
+            "version": "1",
+            "fee_lamports": 16037,
+            "cost_units": 1768,
+            "cu_consumed": 230,
+            "cu_price_micro_lamports": 44148000,
+            "fee_per_cost_unit": 9.0707
+          },
+          {
+            "index": 454,
+            "signature": "3aaeUqLK6pqKraz8LyXqu5GN8DZE3qqRXeQeMr73NE8nvkE9313MvahngU39w3ijT7jRLybYDYG8mbse3d9X2EPw",
+            "version": "legacy",
+            "fee_lamports": 8547,
+            "cost_units": 114003,
+            "cu_consumed": 107386,
+            "cu_price_micro_lamports": 11020,
+            "fee_per_cost_unit": 0.075
+          },
+          {
+            "index": 455,
+            "signature": "hKpsz9ppGH9zG2xfG5FoBGpqVmrQND1Sor6s2PUsA4tLt5XELg4Xd5RfaLwbz5i95Ye5TGt5sWQ6dzcgPNmyAYW",
+            "version": "1",
+            "fee_lamports": 12355,
+            "cost_units": 10984,
+            "cu_consumed": 4315,
+            "cu_price_micro_lamports": 111508,
+            "fee_per_cost_unit": 1.1248
+          },
+          {
+            "index": 456,
+            "signature": "5CwQQu6a6cVs3zNaqGG4YE9r6m3SYZ7pSM5B9zRCvoF7TeVMJtL1U5uv5ocwiCsjuoMNp9aeNG9hkZYo4SdA9QbF",
+            "version": "legacy",
+            "fee_lamports": 5721,
+            "cost_units": 3692,
+            "cu_consumed": 1876,
+            "cu_price_micro_lamports": 300007,
+            "fee_per_cost_unit": 1.5496
+          },
+          {
+            "index": 457,
+            "signature": "4PPno9zi6X8CwtumiR8E2M4xPPQk22kTHMF7a7GBtg3jB1VsDj6FGrP1W3q8RLEWkYwU65sr5UjeE3RUPGqkJ7cr",
+            "version": "1",
+            "fee_lamports": 5601,
+            "cost_units": 89605,
+            "cu_consumed": 72173,
+            "cu_price_micro_lamports": 1664,
+            "fee_per_cost_unit": 0.0625
+          }
+        ]
+      }
+    }
+  ],
+  "dry_run_probe_schedule_sample": [
+    {
+      "probe_id": "465777655-T0-indepe",
+      "target_slot": 465777655,
+      "leader_pubkey": "GZ4U21pYmFkCk6ZNTHRzfVEZZXauyZLKDmuuuKGwvp5H",
+      "send_order_index": 0,
+      "contention_mode": "independent_writelock",
+      "cu_limit": 25000,
+      "cu_price_micro_lamports": 1000,
+      "total_fee_lamports": 5025,
+      "expected_scheduler_score": 0.1931,
+      "spend_cap_approved": true
+    },
+    {
+      "probe_id": "465777655-T0-shared",
+      "target_slot": 465777655,
+      "leader_pubkey": "GZ4U21pYmFkCk6ZNTHRzfVEZZXauyZLKDmuuuKGwvp5H",
+      "send_order_index": 1,
+      "contention_mode": "shared_account_contention",
+      "cu_limit": 25000,
+      "cu_price_micro_lamports": 1000,
+      "total_fee_lamports": 5025,
+      "expected_scheduler_score": 0.1931,
+      "spend_cap_approved": true
+    },
+    {
+      "probe_id": "465777655-T1-indepe",
+      "target_slot": 465777655,
+      "leader_pubkey": "GZ4U21pYmFkCk6ZNTHRzfVEZZXauyZLKDmuuuKGwvp5H",
+      "send_order_index": 2,
+      "contention_mode": "independent_writelock",
+      "cu_limit": 25000,
+      "cu_price_micro_lamports": 10000,
+      "total_fee_lamports": 5250,
+      "expected_scheduler_score": 0.2017,
+      "spend_cap_approved": true
+    },
+    {
+      "probe_id": "465777655-T1-shared",
+      "target_slot": 465777655,
+      "leader_pubkey": "GZ4U21pYmFkCk6ZNTHRzfVEZZXauyZLKDmuuuKGwvp5H",
+      "send_order_index": 3,
+      "contention_mode": "shared_account_contention",
+      "cu_limit": 25000,
+      "cu_price_micro_lamports": 10000,
+      "total_fee_lamports": 5250,
+      "expected_scheduler_score": 0.2017,
+      "spend_cap_approved": true
+    },
+    {
+      "probe_id": "465777655-T2-indepe",
+      "target_slot": 465777655,
+      "leader_pubkey": "GZ4U21pYmFkCk6ZNTHRzfVEZZXauyZLKDmuuuKGwvp5H",
+      "send_order_index": 4,
+      "contention_mode": "independent_writelock",
+      "cu_limit": 25000,
+      "cu_price_micro_lamports": 50000,
+      "total_fee_lamports": 6250,
+      "expected_scheduler_score": 0.2401,
+      "spend_cap_approved": true
+    },
+    {
+      "probe_id": "465777655-T2-shared",
+      "target_slot": 465777655,
+      "leader_pubkey": "GZ4U21pYmFkCk6ZNTHRzfVEZZXauyZLKDmuuuKGwvp5H",
+      "send_order_index": 5,
+      "contention_mode": "shared_account_contention",
+      "cu_limit": 25000,
+      "cu_price_micro_lamports": 50000,
+      "total_fee_lamports": 6250,
+      "expected_scheduler_score": 0.2401,
+      "spend_cap_approved": true
+    },
+    {
+      "probe_id": "465777655-T3-indepe",
+      "target_slot": 465777655,
+      "leader_pubkey": "GZ4U21pYmFkCk6ZNTHRzfVEZZXauyZLKDmuuuKGwvp5H",
+      "send_order_index": 6,
+      "contention_mode": "independent_writelock",
+      "cu_limit": 25000,
+      "cu_price_micro_lamports": 200000,
+      "total_fee_lamports": 10000,
+      "expected_scheduler_score": 0.3842,
+      "spend_cap_approved": true
+    },
+    {
+      "probe_id": "465777655-T3-shared",
+      "target_slot": 465777655,
+      "leader_pubkey": "GZ4U21pYmFkCk6ZNTHRzfVEZZXauyZLKDmuuuKGwvp5H",
+      "send_order_index": 7,
+      "contention_mode": "shared_account_contention",
+      "cu_limit": 25000,
+      "cu_price_micro_lamports": 200000,
+      "total_fee_lamports": 10000,
+      "expected_scheduler_score": 0.3842,
+      "spend_cap_approved": true
+    },
+    {
+      "probe_id": "465777655-T4-indepe",
+      "target_slot": 465777655,
+      "leader_pubkey": "GZ4U21pYmFkCk6ZNTHRzfVEZZXauyZLKDmuuuKGwvp5H",
+      "send_order_index": 8,
+      "contention_mode": "independent_writelock",
+      "cu_limit": 25000,
+      "cu_price_micro_lamports": 1000000,
+      "total_fee_lamports": 30000,
+      "expected_scheduler_score": 1.1526,
+      "spend_cap_approved": true
+    },
+    {
+      "probe_id": "465777655-T4-shared",
+      "target_slot": 465777655,
+      "leader_pubkey": "GZ4U21pYmFkCk6ZNTHRzfVEZZXauyZLKDmuuuKGwvp5H",
+      "send_order_index": 9,
+      "contention_mode": "shared_account_contention",
+      "cu_limit": 25000,
+      "cu_price_micro_lamports": 1000000,
+      "total_fee_lamports": 30000,
+      "expected_scheduler_score": 1.1526,
+      "spend_cap_approved": true
+    },
+    {
+      "probe_id": "465779183-T0-indepe",
+      "target_slot": 465779183,
+      "leader_pubkey": "zeroT6PTAEjipvZuACTh1mbGCqTHgA6i1ped9DcuidX",
+      "send_order_index": 0,
+      "contention_mode": "independent_writelock",
+      "cu_limit": 25000,
+      "cu_price_micro_lamports": 1000,
+      "total_fee_lamports": 5025,
+      "expected_scheduler_score": 0.1931,
+      "spend_cap_approved": true
+    },
+    {
+      "probe_id": "465779183-T0-shared",
+      "target_slot": 465779183,
+      "leader_pubkey": "zeroT6PTAEjipvZuACTh1mbGCqTHgA6i1ped9DcuidX",
+      "send_order_index": 1,
+      "contention_mode": "shared_account_contention",
+      "cu_limit": 25000,
+      "cu_price_micro_lamports": 1000,
+      "total_fee_lamports": 5025,
+      "expected_scheduler_score": 0.1931,
+      "spend_cap_approved": true
+    },
+    {
+      "probe_id": "465779183-T1-indepe",
+      "target_slot": 465779183,
+      "leader_pubkey": "zeroT6PTAEjipvZuACTh1mbGCqTHgA6i1ped9DcuidX",
+      "send_order_index": 2,
+      "contention_mode": "independent_writelock",
+      "cu_limit": 25000,
+      "cu_price_micro_lamports": 10000,
+      "total_fee_lamports": 5250,
+      "expected_scheduler_score": 0.2017,
+      "spend_cap_approved": true
+    },
+    {
+      "probe_id": "465779183-T1-shared",
+      "target_slot": 465779183,
+      "leader_pubkey": "zeroT6PTAEjipvZuACTh1mbGCqTHgA6i1ped9DcuidX",
+      "send_order_index": 3,
+      "contention_mode": "shared_account_contention",
+      "cu_limit": 25000,
+      "cu_price_micro_lamports": 10000,
+      "total_fee_lamports": 5250,
+      "expected_scheduler_score": 0.2017,
+      "spend_cap_approved": true
+    },
+    {
+      "probe_id": "465779183-T2-indepe",
+      "target_slot": 465779183,
+      "leader_pubkey": "zeroT6PTAEjipvZuACTh1mbGCqTHgA6i1ped9DcuidX",
+      "send_order_index": 4,
+      "contention_mode": "independent_writelock",
+      "cu_limit": 25000,
+      "cu_price_micro_lamports": 50000,
+      "total_fee_lamports": 6250,
+      "expected_scheduler_score": 0.2401,
+      "spend_cap_approved": true
+    },
+    {
+      "probe_id": "465779183-T2-shared",
+      "target_slot": 465779183,
+      "leader_pubkey": "zeroT6PTAEjipvZuACTh1mbGCqTHgA6i1ped9DcuidX",
+      "send_order_index": 5,
+      "contention_mode": "shared_account_contention",
+      "cu_limit": 25000,
+      "cu_price_micro_lamports": 50000,
+      "total_fee_lamports": 6250,
+      "expected_scheduler_score": 0.2401,
+      "spend_cap_approved": true
+    },
+    {
+      "probe_id": "465779183-T3-indepe",
+      "target_slot": 465779183,
+      "leader_pubkey": "zeroT6PTAEjipvZuACTh1mbGCqTHgA6i1ped9DcuidX",
+      "send_order_index": 6,
+      "contention_mode": "independent_writelock",
+      "cu_limit": 25000,
+      "cu_price_micro_lamports": 200000,
+      "total_fee_lamports": 10000,
+      "expected_scheduler_score": 0.3842,
+      "spend_cap_approved": true
+    },
+    {
+      "probe_id": "465779183-T3-shared",
+      "target_slot": 465779183,
+      "leader_pubkey": "zeroT6PTAEjipvZuACTh1mbGCqTHgA6i1ped9DcuidX",
+      "send_order_index": 7,
+      "contention_mode": "shared_account_contention",
+      "cu_limit": 25000,
+      "cu_price_micro_lamports": 200000,
+      "total_fee_lamports": 10000,
+      "expected_scheduler_score": 0.3842,
+      "spend_cap_approved": true
+    },
+    {
+      "probe_id": "465779183-T4-indepe",
+      "target_slot": 465779183,
+      "leader_pubkey": "zeroT6PTAEjipvZuACTh1mbGCqTHgA6i1ped9DcuidX",
+      "send_order_index": 8,
+      "contention_mode": "independent_writelock",
+      "cu_limit": 25000,
+      "cu_price_micro_lamports": 1000000,
+      "total_fee_lamports": 30000,
+      "expected_scheduler_score": 1.1526,
+      "spend_cap_approved": true
+    },
+    {
+      "probe_id": "465779183-T4-shared",
+      "target_slot": 465779183,
+      "leader_pubkey": "zeroT6PTAEjipvZuACTh1mbGCqTHgA6i1ped9DcuidX",
+      "send_order_index": 9,
+      "contention_mode": "shared_account_contention",
+      "cu_limit": 25000,
+      "cu_price_micro_lamports": 1000000,
+      "total_fee_lamports": 30000,
+      "expected_scheduler_score": 1.1526,
+      "spend_cap_approved": true
+    },
+    {
+      "probe_id": "465778775-T0-indepe",
+      "target_slot": 465778775,
+      "leader_pubkey": "FBbqKvwLfKGZrKrfSbPJz4ymQ7zMarhRyZtu1RBkSe89",
+      "send_order_index": 0,
+      "contention_mode": "independent_writelock",
+      "cu_limit": 25000,
+      "cu_price_micro_lamports": 1000,
+      "total_fee_lamports": 5025,
+      "expected_scheduler_score": 0.1931,
+      "spend_cap_approved": true
+    },
+    {
+      "probe_id": "465778775-T0-shared",
+      "target_slot": 465778775,
+      "leader_pubkey": "FBbqKvwLfKGZrKrfSbPJz4ymQ7zMarhRyZtu1RBkSe89",
+      "send_order_index": 1,
+      "contention_mode": "shared_account_contention",
+      "cu_limit": 25000,
+      "cu_price_micro_lamports": 1000,
+      "total_fee_lamports": 5025,
+      "expected_scheduler_score": 0.1931,
+      "spend_cap_approved": true
+    },
+    {
+      "probe_id": "465778775-T1-indepe",
+      "target_slot": 465778775,
+      "leader_pubkey": "FBbqKvwLfKGZrKrfSbPJz4ymQ7zMarhRyZtu1RBkSe89",
+      "send_order_index": 2,
+      "contention_mode": "independent_writelock",
+      "cu_limit": 25000,
+      "cu_price_micro_lamports": 10000,
+      "total_fee_lamports": 5250,
+      "expected_scheduler_score": 0.2017,
+      "spend_cap_approved": true
+    },
+    {
+      "probe_id": "465778775-T1-shared",
+      "target_slot": 465778775,
+      "leader_pubkey": "FBbqKvwLfKGZrKrfSbPJz4ymQ7zMarhRyZtu1RBkSe89",
+      "send_order_index": 3,
+      "contention_mode": "shared_account_contention",
+      "cu_limit": 25000,
+      "cu_price_micro_lamports": 10000,
+      "total_fee_lamports": 5250,
+      "expected_scheduler_score": 0.2017,
+      "spend_cap_approved": true
+    },
+    {
+      "probe_id": "465778775-T2-indepe",
+      "target_slot": 465778775,
+      "leader_pubkey": "FBbqKvwLfKGZrKrfSbPJz4ymQ7zMarhRyZtu1RBkSe89",
+      "send_order_index": 4,
+      "contention_mode": "independent_writelock",
+      "cu_limit": 25000,
+      "cu_price_micro_lamports": 50000,
+      "total_fee_lamports": 6250,
+      "expected_scheduler_score": 0.2401,
+      "spend_cap_approved": true
+    },
+    {
+      "probe_id": "465778775-T2-shared",
+      "target_slot": 465778775,
+      "leader_pubkey": "FBbqKvwLfKGZrKrfSbPJz4ymQ7zMarhRyZtu1RBkSe89",
+      "send_order_index": 5,
+      "contention_mode": "shared_account_contention",
+      "cu_limit": 25000,
+      "cu_price_micro_lamports": 50000,
+      "total_fee_lamports": 6250,
+      "expected_scheduler_score": 0.2401,
+      "spend_cap_approved": true
+    },
+    {
+      "probe_id": "465778775-T3-indepe",
+      "target_slot": 465778775,
+      "leader_pubkey": "FBbqKvwLfKGZrKrfSbPJz4ymQ7zMarhRyZtu1RBkSe89",
+      "send_order_index": 6,
+      "contention_mode": "independent_writelock",
+      "cu_limit": 25000,
+      "cu_price_micro_lamports": 200000,
+      "total_fee_lamports": 10000,
+      "expected_scheduler_score": 0.3842,
+      "spend_cap_approved": true
+    },
+    {
+      "probe_id": "465778775-T3-shared",
+      "target_slot": 465778775,
+      "leader_pubkey": "FBbqKvwLfKGZrKrfSbPJz4ymQ7zMarhRyZtu1RBkSe89",
+      "send_order_index": 7,
+      "contention_mode": "shared_account_contention",
+      "cu_limit": 25000,
+      "cu_price_micro_lamports": 200000,
+      "total_fee_lamports": 10000,
+      "expected_scheduler_score": 0.3842,
+      "spend_cap_approved": true
+    },
+    {
+      "probe_id": "465778775-T4-indepe",
+      "target_slot": 465778775,
+      "leader_pubkey": "FBbqKvwLfKGZrKrfSbPJz4ymQ7zMarhRyZtu1RBkSe89",
+      "send_order_index": 8,
+      "contention_mode": "independent_writelock",
+      "cu_limit": 25000,
+      "cu_price_micro_lamports": 1000000,
+      "total_fee_lamports": 30000,
+      "expected_scheduler_score": 1.1526,
+      "spend_cap_approved": true
+    },
+    {
+      "probe_id": "465778775-T4-shared",
+      "target_slot": 465778775,
+      "leader_pubkey": "FBbqKvwLfKGZrKrfSbPJz4ymQ7zMarhRyZtu1RBkSe89",
+      "send_order_index": 9,
+      "contention_mode": "shared_account_contention",
+      "cu_limit": 25000,
+      "cu_price_micro_lamports": 1000000,
+      "total_fee_lamports": 30000,
+      "expected_scheduler_score": 1.1526,
+      "spend_cap_approved": true
+    },
+    {
+      "probe_id": "465779299-T0-indepe",
+      "target_slot": 465779299,
+      "leader_pubkey": "8gDfqHXZ5ektqQQrLrCGtSzYRwkWQrm3ANnAvQCt2LoM",
+      "send_order_index": 0,
+      "contention_mode": "independent_writelock",
+      "cu_limit": 25000,
+      "cu_price_micro_lamports": 1000,
+      "total_fee_lamports": 5025,
+      "expected_scheduler_score": 0.1931,
+      "spend_cap_approved": true
+    },
+    {
+      "probe_id": "465779299-T0-shared",
+      "target_slot": 465779299,
+      "leader_pubkey": "8gDfqHXZ5ektqQQrLrCGtSzYRwkWQrm3ANnAvQCt2LoM",
+      "send_order_index": 1,
+      "contention_mode": "shared_account_contention",
+      "cu_limit": 25000,
+      "cu_price_micro_lamports": 1000,
+      "total_fee_lamports": 5025,
+      "expected_scheduler_score": 0.1931,
+      "spend_cap_approved": true
+    },
+    {
+      "probe_id": "465779299-T1-indepe",
+      "target_slot": 465779299,
+      "leader_pubkey": "8gDfqHXZ5ektqQQrLrCGtSzYRwkWQrm3ANnAvQCt2LoM",
+      "send_order_index": 2,
+      "contention_mode": "independent_writelock",
+      "cu_limit": 25000,
+      "cu_price_micro_lamports": 10000,
+      "total_fee_lamports": 5250,
+      "expected_scheduler_score": 0.2017,
+      "spend_cap_approved": true
+    },
+    {
+      "probe_id": "465779299-T1-shared",
+      "target_slot": 465779299,
+      "leader_pubkey": "8gDfqHXZ5ektqQQrLrCGtSzYRwkWQrm3ANnAvQCt2LoM",
+      "send_order_index": 3,
+      "contention_mode": "shared_account_contention",
+      "cu_limit": 25000,
+      "cu_price_micro_lamports": 10000,
+      "total_fee_lamports": 5250,
+      "expected_scheduler_score": 0.2017,
+      "spend_cap_approved": true
+    },
+    {
+      "probe_id": "465779299-T2-indepe",
+      "target_slot": 465779299,
+      "leader_pubkey": "8gDfqHXZ5ektqQQrLrCGtSzYRwkWQrm3ANnAvQCt2LoM",
+      "send_order_index": 4,
+      "contention_mode": "independent_writelock",
+      "cu_limit": 25000,
+      "cu_price_micro_lamports": 50000,
+      "total_fee_lamports": 6250,
+      "expected_scheduler_score": 0.2401,
+      "spend_cap_approved": true
+    },
+    {
+      "probe_id": "465779299-T2-shared",
+      "target_slot": 465779299,
+      "leader_pubkey": "8gDfqHXZ5ektqQQrLrCGtSzYRwkWQrm3ANnAvQCt2LoM",
+      "send_order_index": 5,
+      "contention_mode": "shared_account_contention",
+      "cu_limit": 25000,
+      "cu_price_micro_lamports": 50000,
+      "total_fee_lamports": 6250,
+      "expected_scheduler_score": 0.2401,
+      "spend_cap_approved": true
+    },
+    {
+      "probe_id": "465779299-T3-indepe",
+      "target_slot": 465779299,
+      "leader_pubkey": "8gDfqHXZ5ektqQQrLrCGtSzYRwkWQrm3ANnAvQCt2LoM",
+      "send_order_index": 6,
+      "contention_mode": "independent_writelock",
+      "cu_limit": 25000,
+      "cu_price_micro_lamports": 200000,
+      "total_fee_lamports": 10000,
+      "expected_scheduler_score": 0.3842,
+      "spend_cap_approved": true
+    },
+    {
+      "probe_id": "465779299-T3-shared",
+      "target_slot": 465779299,
+      "leader_pubkey": "8gDfqHXZ5ektqQQrLrCGtSzYRwkWQrm3ANnAvQCt2LoM",
+      "send_order_index": 7,
+      "contention_mode": "shared_account_contention",
+      "cu_limit": 25000,
+      "cu_price_micro_lamports": 200000,
+      "total_fee_lamports": 10000,
+      "expected_scheduler_score": 0.3842,
+      "spend_cap_approved": true
+    },
+    {
+      "probe_id": "465779299-T4-indepe",
+      "target_slot": 465779299,
+      "leader_pubkey": "8gDfqHXZ5ektqQQrLrCGtSzYRwkWQrm3ANnAvQCt2LoM",
+      "send_order_index": 8,
+      "contention_mode": "independent_writelock",
+      "cu_limit": 25000,
+      "cu_price_micro_lamports": 1000000,
+      "total_fee_lamports": 30000,
+      "expected_scheduler_score": 1.1526,
+      "spend_cap_approved": true
+    },
+    {
+      "probe_id": "465779299-T4-shared",
+      "target_slot": 465779299,
+      "leader_pubkey": "8gDfqHXZ5ektqQQrLrCGtSzYRwkWQrm3ANnAvQCt2LoM",
+      "send_order_index": 9,
+      "contention_mode": "shared_account_contention",
+      "cu_limit": 25000,
+      "cu_price_micro_lamports": 1000000,
+      "total_fee_lamports": 30000,
+      "expected_scheduler_score": 1.1526,
+      "spend_cap_approved": true
+    }
+  ],
+  "spend_guard_audit_log": [
+    {
+      "timestamp_utc": "2026-11-05T16:54:20.062189+00:00",
+      "fee_lamports": 5025,
+      "cumulative_lamports": 5025,
+      "description": "slot=465777655 leader=GZ4U21pY tier=0 mode=independent_writelock"
+    },
+    {
+      "timestamp_utc": "2026-11-05T16:54:20.062211+00:00",
+      "fee_lamports": 5025,
+      "cumulative_lamports": 10050,
+      "description": "slot=465777655 leader=GZ4U21pY tier=0 mode=shared_account_contention"
+    },
+    {
+      "timestamp_utc": "2026-11-05T16:54:20.062218+00:00",
+      "fee_lamports": 5250,
+      "cumulative_lamports": 15300,
+      "description": "slot=465777655 leader=GZ4U21pY tier=1 mode=independent_writelock"
+    },
+    {
+      "timestamp_utc": "2026-11-05T16:54:20.062222+00:00",
+      "fee_lamports": 5250,
+      "cumulative_lamports": 20550,
+      "description": "slot=465777655 leader=GZ4U21pY tier=1 mode=shared_account_contention"
+    },
+    {
+      "timestamp_utc": "2026-11-05T16:54:20.062226+00:00",
+      "fee_lamports": 6250,
+      "cumulative_lamports": 26800,
+      "description": "slot=465777655 leader=GZ4U21pY tier=2 mode=independent_writelock"
+    },
+    {
+      "timestamp_utc": "2026-11-05T16:54:20.062230+00:00",
+      "fee_lamports": 6250,
+      "cumulative_lamports": 33050,
+      "description": "slot=465777655 leader=GZ4U21pY tier=2 mode=shared_account_contention"
+    },
+    {
+      "timestamp_utc": "2026-11-05T16:54:20.062234+00:00",
+      "fee_lamports": 10000,
+      "cumulative_lamports": 43050,
+      "description": "slot=465777655 leader=GZ4U21pY tier=3 mode=independent_writelock"
+    },
+    {
+      "timestamp_utc": "2026-11-05T16:54:20.062237+00:00",
+      "fee_lamports": 10000,
+      "cumulative_lamports": 53050,
+      "description": "slot=465777655 leader=GZ4U21pY tier=3 mode=shared_account_contention"
+    },
+    {
+      "timestamp_utc": "2026-11-05T16:54:20.062240+00:00",
+      "fee_lamports": 30000,
+      "cumulative_lamports": 83050,
+      "description": "slot=465777655 leader=GZ4U21pY tier=4 mode=independent_writelock"
+    },
+    {
+      "timestamp_utc": "2026-11-05T16:54:20.062244+00:00",
+      "fee_lamports": 30000,
+      "cumulative_lamports": 113050,
+      "description": "slot=465777655 leader=GZ4U21pY tier=4 mode=shared_account_contention"
+    },
+    {
+      "timestamp_utc": "2026-11-05T16:54:22.142166+00:00",
+      "fee_lamports": 5025,
+      "cumulative_lamports": 118075,
+      "description": "slot=465779183 leader=zeroT6PT tier=0 mode=independent_writelock"
+    },
+    {
+      "timestamp_utc": "2026-11-05T16:54:22.142191+00:00",
+      "fee_lamports": 5025,
+      "cumulative_lamports": 123100,
+      "description": "slot=465779183 leader=zeroT6PT tier=0 mode=shared_account_contention"
+    },
+    {
+      "timestamp_utc": "2026-11-05T16:54:22.142197+00:00",
+      "fee_lamports": 5250,
+      "cumulative_lamports": 128350,
+      "description": "slot=465779183 leader=zeroT6PT tier=1 mode=independent_writelock"
+    },
+    {
+      "timestamp_utc": "2026-11-05T16:54:22.142201+00:00",
+      "fee_lamports": 5250,
+      "cumulative_lamports": 133600,
+      "description": "slot=465779183 leader=zeroT6PT tier=1 mode=shared_account_contention"
+    },
+    {
+      "timestamp_utc": "2026-11-05T16:54:22.142206+00:00",
+      "fee_lamports": 6250,
+      "cumulative_lamports": 139850,
+      "description": "slot=465779183 leader=zeroT6PT tier=2 mode=independent_writelock"
+    },
+    {
+      "timestamp_utc": "2026-11-05T16:54:22.142210+00:00",
+      "fee_lamports": 6250,
+      "cumulative_lamports": 146100,
+      "description": "slot=465779183 leader=zeroT6PT tier=2 mode=shared_account_contention"
+    },
+    {
+      "timestamp_utc": "2026-11-05T16:54:22.142213+00:00",
+      "fee_lamports": 10000,
+      "cumulative_lamports": 156100,
+      "description": "slot=465779183 leader=zeroT6PT tier=3 mode=independent_writelock"
+    },
+    {
+      "timestamp_utc": "2026-11-05T16:54:22.142217+00:00",
+      "fee_lamports": 10000,
+      "cumulative_lamports": 166100,
+      "description": "slot=465779183 leader=zeroT6PT tier=3 mode=shared_account_contention"
+    },
+    {
+      "timestamp_utc": "2026-11-05T16:54:22.142221+00:00",
+      "fee_lamports": 30000,
+      "cumulative_lamports": 196100,
+      "description": "slot=465779183 leader=zeroT6PT tier=4 mode=independent_writelock"
+    },
+    {
+      "timestamp_utc": "2026-11-05T16:54:22.142230+00:00",
+      "fee_lamports": 30000,
+      "cumulative_lamports": 226100,
+      "description": "slot=465779183 leader=zeroT6PT tier=4 mode=shared_account_contention"
+    },
+    {
+      "timestamp_utc": "2026-11-05T16:54:24.296998+00:00",
+      "fee_lamports": 5025,
+      "cumulative_lamports": 231125,
+      "description": "slot=465778775 leader=FBbqKvwL tier=0 mode=independent_writelock"
+    },
+    {
+      "timestamp_utc": "2026-11-05T16:54:24.297016+00:00",
+      "fee_lamports": 5025,
+      "cumulative_lamports": 236150,
+      "description": "slot=465778775 leader=FBbqKvwL tier=0 mode=shared_account_contention"
+    },
+    {
+      "timestamp_utc": "2026-11-05T16:54:24.297021+00:00",
+      "fee_lamports": 5250,
+      "cumulative_lamports": 241400,
+      "description": "slot=465778775 leader=FBbqKvwL tier=1 mode=independent_writelock"
+    },
+    {
+      "timestamp_utc": "2026-11-05T16:54:24.297025+00:00",
+      "fee_lamports": 5250,
+      "cumulative_lamports": 246650,
+      "description": "slot=465778775 leader=FBbqKvwL tier=1 mode=shared_account_contention"
+    },
+    {
+      "timestamp_utc": "2026-11-05T16:54:24.297029+00:00",
+      "fee_lamports": 6250,
+      "cumulative_lamports": 252900,
+      "description": "slot=465778775 leader=FBbqKvwL tier=2 mode=independent_writelock"
+    }
+  ]
+}

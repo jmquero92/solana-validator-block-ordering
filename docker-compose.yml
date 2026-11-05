@@ -1,0 +1,19 @@
+services:
+  block-ordering-harness:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: solana-validator-block-ordering
+    environment:
+      - SOLANA_RPC_URL=${SOLANA_RPC_URL:-https://api.mainnet-beta.solana.com}
+      - MAX_SPEND_SOL=${MAX_SPEND_SOL:-0.05}
+      - TARGET_VALIDATORS=${TARGET_VALIDATORS:-8}
+      - KEYPAIR_PATH=/keys/id.json
+      - SOLANA_KEYPAIR_JSON=${SOLANA_KEYPAIR_JSON:-}
+    volumes:
+      - ./data:/app/data
+      - ./keys:/keys:ro
+    # Runs in safe --verify-only / dry-run mode by default.
+    # To run live Mainnet window capture (dry-run): docker compose run --rm block-ordering-harness
+    # To run with real sending behind explicit flag + 0.05 SOL cap: docker compose run --rm block-ordering-harness --live
+    command: ["--verify-only"]
