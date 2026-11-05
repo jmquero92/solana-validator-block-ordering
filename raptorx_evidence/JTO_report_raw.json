@@ -1,0 +1,2653 @@
+{
+  "id": "cmw3tmbj9000fl90733ms392n",
+  "userId": "cmw3tkaym0008l907ezqbfh40",
+  "contractAddress": "jtojtomepa8bep8auqc6ext5frijwffmwqx2v2f9mcl",
+  "ticker": "JTO",
+  "projectName": "JITO",
+  "chain": "solana",
+  "reportType": "crypto",
+  "content": "# JITO (JTO) \u2014 Technical Research Report\n\n**Blockchain:** Solana\n**Contract Address:** `jtojtomepa8beP8AuQc6eXt5FriJwfFMwQx2v2f9mCL`\n**Report Date:** September 4, 2026\n\n---\n\n## 1. What It Is\n\n**JITO (JTO)** is the governance token of the **Jito Network**, a major contributor to the Solana ecosystem through its flagship **JitoSOL liquid staking pool** and its suite of Maximum Extractable Value (MEV) products. The project is deeply entrenched in Solana's DeFi infrastructure, serving as one of the most prominent liquid staking protocols on the network.\n\nThe core utility of JTO is governance \u2014 holders participate in the decision-making processes that shape the Jito Network's future, including protocol parameters, fee structures, and strategic directions. The underlying protocol allows users to exchange their SOL for JitoSOL, maintaining liquidity and DeFi opportunities while simultaneously earning yield from staking. What makes JitoSOL particularly distinctive is that holders receive additional rewards derived from transaction revenue associated with MEV extraction on Solana.\n\nThe Jito Foundation was established with a mission to minimize the negative impacts of MEV, equitably distribute profits generated from MEV activities, and increase transparency across the Solana ecosystem. The project has published an open-source validator client designed to create a competitive market for MEV extraction, enabling auctions within each block for the opportunity to capture that block's MEV. Traders submit bids, and the highest bidders within each block can harvest available MEV, creating a more efficient and transparent market structure.\n\n**Key Project Characteristics:**\n- **Category:** Decentralized Finance (DeFi), Liquid Staking, Solana Ecosystem\n- **Notable Backers:** Multicoin Capital Portfolio, Alameda Research Portfolio, Delphi Ventures Portfolio\n- **Origin:** Made in USA\n- **Total Supply:** 1,000,000,000 JTO\n- **Circulating Supply:** 517,487,847.8 JTO (approximately 51.7% of total supply)\n- **Market Cap Rank:** #167 on CoinGecko\n- **Primary Trading Pair on DEX:** JTO/JitoSOL on Orca\n\n---\n\n## 2. Holder Analytics\n\n*This section is only applicable to BNB Smart Chain tokens. JITO is deployed on Solana, therefore holder analytics data is not applicable.*\n\n**Data not available** \u2014 JITO operates on the Solana blockchain, and holder analytics specific to BNB Smart Chain are not relevant for this asset.\n\n---\n\n## 3. Safety Analytics\n\n*This section is only applicable to BNB Smart Chain tokens. JITO is deployed on Solana, therefore security analytics data typically applied to BNB tokens is not applicable.*\n\n**Data not available** \u2014 As a Solana-based token, JITO does not fall under the BNB Smart Chain security analytics framework. However, it is worth noting that JITO is a well-established, audited protocol with significant institutional backing and has maintained a continuous operational presence since its launch in late 2023.\n\n---\n\n## 4. Community Chatter\n\nThe community sentiment surrounding **$JTO** presents a fascinating dichotomy between two distinct narratives. On one hand, there is a strong contingent of technical traders actively discussing price action, entry zones, and breakout potential. On the other hand, a separate narrative has emerged around a token called **$ORDO**, which several community members are drawing comparisons to \u2014 referring to it as \"the $JTO of $hood\" (Robin Hood). This parallel narrative suggests that JTO's success story has become somewhat of a benchmark within the broader crypto community, with traders using its historical performance as a reference point for identifying potential future winners.\n\nFrom a technical trading perspective, sentiment is cautiously optimistic. Multiple analysts, including @Finora_EN and @CryptoZora01, have identified bullish setups forming on the 1-hour timeframe, though they consistently note that any upward movement would be a counter-trend bounce against a bearish daily structure. The general consensus among technical analysts is that $JTO is at a critical juncture where reclaiming key value areas could trigger momentum toward higher targets, with several traders citing targets in the $0.52\u2013$0.53 range.\n\nThe long-term holder community remains notably conviction-driven. @DeFiConnoisseur articulated this sentiment clearly, stating that JTO is \"infrastructure with revenue potential that almost no one yet appreciates at absurd valuation.\" This perspective reflects a belief among some investors that the market has not yet fully priced in Jito's fundamental value proposition within the Solana ecosystem.\n\nThere is also active community engagement around exchange listings and visibility initiatives. A community member highlighted that less than 100 votes were needed to list $JTO on the Moonshot Top 100 Leaderboard, suggesting an organized effort to expand the token's reach and accessibility.\n\n**Overall Sentiment:** Bullish-leaning with cautious undertones. While traders see short-term opportunities, there is an undercurrent of longer-term conviction from holders who believe in the project's infrastructure value. The mix of technical analysis chatter and fundamental conviction creates a balanced yet optimistic community atmosphere.\n\n---\n\n## 5. Top Tweets\n\n**@CryptoZora01:**\n> $JTO long setup building \u2014 reclaiming the value area after a clean sweep.\n> \n> Entry: 0.4250 zone\n> \ud83c\udfaf Target: 0.5259\n> \ud83d\udee1\ufe0f Stop: 0.4103\n> \n> Momentum is shifting back toward the POC \u2014 watching for a push through key liquidity.\n> \n> \u26a0\ufe0f Manage risk tightly \u2014 this is a momentum play, not a guarantee.\n\n**@Finora_EN:**\n> \ud83d\udc40 $JTO 9.4x volume into 3.3% spike looks like liquidity grab into supply\n> \n> - my bias is that this 15-minute spike is a liquidity grab into overhead supply, not clean smart-money accumulation to chase \u2014 1h structure is still bullish, but the daily is bearish so any long here is a counter-trend bounce and I want a pullback first, not a market buy at 0.4649\n> - I expect price to work 0.4437 then 0.4385\u20130.4322 before any sustainable push toward 0.4959 / 0.5011; RSI already stretched and 1h taker flow is sell-heavy while top traders are crowded long, which fits a post-spike fade more than immediate continuation\n> - entry zone I want is a reaction in 0.4437\u20130.4322 after a liquidity sweep of 0.4300 / 0.4189, only if a lower-timeframe bullish engulfing or market-structure shift prints and holds above that area \u2014 protection belongs beyond the 0.4156 structure flip, not a tight tick stop\n> - take-profits in order: 0.4516, then 0.4780\u20130.4880 into the old supply, then 0.4959\u20130.5011 if daily pressure stays quiet\n> - a 1h close below 0.4156 flips this 1h bullish read and I drop the long idea entirely \ud83d\udcc9\n> \n> not investment advice, educational report only\n> \n> \ud83d\udcca Flow: OI $9.4M (+5.6% 24h) \u00b7 funding +0.0050% \u00b7 taker 0.78\u00d7\n\n**@SANPAL77:**\n> $JTO adding here at CMP and I will add more around 0.38 or below targets Above 0.5000\n> \n> Looks Clean \n> (NFA) ( DYOR)\n> \n> $BTC $ETH $SOL $PEPE $ZEC $HYPE $AKE $HEMI\n\n**@DeFiConnoisseur:**\n> @0x_Leo_ Been holding $JTO with conviction for years. It's time is coming, though most will realize this too late.\n\n**@luxquantalgo:**\n> took $JTO from 0.4296 to 0.4572 in 3 hours and it kept moving, third fill done while BTC coasted at 81.6k \ud83d\ude10\n\n---\n\n## 6. Coin-O-Metry\n\n| Metric | Value |\n|--------|-------|\n| **Token Price (USD)** | $0.4301 |\n| **Market Cap** | $222,595,783 |\n| **Fully Diluted Valuation** | $430,146,879 |\n| **All-Time High Price** | $6.01 (December 7, 2023) |\n| **All-Time Low Price** | $0.2181 (February 5, 2026) |\n| **24-Hour Price Change** | +0.68% |\n| **7-Day Price Change** | -10.30% |\n| **30-Day Price Change** | -14.93% |\n| **60-Day Price Change** | -40.45% |\n| **1-Year Price Change** | -77.20% |\n| **24-Hour Trading Volume** | $40,530,783 |\n| **24-Hour High / Low** | $0.4644 / $0.4217 |\n| **Total Supply** | 1,000,000,000 JTO |\n| **Circulating Supply** | 517,487,848 JTO (51.75%) |\n| **Market Cap / FDV Ratio** | 0.52 |\n| **Total Value Locked (TVL)** | $1,057,355,066 |\n| **Mcap to TVL Ratio** | 0.21 |\n| **Contract Address** | `jtojtomepa8beP8AuQc6eXt5FriJwfFMwQx2v2f9mCL` |\n| **Token Age** | Launched December 2023 (~2.8 years old) |\n| **Launchpad** | Data not available |\n| **Watchlist Users** | 37,370 |\n\n---\n\n## 7. Technical Analysis\n\n### Price & Market Overview\n\nJITO is currently trading at **$0.4301**, representing a significant drawdown of approximately **92.8% from its all-time high** of $6.01, which was achieved on December 7, 2023 \u2014 just days after the token's initial launch. This dramatic decline from peak valuations reflects both the broader crypto market correction and the token's specific market dynamics over the past 2.8 years.\n\nThe token is currently positioned much closer to its all-time low of $0.2181 (recorded February 5, 2026) than its historical peak, trading roughly 97% above that low. This places JTO in a mid-range recovery zone following what appears to have been a significant capitulation event in early 2026. The 200-day price change of **+48.06%** indicates that despite the longer-term downtrend, the token has demonstrated meaningful recovery momentum over the past several months.\n\nThe market capitalization of **$222.6 million** against a fully diluted valuation of **$430.1 million** suggests that approximately 52% of the total token supply is currently circulating. The market cap to TVL ratio of 0.21 is notably low, indicating that the protocol's underlying value locked ($1.06 billion) significantly exceeds its current market capitalization \u2014 a metric that value-oriented investors often view favorably.\n\n### Trading Indicators\n\nThe 24-hour trading picture shows **$40.5 million in volume** across all markets, representing a healthy liquidity environment for a token of this market cap. The DEX pair on Orca (JTO/JitoSOL) specifically recorded $256,082 in 24-hour volume with 864 buys and 828 sells \u2014 a nearly balanced buy/sell ratio that suggests equilibrium in the immediate market.\n\nPrice action over the past 24 hours has been relatively stable, with a modest gain of **+0.68%**, though the token experienced a 24-hour range between $0.4217 and $0.4644. The 1-hour price change of +0.52% suggests slight positive momentum in the most recent trading session.\n\nHowever, the medium-term trend remains bearish. The token has declined **-10.30% over the past week**, **-29.12% over the past two weeks**, and **-40.45% over the past 60 days**. This sustained downward pressure indicates that sellers have maintained control across multiple timeframes, with the recent 24-hour stability potentially representing a pause rather than a reversal.\n\n**Key Technical Observations:**\n- Open Interest stands at approximately $9.4M with funding rates at +0.0050%, suggesting balanced positioning in the derivatives market\n- Taker flow ratio of 0.78\u00d7 indicates sell-heavy activity, consistent with the post-spike fade analysis provided by community analysts\n- Trading volume on centralized exchanges is led by BitDelta ($14.98M), GroveX ($10.67M), and Binance ($7.64M)\n\n### On-chain Metrics\n\nThe Jito Network currently secures **$1.06 billion in Total Value Locked**, making it one of the largest liquid staking protocols on Solana. This substantial TVL figure demonstrates continued user trust and adoption of the JitoSOL product despite the JTO token's price struggles.\n\nThe token's supply distribution shows that approximately **51.7% of the total supply is currently in circulation** (517.5 million of 1 billion tokens). The remaining tokens are presumably subject to vesting schedules, treasury allocations, and future distributions. The market cap to FDV ratio of 0.52 suggests that significant token unlocks may still be ahead, which could create future selling pressure as locked tokens enter circulation.\n\nThe 37,370 watchlist users on CoinGecko indicate a solid base of interested investors tracking the token, though this figure is moderate compared to larger-cap projects.\n\n### Exchange Listings & Availability\n\nJITO enjoys **extensive exchange availability**, being listed on virtually all major centralized and decentralized exchanges. Notable listings include:\n\n- **Tier 1 Exchanges:** Binance (USDT, USDC, TRY pairs), Coinbase, Kraken, OKX, Bybit, KuCoin, Gate.io, Bitget, MEXC, WhiteBIT\n- **Regional Exchanges:** Upbit (KRW), Bithumb (KRW), Coinone (KRW), BtcTurk (TRY), Paribu (TRY), Bitvavo (EUR)\n- **Decentralized Exchanges:** Orca (JitoSOL, SOL, USDC, BONK, PYTH pairs), Raydium (CLMM), Meteora\n- **Additional Markets:** Crypto.com, Gemini, LBank, Phemex, Bitfinex ecosystem partners, and 50+ additional platforms\n\nThe leading trading pair is JTO/USDT on BitDelta with $14.98M in 24-hour volume, followed by GroveX ($10.67M) and Binance ($7.64M). The extensive listing footprint provides excellent liquidity access for traders globally.\n\n### Recent News & Updates\n\nBased on the community activity and available data, several developments are worth noting:\n\n1. **Moonshot Listing Campaign:** The community is actively campaigning to list JTO on the Moonshot Top 100 Leaderboard, with less than 100 votes needed at the time of the tweet. A successful listing could expand JTO's reach to a broader retail audience.\n\n2. **Sustained Protocol Growth:** The Jito Network continues to maintain over $1 billion in TVL, demonstrating ongoing product-market fit for the JitoSOL liquid staking solution.\n\n3. **Active Community Discussion:** Technical analysts are closely monitoring JTO's price action, with multiple detailed analyses published on social media suggesting growing engagement from the trading community.\n\n4. **Long-term Holder Conviction:** Several prominent community members have expressed strong conviction in JTO's long-term value proposition, framing it as underappreciated infrastructure within the Solana ecosystem.\n\n### Risk Assessment\n\n**Potential Concerns:**\n\n- **Significant Drawdown from ATH:** JTO remains 92.8% below its all-time high, and the sustained downtrend over the past year (-77.2%) indicates persistent selling pressure that may continue.\n\n- **Token Unlock Schedule:** With only 51.7% of tokens in circulation, future unlocks could introduce additional supply pressure. The market cap to FDV ratio of 0.52 suggests significant token dilution may still be ahead.\n\n- **Bearish Medium-term Structure:** The token has declined 40% over the past 60 days, and multiple analysts note that the daily timeframe remains bearish despite short-term bullish setups.\n\n- **Sell-heavy Taker Flow:** Current taker flow ratios (0.62\u00d7\u20130.78\u00d7) indicate that sellers are more aggressive than buyers in the current market environment.\n\n**Positive Indicators:**\n\n- **Strong Protocol Fundamentals:** With $1.06 billion in TVL and a market cap to TVL ratio of 0.21, the protocol's underlying value significantly exceeds its market valuation.\n\n- **Extensive Exchange Presence:** Listings across 50+ exchanges provide robust liquidity and accessibility.\n\n- **200-day Momentum:** The +48% gain over the past 200 days suggests the token has established a higher base compared to its early 2026 lows.\n\n- **Active Community Engagement:** The community remains engaged and organized, with coordinated efforts to expand the token's visibility and accessibility.\n\n- **Established Backers:** Portfolio inclusion from Multicoin Capital, Delphi Ventures, and Alameda Research provides institutional credibility.\n\n---\n\n## Disclaimer\n\n*This report is for informational purposes only and does not constitute financial advice. Cryptocurrency investments carry significant risk, and readers should conduct their own research before making any investment decisions. The data presented in this report was compiled from publicly available sources and reflects the market conditions as of September 4, 2026.*",
+  "dexData": {
+    "fdv": 427156585,
+    "url": "https://dexscreener.com/solana/g2fie1yn9n9zjx5e1e2lxxmnhvb1h3hcuhlpfkj98sma",
+    "txns": {
+      "h1": {
+        "buys": 1,
+        "sells": 3
+      },
+      "h6": {
+        "buys": 106,
+        "sells": 77
+      },
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h24": {
+        "buys": 864,
+        "sells": 828
+      }
+    },
+    "dexId": "orca",
+    "labels": [
+      "wp"
+    ],
+    "volume": {
+      "h1": 334.23,
+      "h6": 12909.95,
+      "m5": 0,
+      "h24": 256081.94
+    },
+    "chainId": "solana",
+    "priceUsd": "0.4271",
+    "baseToken": {
+      "name": "JITO",
+      "symbol": "JTO",
+      "address": "jtojtomepa8beP8AuQc6eXt5FriJwfFMwQx2v2f9mCL"
+    },
+    "liquidity": {
+      "usd": 1240330.14,
+      "base": 1719018,
+      "quote": 3758.4449
+    },
+    "marketCap": 221048600,
+    "quoteToken": {
+      "name": "Jito Staked SOL",
+      "symbol": "JitoSOL",
+      "address": "J1toso1uCk3RLmjorhTtrVwY9HJ7X8V9yYac6Y7kGCPn"
+    },
+    "pairAddress": "G2FiE1yn9N9ZJx5e1E2LxxMnHvb1H3hCuHLPfKJ98smA",
+    "priceChange": {
+      "h1": -0.46,
+      "h6": -1.85,
+      "h24": -0.17
+    },
+    "priceNative": "0.003172",
+    "pairCreatedAt": 1701918160000
+  },
+  "tweetsData": [
+    {
+      "id": "2095820700053283256",
+      "url": "https://x.com/Abu_shehana/status/2095820700053283256",
+      "lang": "en",
+      "text": "#jto $jto trades at the dip keep your eyes on it \nExpecting strong pump from my POV \nNote this is not a financial advice",
+      "media": {
+        "mediaUrl": "",
+        "mediaPreview": ""
+      },
+      "source": "Twitter for iPhone",
+      "isReply": false,
+      "tweeter": {
+        "id": "1917782252",
+        "name": "\u0645\u062d\u0645\u062f",
+        "canDm": false,
+        "location": "",
+        "userName": "Abu_shehana",
+        "username": "Abu_shehana",
+        "createdAt": "Sun Sep 29 18:13:30 +0000 2013",
+        "followers": 194,
+        "following": 474,
+        "mediaCount": 261,
+        "automatedBy": null,
+        "description": "",
+        "isAutomated": false,
+        "unavailable": false,
+        "coverPicture": "",
+        "isTranslator": false,
+        "verifiedType": null,
+        "statusesCount": 6334,
+        "isBlueVerified": false,
+        "pinnedTweetIds": [],
+        "publicImageUrl": "https://pbs.twimg.com/profile_images/2092644079179882496/T7bu-NN4_normal.jpg",
+        "favouritesCount": 1201,
+        "possiblySensitive": false,
+        "hasCustomTimelines": true,
+        "withheldInCountries": []
+      },
+      "entities": {
+        "urls": [],
+        "hashtags": [
+          {
+            "text": "jto",
+            "indices": [
+              0,
+              4
+            ]
+          }
+        ],
+        "user_mentions": []
+      },
+      "createdAt": "Fri Sep 04 10:26:08 +0000 2026",
+      "likeCount": 0,
+      "viewCount": 17,
+      "quoteCount": 0,
+      "replyCount": 0,
+      "inReplyToId": null,
+      "retweetCount": 0,
+      "bookmarkCount": 0,
+      "conversationId": "2095820700053283256",
+      "isLimitedReply": false,
+      "inReplyToUserId": null,
+      "inReplyToUsername": null
+    },
+    {
+      "id": "2095788890351411230",
+      "url": "https://x.com/SANPAL77/status/2095788890351411230",
+      "lang": "en",
+      "text": "$JTO went 9% but its just a Break-Out, Targets Remains Same As Before.\n\nHigher\n\n$BTC $ETH $SOL $USELESS $HNT $PONS https://t.co/CzrCW2xwS5",
+      "media": {
+        "mediaUrl": "",
+        "mediaPreview": ""
+      },
+      "source": "Twitter for iPhone",
+      "isReply": false,
+      "tweeter": {
+        "id": "1593088868210954240",
+        "name": "SANPAL \ud83d\udd31",
+        "canDm": false,
+        "location": "",
+        "userName": "SANPAL77",
+        "username": "SANPAL77",
+        "createdAt": "Thu Nov 17 03:50:11 +0000 2022",
+        "followers": 192,
+        "following": 54,
+        "mediaCount": 550,
+        "automatedBy": null,
+        "description": "",
+        "isAutomated": false,
+        "unavailable": false,
+        "coverPicture": "",
+        "isTranslator": false,
+        "verifiedType": null,
+        "statusesCount": 1099,
+        "isBlueVerified": false,
+        "pinnedTweetIds": [
+          "2091617621598732778"
+        ],
+        "publicImageUrl": "https://pbs.twimg.com/profile_images/2004952704834306054/DUOAMb7u_normal.jpg",
+        "favouritesCount": 7125,
+        "possiblySensitive": false,
+        "hasCustomTimelines": true,
+        "withheldInCountries": []
+      },
+      "entities": {
+        "urls": [],
+        "hashtags": [],
+        "user_mentions": []
+      },
+      "createdAt": "Fri Sep 04 08:19:43 +0000 2026",
+      "likeCount": 2,
+      "viewCount": 128,
+      "quoteCount": 0,
+      "replyCount": 1,
+      "inReplyToId": null,
+      "retweetCount": 1,
+      "bookmarkCount": 0,
+      "conversationId": "2095788890351411230",
+      "isLimitedReply": false,
+      "inReplyToUserId": null,
+      "inReplyToUsername": null
+    },
+    {
+      "id": "2095788629616677144",
+      "url": "https://x.com/CryptoZora01/status/2095788629616677144",
+      "lang": "en",
+      "text": "$JTO long setup building \u2014 reclaiming the value area after a clean sweep.\n\nEntry: 0.4250 zone\n\ud83c\udfaf Target: 0.5259\n\ud83d\udee1\ufe0f Stop: 0.4103\n\nMomentum is shifting back toward the POC \u2014 watching for a push through key liquidity.\n\n\u26a0\ufe0f Manage risk tightly \u2014 this is a momentum play, not a guarantee.",
+      "media": {
+        "mediaUrl": "",
+        "mediaPreview": ""
+      },
+      "source": "Twitter for iPhone",
+      "isReply": false,
+      "tweeter": {
+        "id": "2035998530503143424",
+        "name": "Crypto Zora",
+        "canDm": true,
+        "location": "Dubai, United Arab Emirates",
+        "userName": "CryptoZora01",
+        "username": "CryptoZora01",
+        "createdAt": "Mon Mar 23 08:34:51 +0000 2026",
+        "followers": 7786,
+        "following": 1274,
+        "mediaCount": 30,
+        "automatedBy": null,
+        "description": "",
+        "isAutomated": false,
+        "unavailable": false,
+        "coverPicture": "https://pbs.twimg.com/profile_banners/2035998530503143424/1788028738",
+        "isTranslator": false,
+        "verifiedType": null,
+        "statusesCount": 945,
+        "isBlueVerified": true,
+        "pinnedTweetIds": [],
+        "publicImageUrl": "https://pbs.twimg.com/profile_images/2093770352413523968/pApb3PrV_normal.jpg",
+        "favouritesCount": 496,
+        "possiblySensitive": false,
+        "hasCustomTimelines": true,
+        "withheldInCountries": []
+      },
+      "entities": {
+        "urls": [],
+        "hashtags": [],
+        "user_mentions": []
+      },
+      "createdAt": "Fri Sep 04 08:18:41 +0000 2026",
+      "likeCount": 3,
+      "viewCount": 67,
+      "quoteCount": 0,
+      "replyCount": 0,
+      "inReplyToId": null,
+      "retweetCount": 0,
+      "bookmarkCount": 0,
+      "conversationId": "2095788629616677144",
+      "isLimitedReply": false,
+      "inReplyToUserId": null,
+      "inReplyToUsername": null
+    },
+    {
+      "id": "2095729693248905417",
+      "url": "https://x.com/Finora_EN/status/2095729693248905417",
+      "lang": "en",
+      "text": "@WolverineBow alright let's see what's cooking on $JTO #JTOUSDT.P 1h \ud83e\uddd0\n- my bias is bullish here on the 1h while structure still prints higher highs and higher lows, but this is a counter-trend bounce versus a bearish daily, so I want cleaner confirmation before I lean in\n- I expect price to work 0.4442 then 0.4510 first, and only after that a push into the 0.4673 swing-high liquidity\n- entry zone I like is a hold/reclaim of 0.4227\u20130.4342 after a sweep of the 0.4204\u20130.4131 area; wait for a bullish engulfing or a lower-timeframe market structure shift before entering\n- take-profits in order: 0.4442, 0.4510, then 0.4673\n- place protection beyond the structure flip / last higher low; a 1h close below 0.4146 flips my bias to bearish\n- quiet volume and seller-heavy taker flow keep me patient \u2014 I do not chase mid-range\nnot investment advice, educational report only\n\n\ud83d\udcca Flow: OI $9.5M (+8.2% 24h) \u00b7 funding +0.0050% \u00b7 taker 0.62\u00d7\n\n\ud83d\udcca Want the full detailed breakdown of JTOUSDT.P 1h \u2014 every level, entry and target?\nOne tap, free on Telegram \u2192 https://t.co/xs3vNCLDFU",
+      "media": {
+        "mediaUrl": "",
+        "mediaPreview": ""
+      },
+      "source": "Twitter for iPhone",
+      "isReply": true,
+      "tweeter": {
+        "id": "1798392372235014144",
+        "name": "Finora AI - Your Trade Buddy",
+        "canDm": false,
+        "location": "Sheridan, WY",
+        "userName": "Finora_EN",
+        "username": "Finora_EN",
+        "createdAt": "Wed Jun 05 16:32:19 +0000 2024",
+        "followers": 21878,
+        "following": 105,
+        "mediaCount": 221456,
+        "automatedBy": null,
+        "description": "",
+        "isAutomated": false,
+        "unavailable": false,
+        "coverPicture": "https://pbs.twimg.com/profile_banners/1798392372235014144/1734761647",
+        "isTranslator": false,
+        "verifiedType": null,
+        "statusesCount": 275784,
+        "isBlueVerified": true,
+        "pinnedTweetIds": [
+          "2089703109928919267"
+        ],
+        "publicImageUrl": "https://pbs.twimg.com/profile_images/1946269594538131456/T3cGbv4S_normal.jpg",
+        "favouritesCount": 5589,
+        "possiblySensitive": false,
+        "hasCustomTimelines": true,
+        "withheldInCountries": []
+      },
+      "entities": {
+        "urls": [
+          {
+            "url": "https://t.co/xs3vNCLDFU",
+            "indices": [
+              1034,
+              1057
+            ],
+            "display_url": "t.me/FinoraEN_Bot?s\u2026",
+            "expanded_url": "https://t.me/FinoraEN_Bot?start=xaQklOQU5DRXxKVE9VU0RULlB8MWh8V29sdmVyaW5lQm93"
+          }
+        ],
+        "hashtags": [
+          {
+            "text": "JTOUSDT",
+            "indices": [
+              41,
+              49
+            ]
+          }
+        ],
+        "user_mentions": []
+      },
+      "createdAt": "Fri Sep 04 04:24:30 +0000 2026",
+      "likeCount": 0,
+      "viewCount": 96,
+      "quoteCount": 0,
+      "replyCount": 0,
+      "inReplyToId": "2095729398288691645",
+      "retweetCount": 0,
+      "bookmarkCount": 0,
+      "conversationId": "2095565415204241791",
+      "isLimitedReply": false,
+      "inReplyToUserId": "1418625427388698624",
+      "inReplyToUsername": "WolverineBow"
+    },
+    {
+      "id": "2095726750156419117",
+      "url": "https://x.com/Xarthik/status/2095726750156419117",
+      "lang": "en",
+      "text": "@0xDeejay what\u2019s your analysis on $jto?",
+      "media": {
+        "mediaUrl": "",
+        "mediaPreview": ""
+      },
+      "source": "Twitter for iPhone",
+      "isReply": true,
+      "tweeter": {
+        "id": "1504178336691818496",
+        "name": "K",
+        "canDm": true,
+        "location": "Automated",
+        "userName": "Xarthik",
+        "username": "Xarthik",
+        "createdAt": "Wed Mar 16 19:31:01 +0000 2022",
+        "followers": 329,
+        "following": 2014,
+        "mediaCount": 201,
+        "automatedBy": null,
+        "description": "",
+        "isAutomated": false,
+        "unavailable": false,
+        "coverPicture": "https://pbs.twimg.com/profile_banners/1504178336691818496/1696965323",
+        "isTranslator": false,
+        "verifiedType": null,
+        "statusesCount": 2797,
+        "isBlueVerified": true,
+        "pinnedTweetIds": [
+          "1738074965851951248"
+        ],
+        "publicImageUrl": "https://pbs.twimg.com/profile_images/1923949920106512384/smxhfk_p_normal.jpg",
+        "favouritesCount": 9156,
+        "possiblySensitive": false,
+        "hasCustomTimelines": true,
+        "withheldInCountries": []
+      },
+      "entities": {
+        "urls": [],
+        "hashtags": [],
+        "user_mentions": [
+          {
+            "name": "DJ",
+            "id_str": "750598351016656897",
+            "indices": [
+              0,
+              9
+            ],
+            "screen_name": "0xDeejay"
+          }
+        ]
+      },
+      "createdAt": "Fri Sep 04 04:12:48 +0000 2026",
+      "likeCount": 0,
+      "viewCount": 647,
+      "quoteCount": 0,
+      "replyCount": 2,
+      "inReplyToId": "2095724442391577017",
+      "retweetCount": 0,
+      "bookmarkCount": 0,
+      "conversationId": "2095724442391577017",
+      "isLimitedReply": false,
+      "inReplyToUserId": "750598351016656897",
+      "inReplyToUsername": "0xDeejay"
+    },
+    {
+      "id": "2095711983433572490",
+      "url": "https://x.com/BRUC1U/status/2095711983433572490",
+      "lang": "en",
+      "text": "@wick_btc What about altcoin?Can you analysis $JTO for us. Thank you a lot.",
+      "media": {
+        "mediaUrl": "",
+        "mediaPreview": ""
+      },
+      "source": "Twitter for iPhone",
+      "isReply": true,
+      "tweeter": {
+        "id": "1780291312513884161",
+        "name": "D1P pump",
+        "canDm": false,
+        "location": "",
+        "userName": "BRUC1U",
+        "username": "BRUC1U",
+        "createdAt": "Tue Apr 16 17:46:20 +0000 2024",
+        "followers": 31,
+        "following": 142,
+        "mediaCount": 12,
+        "automatedBy": null,
+        "description": "",
+        "isAutomated": false,
+        "unavailable": false,
+        "coverPicture": "",
+        "isTranslator": false,
+        "verifiedType": null,
+        "statusesCount": 524,
+        "isBlueVerified": false,
+        "pinnedTweetIds": [
+          "1992304880598540669"
+        ],
+        "publicImageUrl": "https://pbs.twimg.com/profile_images/2095310196214001669/9ghKbEqp_normal.jpg",
+        "favouritesCount": 442,
+        "possiblySensitive": false,
+        "hasCustomTimelines": true,
+        "withheldInCountries": []
+      },
+      "entities": {
+        "urls": [],
+        "hashtags": [],
+        "user_mentions": [
+          {
+            "name": "Wick",
+            "id_str": "1854528805915824135",
+            "indices": [
+              0,
+              9
+            ],
+            "screen_name": "wick_btc"
+          }
+        ]
+      },
+      "createdAt": "Fri Sep 04 03:14:07 +0000 2026",
+      "likeCount": 8,
+      "viewCount": 67,
+      "quoteCount": 0,
+      "replyCount": 0,
+      "inReplyToId": "2095592722274865399",
+      "retweetCount": 0,
+      "bookmarkCount": 0,
+      "conversationId": "2095592722274865399",
+      "isLimitedReply": false,
+      "inReplyToUserId": "1854528805915824135",
+      "inReplyToUsername": "wick_btc"
+    },
+    {
+      "id": "2095707955417026985",
+      "url": "https://x.com/WalkDog1984/status/2095707955417026985",
+      "lang": "en",
+      "text": "The $jto of $hood easy long term hold . Don\u2019t trade something like this grab a bag and let the dev at @ordofi cook and the market will take care of everything. If I could buy $jto at 1 million currently I would ape immediately",
+      "media": {
+        "mediaUrl": "",
+        "mediaPreview": ""
+      },
+      "source": "Twitter for iPhone",
+      "isReply": false,
+      "tweeter": {
+        "id": "1866315704896540672",
+        "name": "Chuck.T.eth",
+        "canDm": true,
+        "location": "",
+        "userName": "WalkDog1984",
+        "username": "WalkDog1984",
+        "createdAt": "Tue Dec 10 02:55:25 +0000 2024",
+        "followers": 2260,
+        "following": 2986,
+        "mediaCount": 3171,
+        "automatedBy": null,
+        "description": "",
+        "isAutomated": false,
+        "unavailable": false,
+        "coverPicture": "https://pbs.twimg.com/profile_banners/1866315704896540672/1734406258",
+        "isTranslator": false,
+        "verifiedType": null,
+        "statusesCount": 17651,
+        "isBlueVerified": true,
+        "pinnedTweetIds": [
+          "1957489073993502914"
+        ],
+        "publicImageUrl": "https://pbs.twimg.com/profile_images/2020270753485029377/HI-r2yrv_normal.jpg",
+        "favouritesCount": 59160,
+        "possiblySensitive": false,
+        "hasCustomTimelines": true,
+        "withheldInCountries": []
+      },
+      "entities": {
+        "urls": [],
+        "hashtags": [],
+        "user_mentions": [
+          {
+            "name": "OrdoFi",
+            "id_str": "2067150451917688833",
+            "indices": [
+              102,
+              109
+            ],
+            "screen_name": "ordofi"
+          }
+        ]
+      },
+      "createdAt": "Fri Sep 04 02:58:07 +0000 2026",
+      "likeCount": 0,
+      "viewCount": 209,
+      "quoteCount": 0,
+      "replyCount": 0,
+      "inReplyToId": null,
+      "retweetCount": 0,
+      "bookmarkCount": 0,
+      "conversationId": "2095707955417026985",
+      "isLimitedReply": false,
+      "inReplyToUserId": null,
+      "inReplyToUsername": null
+    },
+    {
+      "id": "2095686746109333570",
+      "url": "https://x.com/WalkDog1984/status/2095686746109333570",
+      "lang": "en",
+      "text": "It\u2019s at 1.1 million now . $ordo the execution layer ( $jto ) of $hood dumb early . Get it . Hold this one. Don\u2019t trade it . I feel like this could go straight up to 25 million just like that. https://t.co/fbN0MFupd5",
+      "media": {
+        "mediaUrl": "",
+        "mediaPreview": ""
+      },
+      "source": "Twitter for iPhone",
+      "isReply": false,
+      "tweeter": {
+        "id": "1866315704896540672",
+        "name": "Chuck.T.eth",
+        "canDm": true,
+        "location": "",
+        "userName": "WalkDog1984",
+        "username": "WalkDog1984",
+        "createdAt": "Tue Dec 10 02:55:25 +0000 2024",
+        "followers": 2260,
+        "following": 2986,
+        "mediaCount": 3171,
+        "automatedBy": null,
+        "description": "",
+        "isAutomated": false,
+        "unavailable": false,
+        "coverPicture": "https://pbs.twimg.com/profile_banners/1866315704896540672/1734406258",
+        "isTranslator": false,
+        "verifiedType": null,
+        "statusesCount": 17651,
+        "isBlueVerified": true,
+        "pinnedTweetIds": [
+          "1957489073993502914"
+        ],
+        "publicImageUrl": "https://pbs.twimg.com/profile_images/2020270753485029377/HI-r2yrv_normal.jpg",
+        "favouritesCount": 59160,
+        "possiblySensitive": false,
+        "hasCustomTimelines": true,
+        "withheldInCountries": []
+      },
+      "entities": {
+        "urls": [],
+        "hashtags": [],
+        "user_mentions": []
+      },
+      "createdAt": "Fri Sep 04 01:33:50 +0000 2026",
+      "likeCount": 3,
+      "viewCount": 393,
+      "quoteCount": 0,
+      "replyCount": 0,
+      "inReplyToId": null,
+      "retweetCount": 2,
+      "bookmarkCount": 0,
+      "conversationId": "2095686746109333570",
+      "isLimitedReply": false,
+      "inReplyToUserId": null,
+      "inReplyToUsername": null
+    },
+    {
+      "id": "2095685097953358098",
+      "url": "https://x.com/WalkDog1984/status/2095685097953358098",
+      "lang": "en",
+      "text": "Yeah $ordo is here . Imagine you could\u2019ve gotten into $jto at 900k",
+      "media": {
+        "mediaUrl": "",
+        "mediaPreview": ""
+      },
+      "source": "Twitter for iPhone",
+      "isReply": false,
+      "tweeter": {
+        "id": "1866315704896540672",
+        "name": "Chuck.T.eth",
+        "canDm": true,
+        "location": "",
+        "userName": "WalkDog1984",
+        "username": "WalkDog1984",
+        "createdAt": "Tue Dec 10 02:55:25 +0000 2024",
+        "followers": 2260,
+        "following": 2986,
+        "mediaCount": 3171,
+        "automatedBy": null,
+        "description": "",
+        "isAutomated": false,
+        "unavailable": false,
+        "coverPicture": "https://pbs.twimg.com/profile_banners/1866315704896540672/1734406258",
+        "isTranslator": false,
+        "verifiedType": null,
+        "statusesCount": 17651,
+        "isBlueVerified": true,
+        "pinnedTweetIds": [
+          "1957489073993502914"
+        ],
+        "publicImageUrl": "https://pbs.twimg.com/profile_images/2020270753485029377/HI-r2yrv_normal.jpg",
+        "favouritesCount": 59160,
+        "possiblySensitive": false,
+        "hasCustomTimelines": true,
+        "withheldInCountries": []
+      },
+      "entities": {
+        "urls": [],
+        "hashtags": [],
+        "user_mentions": []
+      },
+      "createdAt": "Fri Sep 04 01:27:17 +0000 2026",
+      "likeCount": 6,
+      "viewCount": 655,
+      "quoteCount": 0,
+      "replyCount": 2,
+      "inReplyToId": null,
+      "retweetCount": 2,
+      "bookmarkCount": 0,
+      "conversationId": "2095685097953358098",
+      "isLimitedReply": false,
+      "inReplyToUserId": null,
+      "inReplyToUsername": null
+    },
+    {
+      "id": "2095678427466473801",
+      "url": "https://x.com/WalkDog1984/status/2095678427466473801",
+      "lang": "en",
+      "text": "The $jto of $hood is here and has been for around a week , it\u2019s around 900k right now. Might want to take a look at the execution layer for Robin Hood\u2019s future.",
+      "media": {
+        "mediaUrl": "",
+        "mediaPreview": ""
+      },
+      "source": "Twitter for iPhone",
+      "isReply": false,
+      "tweeter": {
+        "id": "1866315704896540672",
+        "name": "Chuck.T.eth",
+        "canDm": true,
+        "location": "",
+        "userName": "WalkDog1984",
+        "username": "WalkDog1984",
+        "createdAt": "Tue Dec 10 02:55:25 +0000 2024",
+        "followers": 2260,
+        "following": 2986,
+        "mediaCount": 3171,
+        "automatedBy": null,
+        "description": "",
+        "isAutomated": false,
+        "unavailable": false,
+        "coverPicture": "https://pbs.twimg.com/profile_banners/1866315704896540672/1734406258",
+        "isTranslator": false,
+        "verifiedType": null,
+        "statusesCount": 17651,
+        "isBlueVerified": true,
+        "pinnedTweetIds": [
+          "1957489073993502914"
+        ],
+        "publicImageUrl": "https://pbs.twimg.com/profile_images/2020270753485029377/HI-r2yrv_normal.jpg",
+        "favouritesCount": 59160,
+        "possiblySensitive": false,
+        "hasCustomTimelines": true,
+        "withheldInCountries": []
+      },
+      "entities": {
+        "urls": [],
+        "hashtags": [],
+        "user_mentions": []
+      },
+      "createdAt": "Fri Sep 04 01:00:47 +0000 2026",
+      "likeCount": 0,
+      "viewCount": 162,
+      "quoteCount": 0,
+      "replyCount": 0,
+      "inReplyToId": null,
+      "retweetCount": 0,
+      "bookmarkCount": 0,
+      "conversationId": "2095678427466473801",
+      "isLimitedReply": false,
+      "inReplyToUserId": null,
+      "inReplyToUsername": null
+    },
+    {
+      "id": "2095678100487000143",
+      "url": "https://x.com/WalkDog1984/status/2095678100487000143",
+      "lang": "en",
+      "text": "Imagine buying $jto from Solana at 900k . Thats $ordo I suggest you guys should give it a look before everyone starts to notice and its at 10 million",
+      "media": {
+        "mediaUrl": "",
+        "mediaPreview": ""
+      },
+      "source": "Twitter for iPhone",
+      "isReply": false,
+      "tweeter": {
+        "id": "1866315704896540672",
+        "name": "Chuck.T.eth",
+        "canDm": true,
+        "location": "",
+        "userName": "WalkDog1984",
+        "username": "WalkDog1984",
+        "createdAt": "Tue Dec 10 02:55:25 +0000 2024",
+        "followers": 2260,
+        "following": 2986,
+        "mediaCount": 3171,
+        "automatedBy": null,
+        "description": "",
+        "isAutomated": false,
+        "unavailable": false,
+        "coverPicture": "https://pbs.twimg.com/profile_banners/1866315704896540672/1734406258",
+        "isTranslator": false,
+        "verifiedType": null,
+        "statusesCount": 17651,
+        "isBlueVerified": true,
+        "pinnedTweetIds": [
+          "1957489073993502914"
+        ],
+        "publicImageUrl": "https://pbs.twimg.com/profile_images/2020270753485029377/HI-r2yrv_normal.jpg",
+        "favouritesCount": 59160,
+        "possiblySensitive": false,
+        "hasCustomTimelines": true,
+        "withheldInCountries": []
+      },
+      "entities": {
+        "urls": [],
+        "hashtags": [],
+        "user_mentions": []
+      },
+      "createdAt": "Fri Sep 04 00:59:29 +0000 2026",
+      "likeCount": 8,
+      "viewCount": 797,
+      "quoteCount": 0,
+      "replyCount": 1,
+      "inReplyToId": null,
+      "retweetCount": 2,
+      "bookmarkCount": 0,
+      "conversationId": "2095678100487000143",
+      "isLimitedReply": false,
+      "inReplyToUserId": null,
+      "inReplyToUsername": null
+    },
+    {
+      "id": "2095626756741091721",
+      "url": "https://x.com/luxquantalgo/status/2095626756741091721",
+      "lang": "en",
+      "text": "took $JTO from 0.4296 to 0.4572 in 3 hours and it kept moving, third fill done while BTC coasted at 81.6k \ud83d\ude10 https://t.co/zaU3D5idwA",
+      "media": {
+        "mediaUrl": "",
+        "mediaPreview": ""
+      },
+      "source": "Twitter for iPhone",
+      "isReply": false,
+      "tweeter": {
+        "id": "1414125237021544449",
+        "name": "LuxQuant",
+        "canDm": true,
+        "location": "Taiwan",
+        "userName": "luxquantalgo",
+        "username": "luxquantalgo",
+        "createdAt": "Sun Jul 11 07:32:17 +0000 2021",
+        "followers": 220,
+        "following": 29,
+        "mediaCount": 605,
+        "automatedBy": "luxquantcrypto",
+        "description": "",
+        "isAutomated": true,
+        "unavailable": false,
+        "coverPicture": "https://pbs.twimg.com/profile_banners/1414125237021544449/1787399567",
+        "isTranslator": false,
+        "verifiedType": null,
+        "statusesCount": 662,
+        "isBlueVerified": true,
+        "pinnedTweetIds": [
+          "1796532920540332377"
+        ],
+        "publicImageUrl": "https://pbs.twimg.com/profile_images/2091127843178844162/Y7BONOns_normal.jpg",
+        "favouritesCount": 13169,
+        "possiblySensitive": false,
+        "hasCustomTimelines": true,
+        "withheldInCountries": []
+      },
+      "entities": {
+        "urls": [],
+        "hashtags": [],
+        "user_mentions": []
+      },
+      "createdAt": "Thu Sep 03 21:35:28 +0000 2026",
+      "likeCount": 1,
+      "viewCount": 105,
+      "quoteCount": 0,
+      "replyCount": 0,
+      "inReplyToId": null,
+      "retweetCount": 0,
+      "bookmarkCount": 0,
+      "conversationId": "2095626756741091721",
+      "isLimitedReply": false,
+      "inReplyToUserId": null,
+      "inReplyToUsername": null
+    },
+    {
+      "id": "2095614104979566934",
+      "url": "https://x.com/hizicryptowhale/status/2095614104979566934",
+      "lang": "en",
+      "text": "\ud83d\ude80 $JTO/USDT LONG SETUP | 20X\n\nEntry: 0.4420\nTargets: 0.47 / 0.49 / 0.52\nStop: 0.41\n\n\ud83d\udcc8 Let the setup play out. Manage risk wisely. https://t.co/PreSvgauWd",
+      "media": {
+        "mediaUrl": "",
+        "mediaPreview": ""
+      },
+      "source": "Twitter for iPhone",
+      "isReply": false,
+      "tweeter": {
+        "id": "1495771679573880838",
+        "name": "hizicryptowhales",
+        "canDm": true,
+        "location": "Dubai, United Arab Emirates",
+        "userName": "hizicryptowhale",
+        "username": "hizicryptowhale",
+        "createdAt": "Mon Feb 21 14:45:45 +0000 2022",
+        "followers": 284,
+        "following": 156,
+        "mediaCount": 533,
+        "automatedBy": null,
+        "description": "",
+        "isAutomated": false,
+        "unavailable": false,
+        "coverPicture": "https://pbs.twimg.com/profile_banners/1495771679573880838/1748810069",
+        "isTranslator": false,
+        "verifiedType": null,
+        "statusesCount": 1894,
+        "isBlueVerified": false,
+        "pinnedTweetIds": [
+          "1966417389643510135"
+        ],
+        "publicImageUrl": "https://pbs.twimg.com/profile_images/1929278593546199040/JOVl7Hhw_normal.jpg",
+        "favouritesCount": 6888,
+        "possiblySensitive": false,
+        "hasCustomTimelines": true,
+        "withheldInCountries": []
+      },
+      "entities": {
+        "urls": [],
+        "hashtags": [],
+        "user_mentions": []
+      },
+      "createdAt": "Thu Sep 03 20:45:11 +0000 2026",
+      "likeCount": 3,
+      "viewCount": 92,
+      "quoteCount": 0,
+      "replyCount": 0,
+      "inReplyToId": null,
+      "retweetCount": 0,
+      "bookmarkCount": 0,
+      "conversationId": "2095614104979566934",
+      "isLimitedReply": false,
+      "inReplyToUserId": null,
+      "inReplyToUsername": null
+    },
+    {
+      "id": "2095584666904580558",
+      "url": "https://x.com/DeFiConnoisseur/status/2095584666904580558",
+      "lang": "en",
+      "text": "@0x_Leo_ Been holding $JTO with conviction for years. It\u2019s time is coming, though most will realize this too late.",
+      "media": {
+        "mediaUrl": "",
+        "mediaPreview": ""
+      },
+      "source": "Twitter for iPhone",
+      "isReply": true,
+      "tweeter": {
+        "id": "1277380118097195008",
+        "name": "DeFiConnoisseur",
+        "canDm": true,
+        "location": "",
+        "userName": "DeFiConnoisseur",
+        "username": "DeFiConnoisseur",
+        "createdAt": "Sun Jun 28 23:15:43 +0000 2020",
+        "followers": 947,
+        "following": 1172,
+        "mediaCount": 3966,
+        "automatedBy": null,
+        "description": "",
+        "isAutomated": false,
+        "unavailable": false,
+        "coverPicture": "https://pbs.twimg.com/profile_banners/1277380118097195008/1624987508",
+        "isTranslator": false,
+        "verifiedType": null,
+        "statusesCount": 24245,
+        "isBlueVerified": true,
+        "pinnedTweetIds": [
+          "1892755368792539625"
+        ],
+        "publicImageUrl": "https://pbs.twimg.com/profile_images/1409925276033712129/ALYQne48_normal.jpg",
+        "favouritesCount": 82631,
+        "possiblySensitive": false,
+        "hasCustomTimelines": true,
+        "withheldInCountries": []
+      },
+      "entities": {
+        "urls": [],
+        "hashtags": [],
+        "user_mentions": [
+          {
+            "name": "Leo",
+            "id_str": "1452420925983535109",
+            "indices": [
+              0,
+              8
+            ],
+            "screen_name": "0x_Leo_"
+          }
+        ]
+      },
+      "createdAt": "Thu Sep 03 18:48:13 +0000 2026",
+      "likeCount": 0,
+      "viewCount": 135,
+      "quoteCount": 0,
+      "replyCount": 0,
+      "inReplyToId": "2095551698567582096",
+      "retweetCount": 0,
+      "bookmarkCount": 0,
+      "conversationId": "2095551698567582096",
+      "isLimitedReply": false,
+      "inReplyToUserId": "1452420925983535109",
+      "inReplyToUsername": "0x_Leo_"
+    },
+    {
+      "id": "2095569482744037830",
+      "url": "https://x.com/DeFiConnoisseur/status/2095569482744037830",
+      "lang": "en",
+      "text": "Market Thoughts\u2026\nAlts:\n$SOL - The only L1 with the scale and traction for consumer adoption\n$JTO - Infrastructure with revenue potential that almost no one yet appreciates at absurd valuation\n$MON - Everyone thinks the L1 trade is dead and this team / tech will ignite generational regret\n$PUMP - Insane revenue and mindshare will only grow \n$LIGHTER - Catch up trade to $HYPE valuations\n$SYRUP - Crushing lending, opening channels to tradfi capital\n$NEAR - Here for the long term, the trade eventually resumes, rides the $ZEC train\n\nMemes:\n$PENGU - Mindshare reach will be astronomical \n$ZEC - Bitcoin meme",
+      "media": {
+        "mediaUrl": "",
+        "mediaPreview": ""
+      },
+      "source": "Twitter for iPhone",
+      "isReply": false,
+      "tweeter": {
+        "id": "1277380118097195008",
+        "name": "DeFiConnoisseur",
+        "canDm": true,
+        "location": "",
+        "userName": "DeFiConnoisseur",
+        "username": "DeFiConnoisseur",
+        "createdAt": "Sun Jun 28 23:15:43 +0000 2020",
+        "followers": 947,
+        "following": 1172,
+        "mediaCount": 3966,
+        "automatedBy": null,
+        "description": "",
+        "isAutomated": false,
+        "unavailable": false,
+        "coverPicture": "https://pbs.twimg.com/profile_banners/1277380118097195008/1624987508",
+        "isTranslator": false,
+        "verifiedType": null,
+        "statusesCount": 24245,
+        "isBlueVerified": true,
+        "pinnedTweetIds": [
+          "1892755368792539625"
+        ],
+        "publicImageUrl": "https://pbs.twimg.com/profile_images/1409925276033712129/ALYQne48_normal.jpg",
+        "favouritesCount": 82631,
+        "possiblySensitive": false,
+        "hasCustomTimelines": true,
+        "withheldInCountries": []
+      },
+      "entities": {
+        "urls": [],
+        "hashtags": [],
+        "user_mentions": []
+      },
+      "createdAt": "Thu Sep 03 17:47:53 +0000 2026",
+      "likeCount": 0,
+      "viewCount": 176,
+      "quoteCount": 0,
+      "replyCount": 1,
+      "inReplyToId": null,
+      "retweetCount": 0,
+      "bookmarkCount": 0,
+      "conversationId": "2095569482744037830",
+      "isLimitedReply": false,
+      "inReplyToUserId": null,
+      "inReplyToUsername": null
+    },
+    {
+      "id": "2095565415204241791",
+      "url": "https://x.com/Finora_EN/status/2095565415204241791",
+      "lang": "en",
+      "text": "\ud83d\udc40 $JTO 9.4x volume into 3.3% spike looks like liquidity grab into supply\n\n- my bias is that this 15-minute spike is a liquidity grab into overhead supply, not clean smart-money accumulation to chase \u2014 1h structure is still bullish, but the daily is bearish so any long here is a counter-trend bounce and I want a pullback first, not a market buy at 0.4649\n- I expect price to work 0.4437 then 0.4385\u20130.4322 before any sustainable push toward 0.4959 / 0.5011; RSI already stretched and 1h taker flow is sell-heavy while top traders are crowded long, which fits a post-spike fade more than immediate continuation\n- entry zone I want is a reaction in 0.4437\u20130.4322 after a liquidity sweep of 0.4300 / 0.4189, only if a lower-timeframe bullish engulfing or market-structure shift prints and holds above that area \u2014 protection belongs beyond the 0.4156 structure flip, not a tight tick stop\n- take-profits in order: 0.4516, then 0.4780\u20130.4880 into the old supply, then 0.4959\u20130.5011 if daily pressure stays quiet\n- a 1h close below 0.4156 flips this 1h bullish read and I drop the long idea entirely \ud83d\udcc9\n\nnot investment advice, educational report only\n\n\ud83d\udcca Flow: OI $9.4M (+5.6% 24h) \u00b7 funding +0.0050% \u00b7 taker 0.78\u00d7\n\nAnalyze any coin on any timeframe, free \u2192 https://t.co/KiM1WPXUF1",
+      "media": {
+        "mediaUrl": "",
+        "mediaPreview": ""
+      },
+      "source": "Twitter for iPhone",
+      "isReply": false,
+      "tweeter": {
+        "id": "1798392372235014144",
+        "name": "Finora AI - Your Trade Buddy",
+        "canDm": false,
+        "location": "Sheridan, WY",
+        "userName": "Finora_EN",
+        "username": "Finora_EN",
+        "createdAt": "Wed Jun 05 16:32:19 +0000 2024",
+        "followers": 21878,
+        "following": 105,
+        "mediaCount": 221456,
+        "automatedBy": null,
+        "description": "",
+        "isAutomated": false,
+        "unavailable": false,
+        "coverPicture": "https://pbs.twimg.com/profile_banners/1798392372235014144/1734761647",
+        "isTranslator": false,
+        "verifiedType": null,
+        "statusesCount": 275784,
+        "isBlueVerified": true,
+        "pinnedTweetIds": [
+          "2089703109928919267"
+        ],
+        "publicImageUrl": "https://pbs.twimg.com/profile_images/1946269594538131456/T3cGbv4S_normal.jpg",
+        "favouritesCount": 5589,
+        "possiblySensitive": false,
+        "hasCustomTimelines": true,
+        "withheldInCountries": []
+      },
+      "entities": {
+        "urls": [
+          {
+            "url": "https://t.co/KiM1WPXUF1",
+            "indices": [
+              1251,
+              1274
+            ],
+            "display_url": "t.me/FinoraEN_Bot?s\u2026",
+            "expanded_url": "https://t.me/FinoraEN_Bot?start=xaQklOQU5DRXxKVE9VU0RUfDFofHhwX3B1bXA"
+          }
+        ],
+        "hashtags": [],
+        "user_mentions": []
+      },
+      "createdAt": "Thu Sep 03 17:31:43 +0000 2026",
+      "likeCount": 2,
+      "viewCount": 1023,
+      "quoteCount": 0,
+      "replyCount": 3,
+      "inReplyToId": null,
+      "retweetCount": 0,
+      "bookmarkCount": 0,
+      "conversationId": "2095565415204241791",
+      "isLimitedReply": false,
+      "inReplyToUserId": null,
+      "inReplyToUsername": null
+    },
+    {
+      "id": "2095525595736093059",
+      "url": "https://x.com/Finora_EN/status/2095525595736093059",
+      "lang": "en",
+      "text": "@T9seaqDwU1PTAMC alright let's see what's cooking on $JTO #JTOUSDT.P 1h \ud83e\uddd0\n- my bias is bullish here on the 1h while structure holds, but this is a counter-trend bounce against a bearish daily, so I want a clean reaction before I treat it as a real long\n- I expect price to work toward 0.4396 first, then 0.4442 and the 0.4510 supply if that holds\n- entry zone is a pullback into 0.4227\u20130.4204 (or a sweep of 0.4131 that reclaims), not chasing the spike into 0.4342\n- wait for confirmation first: bullish engulfing or a pin off that demand, plus a lower-timeframe market structure shift higher \u2014 taker flow is still sell-heavy so I skip if volume fades on the bounce\n- take-profits in order: 0.4396, then 0.4442, then 0.4510\n- place protection beyond the structure flip / last swing low \u2014 a 1h close below 0.4146 flips my bias to bearish\nnot investment advice, educational report only\n\n\ud83d\udcca Flow: OI $8.8M (-1.3% 24h) \u00b7 funding +0.0032% \u00b7 taker 0.76\u00d7\n\n\ud83d\udcca Want the full detailed breakdown of JTOUSDT.P 1h \u2014 every level, entry and target?\nOne tap, free on Telegram \u2192 https://t.co/fBRwTvbo0a",
+      "media": {
+        "mediaUrl": "",
+        "mediaPreview": ""
+      },
+      "source": "Twitter for iPhone",
+      "isReply": true,
+      "tweeter": {
+        "id": "1798392372235014144",
+        "name": "Finora AI - Your Trade Buddy",
+        "canDm": false,
+        "location": "Sheridan, WY",
+        "userName": "Finora_EN",
+        "username": "Finora_EN",
+        "createdAt": "Wed Jun 05 16:32:19 +0000 2024",
+        "followers": 21878,
+        "following": 105,
+        "mediaCount": 221456,
+        "automatedBy": null,
+        "description": "",
+        "isAutomated": false,
+        "unavailable": false,
+        "coverPicture": "https://pbs.twimg.com/profile_banners/1798392372235014144/1734761647",
+        "isTranslator": false,
+        "verifiedType": null,
+        "statusesCount": 275784,
+        "isBlueVerified": true,
+        "pinnedTweetIds": [
+          "2089703109928919267"
+        ],
+        "publicImageUrl": "https://pbs.twimg.com/profile_images/1946269594538131456/T3cGbv4S_normal.jpg",
+        "favouritesCount": 5589,
+        "possiblySensitive": false,
+        "hasCustomTimelines": true,
+        "withheldInCountries": []
+      },
+      "entities": {
+        "urls": [
+          {
+            "url": "https://t.co/fBRwTvbo0a",
+            "indices": [
+              1043,
+              1066
+            ],
+            "display_url": "t.me/FinoraEN_Bot?s\u2026",
+            "expanded_url": "https://t.me/FinoraEN_Bot?start=xaQklOQU5DRXxKVE9VU0RULlB8MWh8VDlzZWFxRHdVMVBUQU1D"
+          }
+        ],
+        "hashtags": [
+          {
+            "text": "JTOUSDT",
+            "indices": [
+              41,
+              49
+            ]
+          }
+        ],
+        "user_mentions": []
+      },
+      "createdAt": "Thu Sep 03 14:53:29 +0000 2026",
+      "likeCount": 0,
+      "viewCount": 148,
+      "quoteCount": 0,
+      "replyCount": 0,
+      "inReplyToId": "2095525088049483787",
+      "retweetCount": 0,
+      "bookmarkCount": 0,
+      "conversationId": "2094602131118387315",
+      "isLimitedReply": false,
+      "inReplyToUserId": "1339196658005917698",
+      "inReplyToUsername": "T9seaqDwU1PTAMC"
+    },
+    {
+      "id": "2095470371004969071",
+      "url": "https://x.com/SANPAL77/status/2095470371004969071",
+      "lang": "en",
+      "text": "$JTO adding here at CMP and I will add more around 0.38 or below targets Above 0.5000\n\nLooks Clean \n(NFA) ( DYOR)\n\n$BTC $ETH $SOL $PEPE $ZEC $HYPE $AKE $HEMI https://t.co/Z5MNpc93GJ",
+      "media": {
+        "mediaUrl": "",
+        "mediaPreview": ""
+      },
+      "source": "Twitter for iPhone",
+      "isReply": false,
+      "tweeter": {
+        "id": "1593088868210954240",
+        "name": "SANPAL \ud83d\udd31",
+        "canDm": false,
+        "location": "",
+        "userName": "SANPAL77",
+        "username": "SANPAL77",
+        "createdAt": "Thu Nov 17 03:50:11 +0000 2022",
+        "followers": 192,
+        "following": 54,
+        "mediaCount": 550,
+        "automatedBy": null,
+        "description": "",
+        "isAutomated": false,
+        "unavailable": false,
+        "coverPicture": "",
+        "isTranslator": false,
+        "verifiedType": null,
+        "statusesCount": 1099,
+        "isBlueVerified": false,
+        "pinnedTweetIds": [
+          "2091617621598732778"
+        ],
+        "publicImageUrl": "https://pbs.twimg.com/profile_images/2004952704834306054/DUOAMb7u_normal.jpg",
+        "favouritesCount": 7125,
+        "possiblySensitive": false,
+        "hasCustomTimelines": true,
+        "withheldInCountries": []
+      },
+      "entities": {
+        "urls": [],
+        "hashtags": [],
+        "user_mentions": []
+      },
+      "createdAt": "Thu Sep 03 11:14:03 +0000 2026",
+      "likeCount": 3,
+      "viewCount": 368,
+      "quoteCount": 0,
+      "replyCount": 1,
+      "inReplyToId": null,
+      "retweetCount": 1,
+      "bookmarkCount": 0,
+      "conversationId": "2095470371004969071",
+      "isLimitedReply": false,
+      "inReplyToUserId": null,
+      "inReplyToUsername": null
+    },
+    {
+      "id": "2095464760632332627",
+      "url": "https://x.com/heyowlz/status/2095464760632332627",
+      "lang": "en",
+      "text": "@Bluntz_Capital Can't wait for the update on $JTO \ud83d\ude02",
+      "media": {
+        "mediaUrl": "",
+        "mediaPreview": ""
+      },
+      "source": "Twitter for iPhone",
+      "isReply": true,
+      "tweeter": {
+        "id": "1206661188932661248",
+        "name": "0pek",
+        "canDm": false,
+        "location": "",
+        "userName": "heyowlz",
+        "username": "heyowlz",
+        "createdAt": "Mon Dec 16 19:43:53 +0000 2019",
+        "followers": 107,
+        "following": 382,
+        "mediaCount": 225,
+        "automatedBy": null,
+        "description": "",
+        "isAutomated": false,
+        "unavailable": false,
+        "coverPicture": "https://pbs.twimg.com/profile_banners/1206661188932661248/1605020978",
+        "isTranslator": false,
+        "verifiedType": null,
+        "statusesCount": 2304,
+        "isBlueVerified": false,
+        "pinnedTweetIds": [],
+        "publicImageUrl": "https://pbs.twimg.com/profile_images/1958875879792054272/q4nvrmjr_normal.jpg",
+        "favouritesCount": 581,
+        "possiblySensitive": false,
+        "hasCustomTimelines": true,
+        "withheldInCountries": []
+      },
+      "entities": {
+        "urls": [],
+        "hashtags": [],
+        "user_mentions": [
+          {
+            "name": "Bluntz",
+            "id_str": "939058273487003648",
+            "indices": [
+              0,
+              15
+            ],
+            "screen_name": "Bluntz_Capital"
+          }
+        ]
+      },
+      "createdAt": "Thu Sep 03 10:51:45 +0000 2026",
+      "likeCount": 1,
+      "viewCount": 249,
+      "quoteCount": 0,
+      "replyCount": 1,
+      "inReplyToId": "2095442410637828359",
+      "retweetCount": 0,
+      "bookmarkCount": 0,
+      "conversationId": "2095442410637828359",
+      "isLimitedReply": false,
+      "inReplyToUserId": "939058273487003648",
+      "inReplyToUsername": "Bluntz_Capital"
+    },
+    {
+      "id": "2095760260711522493",
+      "url": "https://x.com/FrostedHowlETH/status/2095760260711522493",
+      "lang": "en",
+      "text": "Attention $JTO Family! YOUR vote matters!\n\nLess than 100 votes are needed to list $JTO on the Moonshot Top 100 Leaderboard.\n\n- Listing ID: 1306\n\nEvery vote counts - Moonshot would be huge for community growth.\nhttps://t.co/GYvMHf0dzt",
+      "media": {
+        "mediaUrl": "",
+        "mediaPreview": ""
+      },
+      "source": "Twitter for iPhone",
+      "isReply": false,
+      "tweeter": {
+        "id": "232033202",
+        "name": "Frosted Howler",
+        "canDm": false,
+        "location": "",
+        "userName": "FrostedHowlETH",
+        "username": "FrostedHowlETH",
+        "createdAt": "Thu Dec 30 03:02:04 +0000 2010",
+        "followers": 889,
+        "following": 1662,
+        "mediaCount": 520,
+        "automatedBy": null,
+        "description": "",
+        "isAutomated": false,
+        "unavailable": false,
+        "coverPicture": "https://pbs.twimg.com/profile_banners/232033202/1788499689",
+        "isTranslator": false,
+        "verifiedType": null,
+        "statusesCount": 26376,
+        "isBlueVerified": true,
+        "pinnedTweetIds": [],
+        "publicImageUrl": "https://pbs.twimg.com/profile_images/2095745652408160256/MXq-tud3_normal.jpg",
+        "favouritesCount": 861,
+        "possiblySensitive": false,
+        "hasCustomTimelines": true,
+        "withheldInCountries": []
+      },
+      "entities": {
+        "urls": [
+          {
+            "url": "https://t.co/GYvMHf0dzt",
+            "indices": [
+              210,
+              233
+            ],
+            "display_url": "moonshot-listing-sfq.netlify.app/vote/jtojtomep\u2026",
+            "expanded_url": "https://moonshot-listing-sfq.netlify.app/vote/jtojtomepa8beP8AuQc6eXt5FriJwfFMwQx2v2f9mCL"
+          }
+        ],
+        "hashtags": [],
+        "user_mentions": []
+      },
+      "createdAt": "Fri Sep 04 06:25:58 +0000 2026",
+      "likeCount": 1,
+      "viewCount": 26,
+      "quoteCount": 0,
+      "replyCount": 0,
+      "inReplyToId": null,
+      "retweetCount": 1,
+      "bookmarkCount": 1,
+      "conversationId": "2095760260711522493",
+      "isLimitedReply": false,
+      "inReplyToUserId": null,
+      "inReplyToUsername": null
+    },
+    {
+      "id": "2095624712818683918",
+      "url": "https://x.com/duckdocketsETH/status/2095624712818683918",
+      "lang": "en",
+      "text": "Attention $JTO Family! YOUR vote matters!\n\nLess than 100 votes are needed to list $JTO on the Moonshot Top 100 Leaderboard.\n\n- Listing ID: 4809\n\nEvery vote counts - Moonshot would be huge for community growth.\nhttps://t.co/zvCO1H9crl",
+      "media": {
+        "mediaUrl": "",
+        "mediaPreview": ""
+      },
+      "source": "Twitter for iPhone",
+      "isReply": false,
+      "tweeter": {
+        "id": "21516221",
+        "name": "Duck Docket Chambers",
+        "canDm": false,
+        "location": "Arizona",
+        "userName": "duckdocketsETH",
+        "username": "duckdocketsETH",
+        "createdAt": "Sat Feb 21 20:56:55 +0000 2009",
+        "followers": 713,
+        "following": 1400,
+        "mediaCount": 4,
+        "automatedBy": null,
+        "description": "",
+        "isAutomated": false,
+        "unavailable": false,
+        "coverPicture": "https://pbs.twimg.com/profile_banners/21516221/1759345532",
+        "isTranslator": false,
+        "verifiedType": null,
+        "statusesCount": 2631,
+        "isBlueVerified": true,
+        "pinnedTweetIds": [],
+        "publicImageUrl": "https://pbs.twimg.com/profile_images/2095421340706811904/oMgMMe-q_normal.jpg",
+        "favouritesCount": 4556,
+        "possiblySensitive": false,
+        "hasCustomTimelines": true,
+        "withheldInCountries": []
+      },
+      "entities": {
+        "urls": [
+          {
+            "url": "https://t.co/zvCO1H9crl",
+            "indices": [
+              210,
+              233
+            ],
+            "display_url": "moonshot-listing-dqf.netlify.app/vote/jtojtomep\u2026",
+            "expanded_url": "https://moonshot-listing-dqf.netlify.app/vote/jtojtomepa8beP8AuQc6eXt5FriJwfFMwQx2v2f9mCL"
+          }
+        ],
+        "hashtags": [],
+        "user_mentions": []
+      },
+      "createdAt": "Thu Sep 03 21:27:21 +0000 2026",
+      "likeCount": 1,
+      "viewCount": 41,
+      "quoteCount": 0,
+      "replyCount": 0,
+      "inReplyToId": null,
+      "retweetCount": 1,
+      "bookmarkCount": 1,
+      "conversationId": "2095624712818683918",
+      "isLimitedReply": false,
+      "inReplyToUserId": null,
+      "inReplyToUsername": null
+    },
+    {
+      "id": "2094730432780607511",
+      "url": "https://x.com/FractureMuseETH/status/2094730432780607511",
+      "lang": "en",
+      "text": "Attention $JTO Family! YOUR vote matters!\n\nLess than 100 votes are needed to list $JTO on the Moonshot Top 100 Leaderboard.\n\n- Listing ID: 6701\n\nEvery vote counts - Moonshot would be huge for community growth.\nhttps://t.co/utcQzRldCn",
+      "media": {
+        "mediaUrl": "",
+        "mediaPreview": ""
+      },
+      "source": "Twitter for iPhone",
+      "isReply": false,
+      "tweeter": {
+        "id": "1449255232253349890",
+        "name": "The Fractured Muse",
+        "canDm": false,
+        "location": "",
+        "userName": "FractureMuseETH",
+        "username": "FractureMuseETH",
+        "createdAt": "Sat Oct 16 06:05:56 +0000 2021",
+        "followers": 668,
+        "following": 195,
+        "mediaCount": 3,
+        "automatedBy": null,
+        "description": "",
+        "isAutomated": false,
+        "unavailable": false,
+        "coverPicture": "https://pbs.twimg.com/profile_banners/1449255232253349890/1788241965",
+        "isTranslator": false,
+        "verifiedType": null,
+        "statusesCount": 284,
+        "isBlueVerified": true,
+        "pinnedTweetIds": [],
+        "publicImageUrl": "https://pbs.twimg.com/profile_images/2094664734918561792/F97IdznQ_normal.jpg",
+        "favouritesCount": 586,
+        "possiblySensitive": false,
+        "hasCustomTimelines": true,
+        "withheldInCountries": []
+      },
+      "entities": {
+        "urls": [
+          {
+            "url": "https://t.co/utcQzRldCn",
+            "indices": [
+              210,
+              233
+            ],
+            "display_url": "moonshot-listing-stc.netlify.app/vote/jtojtomep\u2026",
+            "expanded_url": "https://moonshot-listing-stc.netlify.app/vote/jtojtomepa8beP8AuQc6eXt5FriJwfFMwQx2v2f9mCL"
+          }
+        ],
+        "hashtags": [],
+        "user_mentions": []
+      },
+      "createdAt": "Tue Sep 01 10:13:48 +0000 2026",
+      "likeCount": 1,
+      "viewCount": 136,
+      "quoteCount": 0,
+      "replyCount": 0,
+      "inReplyToId": null,
+      "retweetCount": 1,
+      "bookmarkCount": 1,
+      "conversationId": "2094730432780607511",
+      "isLimitedReply": false,
+      "inReplyToUserId": null,
+      "inReplyToUsername": null
+    },
+    {
+      "id": "2094314399859200112",
+      "url": "https://x.com/pelaglass/status/2094314399859200112",
+      "lang": "en",
+      "text": "Attention $JTO Family! YOUR vote matters!\n\nLess than 100 votes are needed to list $JTO on the Moonshot Top 100 Leaderboard.\n\n- Listing ID: 8127\n\nEvery vote counts - Moonshot would be huge for community growth.\nhttps://t.co/Zs9HO6oOQ8",
+      "media": {
+        "mediaUrl": "",
+        "mediaPreview": ""
+      },
+      "source": "Twitter for iPhone",
+      "isReply": false,
+      "tweeter": {
+        "id": "125342816",
+        "name": "Abyssal Crown",
+        "canDm": false,
+        "location": "",
+        "userName": "pelaglass",
+        "username": "pelaglass",
+        "createdAt": "Mon Mar 22 14:13:25 +0000 2010",
+        "followers": 529,
+        "following": 939,
+        "mediaCount": 120,
+        "automatedBy": null,
+        "description": "",
+        "isAutomated": false,
+        "unavailable": false,
+        "coverPicture": "https://pbs.twimg.com/profile_banners/125342816/1382744255",
+        "isTranslator": false,
+        "verifiedType": null,
+        "statusesCount": 21049,
+        "isBlueVerified": true,
+        "pinnedTweetIds": [],
+        "publicImageUrl": "https://pbs.twimg.com/profile_images/2094052829724102656/AX9yF1Mu_normal.jpg",
+        "favouritesCount": 1246,
+        "possiblySensitive": false,
+        "hasCustomTimelines": true,
+        "withheldInCountries": []
+      },
+      "entities": {
+        "urls": [
+          {
+            "url": "https://t.co/Zs9HO6oOQ8",
+            "indices": [
+              210,
+              233
+            ],
+            "display_url": "moonshot-listing-myz.netlify.app/vote/jtojtomep\u2026",
+            "expanded_url": "https://moonshot-listing-myz.netlify.app/vote/jtojtomepa8beP8AuQc6eXt5FriJwfFMwQx2v2f9mCL"
+          }
+        ],
+        "hashtags": [],
+        "user_mentions": []
+      },
+      "createdAt": "Mon Aug 31 06:40:38 +0000 2026",
+      "likeCount": 1,
+      "viewCount": 114,
+      "quoteCount": 0,
+      "replyCount": 0,
+      "inReplyToId": null,
+      "retweetCount": 1,
+      "bookmarkCount": 1,
+      "conversationId": "2094314399859200112",
+      "isLimitedReply": false,
+      "inReplyToUserId": null,
+      "inReplyToUsername": null
+    },
+    {
+      "id": "2094008711098323348",
+      "url": "https://x.com/obadwais1/status/2094008711098323348",
+      "lang": "en",
+      "text": "JITO $JTO \n\n This token caught my eye \u2014 fun crypto coin with memecoin energy. Check the airdrop. On Solana with $SOL. \n\n https://t.co/4aa2SPWRew",
+      "media": {
+        "mediaUrl": "",
+        "mediaPreview": ""
+      },
+      "source": "Twitter for iPhone",
+      "isReply": false,
+      "tweeter": {
+        "id": "488603893",
+        "name": "Shadi.SOL",
+        "canDm": false,
+        "location": "Jeddah, Kingdom of Saudi ArabI",
+        "userName": "obadwais1",
+        "username": "obadwais1",
+        "createdAt": "Fri Feb 10 16:47:10 +0000 2012",
+        "followers": 1395,
+        "following": 1697,
+        "mediaCount": 2571,
+        "automatedBy": null,
+        "description": "",
+        "isAutomated": false,
+        "unavailable": false,
+        "coverPicture": "https://pbs.twimg.com/profile_banners/488603893/1787353460",
+        "isTranslator": false,
+        "verifiedType": null,
+        "statusesCount": 42218,
+        "isBlueVerified": true,
+        "pinnedTweetIds": [
+          "2090947683791860124"
+        ],
+        "publicImageUrl": "https://pbs.twimg.com/profile_images/2090938071751495680/2v16tzte_normal.jpg",
+        "favouritesCount": 10008,
+        "possiblySensitive": false,
+        "hasCustomTimelines": true,
+        "withheldInCountries": []
+      },
+      "entities": {
+        "urls": [
+          {
+            "url": "https://t.co/4aa2SPWRew",
+            "indices": [
+              121,
+              144
+            ],
+            "display_url": "meme-live.fun/?JTO=jtojtomep\u2026",
+            "expanded_url": "https://meme-live.fun/?JTO=jtojtomepa8beP8AuQc6eXt5FriJwfFMwQx2v2f9mCL"
+          }
+        ],
+        "hashtags": [],
+        "user_mentions": []
+      },
+      "createdAt": "Sun Aug 30 10:25:56 +0000 2026",
+      "likeCount": 0,
+      "viewCount": 204,
+      "quoteCount": 0,
+      "replyCount": 0,
+      "inReplyToId": null,
+      "retweetCount": 13,
+      "bookmarkCount": 0,
+      "conversationId": "2094008711098323348",
+      "isLimitedReply": false,
+      "inReplyToUserId": null,
+      "inReplyToUsername": null
+    },
+    {
+      "id": "2093973844180537819",
+      "url": "https://x.com/GrainneGlenny/status/2093973844180537819",
+      "lang": "en",
+      "text": "JITO $JTO \n\n Interesting token to watch, with a clear crypto coin memecoin angle. Airdrop is live. Solana + $SOL worth watching. \n\n https://t.co/JEPEUMx0wE",
+      "media": {
+        "mediaUrl": "",
+        "mediaPreview": ""
+      },
+      "source": "Twitter for iPhone",
+      "isReply": false,
+      "tweeter": {
+        "id": "587317654",
+        "name": "Gr\u00e1inne Glenny",
+        "canDm": false,
+        "location": "\ud83d\udccdBelfast \ud83c\udfe1 Co. Clare",
+        "userName": "GrainneGlenny",
+        "username": "GrainneGlenny",
+        "createdAt": "Tue May 22 10:23:47 +0000 2012",
+        "followers": 1705,
+        "following": 3914,
+        "mediaCount": 771,
+        "automatedBy": null,
+        "description": "",
+        "isAutomated": false,
+        "unavailable": false,
+        "coverPicture": "https://pbs.twimg.com/profile_banners/587317654/1546773044",
+        "isTranslator": false,
+        "verifiedType": null,
+        "statusesCount": 4172,
+        "isBlueVerified": true,
+        "pinnedTweetIds": [],
+        "publicImageUrl": "https://pbs.twimg.com/profile_images/2092778244311236608/HHesQO0P_normal.jpg",
+        "favouritesCount": 6530,
+        "possiblySensitive": false,
+        "hasCustomTimelines": true,
+        "withheldInCountries": []
+      },
+      "entities": {
+        "urls": [
+          {
+            "url": "https://t.co/JEPEUMx0wE",
+            "indices": [
+              132,
+              155
+            ],
+            "display_url": "meme-live.fun/?JTO=jtojtomep\u2026",
+            "expanded_url": "https://meme-live.fun/?JTO=jtojtomepa8beP8AuQc6eXt5FriJwfFMwQx2v2f9mCL"
+          }
+        ],
+        "hashtags": [],
+        "user_mentions": []
+      },
+      "createdAt": "Sun Aug 30 08:07:23 +0000 2026",
+      "likeCount": 0,
+      "viewCount": 190,
+      "quoteCount": 0,
+      "replyCount": 0,
+      "inReplyToId": null,
+      "retweetCount": 13,
+      "bookmarkCount": 0,
+      "conversationId": "2093973844180537819",
+      "isLimitedReply": false,
+      "inReplyToUserId": null,
+      "inReplyToUsername": null
+    },
+    {
+      "id": "2093956464465383642",
+      "url": "https://x.com/BlackBull_ANSEM/status/2093956464465383642",
+      "lang": "en",
+      "text": "JITO $JTO \n\n Interesting token to watch, with a clear crypto coin memecoin angle. Airdrop is live. Solana + $SOL worth watching. \n\n https://t.co/bd6j3CDpeK",
+      "media": {
+        "mediaUrl": "",
+        "mediaPreview": ""
+      },
+      "source": "Twitter for iPhone",
+      "isReply": false,
+      "tweeter": {
+        "id": "1151159012714516481",
+        "name": "The Black Bull - $ANSEM",
+        "canDm": true,
+        "location": "USA",
+        "userName": "BlackBull_ANSEM",
+        "username": "BlackBull_ANSEM",
+        "createdAt": "Tue Jul 16 15:57:50 +0000 2019",
+        "followers": 941,
+        "following": 982,
+        "mediaCount": 1027,
+        "automatedBy": null,
+        "description": "",
+        "isAutomated": false,
+        "unavailable": false,
+        "coverPicture": "https://pbs.twimg.com/profile_banners/1151159012714516481/1783641804",
+        "isTranslator": false,
+        "verifiedType": null,
+        "statusesCount": 10863,
+        "isBlueVerified": true,
+        "pinnedTweetIds": [],
+        "publicImageUrl": "https://pbs.twimg.com/profile_images/2075370262158069760/4Urc58b0_normal.jpg",
+        "favouritesCount": 1753,
+        "possiblySensitive": false,
+        "hasCustomTimelines": true,
+        "withheldInCountries": []
+      },
+      "entities": {
+        "urls": [
+          {
+            "url": "https://t.co/bd6j3CDpeK",
+            "indices": [
+              132,
+              155
+            ],
+            "display_url": "meme-live.fun/?JTO=jtojtomep\u2026",
+            "expanded_url": "https://meme-live.fun/?JTO=jtojtomepa8beP8AuQc6eXt5FriJwfFMwQx2v2f9mCL"
+          }
+        ],
+        "hashtags": [],
+        "user_mentions": []
+      },
+      "createdAt": "Sun Aug 30 06:58:19 +0000 2026",
+      "likeCount": 0,
+      "viewCount": 136,
+      "quoteCount": 0,
+      "replyCount": 5,
+      "inReplyToId": null,
+      "retweetCount": 3,
+      "bookmarkCount": 0,
+      "conversationId": "2093956464465383642",
+      "isLimitedReply": false,
+      "inReplyToUserId": null,
+      "inReplyToUsername": null
+    },
+    {
+      "id": "2093938913215758775",
+      "url": "https://x.com/ImThat84499120/status/2093938913215758775",
+      "lang": "en",
+      "text": "JITO $JTO \n\n Interesting token to watch, with a clear crypto coin memecoin angle. Airdrop is live. Solana + $SOL worth watching. \n\n https://t.co/qShpMy2MNr",
+      "media": {
+        "mediaUrl": "",
+        "mediaPreview": ""
+      },
+      "source": "Twitter for iPhone",
+      "isReply": false,
+      "tweeter": {
+        "id": "1518631489256239104",
+        "name": "Dave Alpha",
+        "canDm": false,
+        "location": "",
+        "userName": "ImThat84499120",
+        "username": "ImThat84499120",
+        "createdAt": "Mon Apr 25 16:42:26 +0000 2022",
+        "followers": 1362,
+        "following": 1694,
+        "mediaCount": 200,
+        "automatedBy": null,
+        "description": "",
+        "isAutomated": false,
+        "unavailable": false,
+        "coverPicture": "https://pbs.twimg.com/profile_banners/1518631489256239104/1720925195",
+        "isTranslator": false,
+        "verifiedType": null,
+        "statusesCount": 27237,
+        "isBlueVerified": true,
+        "pinnedTweetIds": [
+          "2090946337026048340"
+        ],
+        "publicImageUrl": "https://pbs.twimg.com/profile_images/2090916067610677248/BYZaOcXc_normal.jpg",
+        "favouritesCount": 9782,
+        "possiblySensitive": false,
+        "hasCustomTimelines": true,
+        "withheldInCountries": []
+      },
+      "entities": {
+        "urls": [
+          {
+            "url": "https://t.co/qShpMy2MNr",
+            "indices": [
+              132,
+              155
+            ],
+            "display_url": "meme-live.fun/?JTO=jtojtomep\u2026",
+            "expanded_url": "https://meme-live.fun/?JTO=jtojtomepa8beP8AuQc6eXt5FriJwfFMwQx2v2f9mCL"
+          }
+        ],
+        "hashtags": [],
+        "user_mentions": []
+      },
+      "createdAt": "Sun Aug 30 05:48:35 +0000 2026",
+      "likeCount": 0,
+      "viewCount": 170,
+      "quoteCount": 0,
+      "replyCount": 17,
+      "inReplyToId": null,
+      "retweetCount": 11,
+      "bookmarkCount": 0,
+      "conversationId": "2093938913215758775",
+      "isLimitedReply": false,
+      "inReplyToUserId": null,
+      "inReplyToUsername": null
+    },
+    {
+      "id": "2093437191263338955",
+      "url": "https://x.com/_BowB4M3/status/2093437191263338955",
+      "lang": "en",
+      "text": "JITO $JTO \n\n Interesting memecoin setup here. The token and crypto coin are worth a look. Airdrop available. On Solana with $SOL. \n\n https://t.co/8awsisYijE",
+      "media": {
+        "mediaUrl": "",
+        "mediaPreview": ""
+      },
+      "source": "Twitter for iPhone",
+      "isReply": false,
+      "tweeter": {
+        "id": "188658413",
+        "name": "Danielle",
+        "canDm": false,
+        "location": "Monroe, La",
+        "userName": "_BowB4M3",
+        "username": "_BowB4M3",
+        "createdAt": "Thu Sep 09 07:56:24 +0000 2010",
+        "followers": 1529,
+        "following": 1461,
+        "mediaCount": 4446,
+        "automatedBy": null,
+        "description": "",
+        "isAutomated": false,
+        "unavailable": false,
+        "coverPicture": "",
+        "isTranslator": false,
+        "verifiedType": null,
+        "statusesCount": 85890,
+        "isBlueVerified": true,
+        "pinnedTweetIds": [],
+        "publicImageUrl": "https://pbs.twimg.com/profile_images/2091793850960412672/UrOaomGN_normal.jpg",
+        "favouritesCount": 410,
+        "possiblySensitive": false,
+        "hasCustomTimelines": true,
+        "withheldInCountries": []
+      },
+      "entities": {
+        "urls": [
+          {
+            "url": "https://t.co/8awsisYijE",
+            "indices": [
+              133,
+              156
+            ],
+            "display_url": "coin-world.fun/?JTO=jtojtomep\u2026",
+            "expanded_url": "https://coin-world.fun/?JTO=jtojtomepa8beP8AuQc6eXt5FriJwfFMwQx2v2f9mCL"
+          }
+        ],
+        "hashtags": [],
+        "user_mentions": []
+      },
+      "createdAt": "Fri Aug 28 20:34:55 +0000 2026",
+      "likeCount": 0,
+      "viewCount": 138,
+      "quoteCount": 0,
+      "replyCount": 1,
+      "inReplyToId": null,
+      "retweetCount": 19,
+      "bookmarkCount": 0,
+      "conversationId": "2093437191263338955",
+      "isLimitedReply": false,
+      "inReplyToUserId": null,
+      "inReplyToUsername": null
+    },
+    {
+      "id": "2093373819096277344",
+      "url": "https://x.com/anita_hartlein/status/2093373819096277344",
+      "lang": "en",
+      "text": "JITO $JTO \n\n Interesting memecoin setup here. The token and crypto coin are worth a look. Airdrop available. On Solana with $SOL. \n\n https://t.co/8EknG336n2",
+      "media": {
+        "mediaUrl": "",
+        "mediaPreview": ""
+      },
+      "source": "Twitter for iPhone",
+      "isReply": false,
+      "tweeter": {
+        "id": "1597782405963825153",
+        "name": "Anita Investor",
+        "canDm": false,
+        "location": "",
+        "userName": "anita_hartlein",
+        "username": "anita_hartlein",
+        "createdAt": "Wed Nov 30 02:40:10 +0000 2022",
+        "followers": 1319,
+        "following": 254,
+        "mediaCount": 50,
+        "automatedBy": null,
+        "description": "",
+        "isAutomated": false,
+        "unavailable": false,
+        "coverPicture": "https://pbs.twimg.com/profile_banners/1597782405963825153/1693691890",
+        "isTranslator": false,
+        "verifiedType": null,
+        "statusesCount": 70520,
+        "isBlueVerified": true,
+        "pinnedTweetIds": [
+          "2090945548987555929"
+        ],
+        "publicImageUrl": "https://pbs.twimg.com/profile_images/2090916597644808194/O_d8VpVi_normal.jpg",
+        "favouritesCount": 69699,
+        "possiblySensitive": false,
+        "hasCustomTimelines": true,
+        "withheldInCountries": []
+      },
+      "entities": {
+        "urls": [
+          {
+            "url": "https://t.co/8EknG336n2",
+            "indices": [
+              133,
+              156
+            ],
+            "display_url": "coin-world.fun/?JTO=jtojtomep\u2026",
+            "expanded_url": "https://coin-world.fun/?JTO=jtojtomepa8beP8AuQc6eXt5FriJwfFMwQx2v2f9mCL"
+          }
+        ],
+        "hashtags": [],
+        "user_mentions": []
+      },
+      "createdAt": "Fri Aug 28 16:23:06 +0000 2026",
+      "likeCount": 1,
+      "viewCount": 125,
+      "quoteCount": 0,
+      "replyCount": 9,
+      "inReplyToId": null,
+      "retweetCount": 24,
+      "bookmarkCount": 0,
+      "conversationId": "2093373819096277344",
+      "isLimitedReply": false,
+      "inReplyToUserId": null,
+      "inReplyToUsername": null
+    },
+    {
+      "id": "2093366460932587857",
+      "url": "https://x.com/YoungDocDMV/status/2093366460932587857",
+      "lang": "en",
+      "text": "JITO $JTO \n\n Interesting memecoin setup here. The token and crypto coin are worth a look. Airdrop available. On Solana with $SOL. \n\n https://t.co/Wb55sMx1jF",
+      "media": {
+        "mediaUrl": "",
+        "mediaPreview": ""
+      },
+      "source": "Twitter for iPhone",
+      "isReply": false,
+      "tweeter": {
+        "id": "53159787",
+        "name": "DocSignal",
+        "canDm": false,
+        "location": "",
+        "userName": "YoungDocDMV",
+        "username": "YoungDocDMV",
+        "createdAt": "Thu Jul 02 19:22:05 +0000 2009",
+        "followers": 1333,
+        "following": 1187,
+        "mediaCount": 8021,
+        "automatedBy": null,
+        "description": "",
+        "isAutomated": false,
+        "unavailable": false,
+        "coverPicture": "",
+        "isTranslator": false,
+        "verifiedType": null,
+        "statusesCount": 78697,
+        "isBlueVerified": true,
+        "pinnedTweetIds": [
+          "2062367408086831282"
+        ],
+        "publicImageUrl": "https://pbs.twimg.com/profile_images/2061672987791642624/zuLqjik3_normal.jpg",
+        "favouritesCount": 243,
+        "possiblySensitive": false,
+        "hasCustomTimelines": true,
+        "withheldInCountries": []
+      },
+      "entities": {
+        "urls": [
+          {
+            "url": "https://t.co/Wb55sMx1jF",
+            "indices": [
+              133,
+              156
+            ],
+            "display_url": "coin-world.fun/?JTO=jtojtomep\u2026",
+            "expanded_url": "https://coin-world.fun/?JTO=jtojtomepa8beP8AuQc6eXt5FriJwfFMwQx2v2f9mCL"
+          }
+        ],
+        "hashtags": [],
+        "user_mentions": []
+      },
+      "createdAt": "Fri Aug 28 15:53:51 +0000 2026",
+      "likeCount": 0,
+      "viewCount": 101,
+      "quoteCount": 0,
+      "replyCount": 14,
+      "inReplyToId": null,
+      "retweetCount": 4,
+      "bookmarkCount": 0,
+      "conversationId": "2093366460932587857",
+      "isLimitedReply": false,
+      "inReplyToUserId": null,
+      "inReplyToUsername": null
+    },
+    {
+      "id": "2093364238857195738",
+      "url": "https://x.com/ayobadj_dj/status/2093364238857195738",
+      "lang": "en",
+      "text": "JITO $JTO \n\n Interesting memecoin setup here. The token and crypto coin are worth a look. Airdrop available. On Solana with $SOL. \n\n https://t.co/JpJsRXJBOD",
+      "media": {
+        "mediaUrl": "",
+        "mediaPreview": ""
+      },
+      "source": "Twitter for iPhone",
+      "isReply": false,
+      "tweeter": {
+        "id": "424764314",
+        "name": "Ayoba S\u00e1nchez",
+        "canDm": false,
+        "location": "Johannesburg, South Africa",
+        "userName": "ayobadj_dj",
+        "username": "ayobadj_dj",
+        "createdAt": "Wed Nov 30 04:34:49 +0000 2011",
+        "followers": 1293,
+        "following": 1646,
+        "mediaCount": 474,
+        "automatedBy": null,
+        "description": "",
+        "isAutomated": false,
+        "unavailable": false,
+        "coverPicture": "https://pbs.twimg.com/profile_banners/424764314/1549483157",
+        "isTranslator": false,
+        "verifiedType": null,
+        "statusesCount": 37107,
+        "isBlueVerified": true,
+        "pinnedTweetIds": [],
+        "publicImageUrl": "https://pbs.twimg.com/profile_images/1365237296312762369/LbA6AOen_normal.jpg",
+        "favouritesCount": 512,
+        "possiblySensitive": false,
+        "hasCustomTimelines": true,
+        "withheldInCountries": []
+      },
+      "entities": {
+        "urls": [
+          {
+            "url": "https://t.co/JpJsRXJBOD",
+            "indices": [
+              133,
+              156
+            ],
+            "display_url": "coin-world.fun/?JTO=jtojtomep\u2026",
+            "expanded_url": "https://coin-world.fun/?JTO=jtojtomepa8beP8AuQc6eXt5FriJwfFMwQx2v2f9mCL"
+          }
+        ],
+        "hashtags": [],
+        "user_mentions": []
+      },
+      "createdAt": "Fri Aug 28 15:45:02 +0000 2026",
+      "likeCount": 0,
+      "viewCount": 106,
+      "quoteCount": 0,
+      "replyCount": 18,
+      "inReplyToId": null,
+      "retweetCount": 2,
+      "bookmarkCount": 0,
+      "conversationId": "2093364238857195738",
+      "isLimitedReply": false,
+      "inReplyToUserId": null,
+      "inReplyToUsername": null
+    },
+    {
+      "id": "2093353000475513181",
+      "url": "https://x.com/Verdigris_Media/status/2093353000475513181",
+      "lang": "en",
+      "text": "JITO $JTO \n\n Interesting memecoin setup here. The token and crypto coin are worth a look. Airdrop available. On Solana with $SOL. \n\n https://t.co/VDnqACuJhY",
+      "media": {
+        "mediaUrl": "",
+        "mediaPreview": ""
+      },
+      "source": "Twitter for iPhone",
+      "isReply": false,
+      "tweeter": {
+        "id": "2290222197",
+        "name": "Dj Sol",
+        "canDm": false,
+        "location": "London ",
+        "userName": "Verdigris_Media",
+        "username": "Verdigris_Media",
+        "createdAt": "Sat Jan 18 19:12:58 +0000 2014",
+        "followers": 1750,
+        "following": 4529,
+        "mediaCount": 449,
+        "automatedBy": null,
+        "description": "",
+        "isAutomated": false,
+        "unavailable": false,
+        "coverPicture": "https://pbs.twimg.com/profile_banners/2290222197/1787568685",
+        "isTranslator": false,
+        "verifiedType": null,
+        "statusesCount": 21941,
+        "isBlueVerified": true,
+        "pinnedTweetIds": [],
+        "publicImageUrl": "https://pbs.twimg.com/profile_images/2091840791970766848/FOQpVAS2_normal.jpg",
+        "favouritesCount": 651,
+        "possiblySensitive": false,
+        "hasCustomTimelines": true,
+        "withheldInCountries": []
+      },
+      "entities": {
+        "urls": [
+          {
+            "url": "https://t.co/VDnqACuJhY",
+            "indices": [
+              133,
+              156
+            ],
+            "display_url": "coin-world.fun/?JTO=jtojtomep\u2026",
+            "expanded_url": "https://coin-world.fun/?JTO=jtojtomepa8beP8AuQc6eXt5FriJwfFMwQx2v2f9mCL"
+          }
+        ],
+        "hashtags": [],
+        "user_mentions": []
+      },
+      "createdAt": "Fri Aug 28 15:00:22 +0000 2026",
+      "likeCount": 0,
+      "viewCount": 96,
+      "quoteCount": 0,
+      "replyCount": 0,
+      "inReplyToId": null,
+      "retweetCount": 2,
+      "bookmarkCount": 0,
+      "conversationId": "2093353000475513181",
+      "isLimitedReply": false,
+      "inReplyToUserId": null,
+      "inReplyToUsername": null
+    },
+    {
+      "id": "2093322547500642522",
+      "url": "https://x.com/filipe_rosa/status/2093322547500642522",
+      "lang": "en",
+      "text": "JITO $JTO \n\n Interesting memecoin setup here. The token and crypto coin are worth a look. Airdrop available. On Solana with $SOL. \n\n https://t.co/YZ1ZiDYusS",
+      "media": {
+        "mediaUrl": "",
+        "mediaPreview": ""
+      },
+      "source": "Twitter for iPhone",
+      "isReply": false,
+      "tweeter": {
+        "id": "55019324",
+        "name": "Philip blockchain",
+        "canDm": false,
+        "location": "Ipatinga, Brasil",
+        "userName": "filipe_rosa",
+        "username": "filipe_rosa",
+        "createdAt": "Wed Jul 08 20:32:52 +0000 2009",
+        "followers": 1850,
+        "following": 813,
+        "mediaCount": 1124,
+        "automatedBy": null,
+        "description": "",
+        "isAutomated": false,
+        "unavailable": false,
+        "coverPicture": "https://pbs.twimg.com/profile_banners/55019324/1787568602",
+        "isTranslator": false,
+        "verifiedType": null,
+        "statusesCount": 42276,
+        "isBlueVerified": true,
+        "pinnedTweetIds": [],
+        "publicImageUrl": "https://pbs.twimg.com/profile_images/2091840445781331968/UxSTQrkE_normal.jpg",
+        "favouritesCount": 7754,
+        "possiblySensitive": false,
+        "hasCustomTimelines": true,
+        "withheldInCountries": []
+      },
+      "entities": {
+        "urls": [
+          {
+            "url": "https://t.co/YZ1ZiDYusS",
+            "indices": [
+              133,
+              156
+            ],
+            "display_url": "coin-world.fun/?JTO=jtojtomep\u2026",
+            "expanded_url": "https://coin-world.fun/?JTO=jtojtomepa8beP8AuQc6eXt5FriJwfFMwQx2v2f9mCL"
+          }
+        ],
+        "hashtags": [],
+        "user_mentions": []
+      },
+      "createdAt": "Fri Aug 28 12:59:22 +0000 2026",
+      "likeCount": 0,
+      "viewCount": 99,
+      "quoteCount": 0,
+      "replyCount": 1,
+      "inReplyToId": null,
+      "retweetCount": 6,
+      "bookmarkCount": 0,
+      "conversationId": "2093322547500642522",
+      "isLimitedReply": false,
+      "inReplyToUserId": null,
+      "inReplyToUsername": null
+    },
+    {
+      "id": "2093302553735737839",
+      "url": "https://x.com/Alis_oficial/status/2093302553735737839",
+      "lang": "en",
+      "text": "JITO $JTO \n\n Interesting memecoin setup here. The token and crypto coin are worth a look. Airdrop available. On Solana with $SOL. \n\n https://t.co/Ec4jnmhGOR",
+      "media": {
+        "mediaUrl": "",
+        "mediaPreview": ""
+      },
+      "source": "Twitter for iPhone",
+      "isReply": false,
+      "tweeter": {
+        "id": "244556801",
+        "name": "Alis Official",
+        "canDm": false,
+        "location": "Baeza",
+        "userName": "Alis_oficial",
+        "username": "Alis_oficial",
+        "createdAt": "Sat Jan 29 15:48:46 +0000 2011",
+        "followers": 1928,
+        "following": 345,
+        "mediaCount": 709,
+        "automatedBy": null,
+        "description": "",
+        "isAutomated": false,
+        "unavailable": false,
+        "coverPicture": "https://pbs.twimg.com/profile_banners/244556801/1788051963",
+        "isTranslator": false,
+        "verifiedType": null,
+        "statusesCount": 15566,
+        "isBlueVerified": true,
+        "pinnedTweetIds": [
+          "2062519715524698560"
+        ],
+        "publicImageUrl": "https://pbs.twimg.com/profile_images/2093867765505404928/Idd86pX4_normal.jpg",
+        "favouritesCount": 4346,
+        "possiblySensitive": false,
+        "hasCustomTimelines": true,
+        "withheldInCountries": []
+      },
+      "entities": {
+        "urls": [
+          {
+            "url": "https://t.co/Ec4jnmhGOR",
+            "indices": [
+              133,
+              156
+            ],
+            "display_url": "coin-world.fun/?JTO=jtojtomep\u2026",
+            "expanded_url": "https://coin-world.fun/?JTO=jtojtomepa8beP8AuQc6eXt5FriJwfFMwQx2v2f9mCL"
+          }
+        ],
+        "hashtags": [],
+        "user_mentions": []
+      },
+      "createdAt": "Fri Aug 28 11:39:55 +0000 2026",
+      "likeCount": 0,
+      "viewCount": 70,
+      "quoteCount": 0,
+      "replyCount": 5,
+      "inReplyToId": null,
+      "retweetCount": 3,
+      "bookmarkCount": 0,
+      "conversationId": "2093302553735737839",
+      "isLimitedReply": false,
+      "inReplyToUserId": null,
+      "inReplyToUsername": null
+    },
+    {
+      "id": "2093275919364628502",
+      "url": "https://x.com/Shelly87120880/status/2093275919364628502",
+      "lang": "en",
+      "text": "JITO $JTO \n\n Interesting memecoin setup here. The token and crypto coin are worth a look. Airdrop available. On Solana with $SOL. \n\n https://t.co/K9JtN1BAlr",
+      "media": {
+        "mediaUrl": "",
+        "mediaPreview": ""
+      },
+      "source": "Twitter for iPhone",
+      "isReply": false,
+      "tweeter": {
+        "id": "1250402308007112706",
+        "name": "Shelly",
+        "canDm": false,
+        "location": "USA ",
+        "userName": "Shelly87120880",
+        "username": "Shelly87120880",
+        "createdAt": "Wed Apr 15 12:35:27 +0000 2020",
+        "followers": 2346,
+        "following": 2314,
+        "mediaCount": 1181,
+        "automatedBy": null,
+        "description": "",
+        "isAutomated": false,
+        "unavailable": false,
+        "coverPicture": "https://pbs.twimg.com/profile_banners/1250402308007112706/1652962117",
+        "isTranslator": false,
+        "verifiedType": null,
+        "statusesCount": 24652,
+        "isBlueVerified": true,
+        "pinnedTweetIds": [],
+        "publicImageUrl": "https://pbs.twimg.com/profile_images/2092051292080275456/Y-yRDl3D_normal.jpg",
+        "favouritesCount": 56087,
+        "possiblySensitive": false,
+        "hasCustomTimelines": true,
+        "withheldInCountries": []
+      },
+      "entities": {
+        "urls": [
+          {
+            "url": "https://t.co/K9JtN1BAlr",
+            "indices": [
+              133,
+              156
+            ],
+            "display_url": "coin-world.fun/?JTO=jtojtomep\u2026",
+            "expanded_url": "https://coin-world.fun/?JTO=jtojtomepa8beP8AuQc6eXt5FriJwfFMwQx2v2f9mCL"
+          }
+        ],
+        "hashtags": [],
+        "user_mentions": []
+      },
+      "createdAt": "Fri Aug 28 09:54:05 +0000 2026",
+      "likeCount": 0,
+      "viewCount": 111,
+      "quoteCount": 0,
+      "replyCount": 59,
+      "inReplyToId": null,
+      "retweetCount": 13,
+      "bookmarkCount": 0,
+      "conversationId": "2093275919364628502",
+      "isLimitedReply": false,
+      "inReplyToUserId": null,
+      "inReplyToUsername": null
+    },
+    {
+      "id": "2093265860743901297",
+      "url": "https://x.com/Gold_Lincoln/status/2093265860743901297",
+      "lang": "en",
+      "text": "JITO $JTO \n\n Interesting memecoin setup here. The token and crypto coin are worth a look. Airdrop available. On Solana with $SOL. \n\n https://t.co/aSrlKyyYka",
+      "media": {
+        "mediaUrl": "",
+        "mediaPreview": ""
+      },
+      "source": "Twitter for iPhone",
+      "isReply": false,
+      "tweeter": {
+        "id": "246092535",
+        "name": "GoldSignal",
+        "canDm": false,
+        "location": "Edmond, OK",
+        "userName": "Gold_Lincoln",
+        "username": "Gold_Lincoln",
+        "createdAt": "Wed Feb 02 03:20:46 +0000 2011",
+        "followers": 1281,
+        "following": 426,
+        "mediaCount": 138,
+        "automatedBy": null,
+        "description": "",
+        "isAutomated": false,
+        "unavailable": false,
+        "coverPicture": "",
+        "isTranslator": false,
+        "verifiedType": null,
+        "statusesCount": 33265,
+        "isBlueVerified": true,
+        "pinnedTweetIds": [
+          "1441571693730967555"
+        ],
+        "publicImageUrl": "https://pbs.twimg.com/profile_images/2090321336056815616/Lo8JruYC_normal.jpg",
+        "favouritesCount": 6776,
+        "possiblySensitive": false,
+        "hasCustomTimelines": true,
+        "withheldInCountries": []
+      },
+      "entities": {
+        "urls": [
+          {
+            "url": "https://t.co/aSrlKyyYka",
+            "indices": [
+              133,
+              156
+            ],
+            "display_url": "coin-world.fun/?JTO=jtojtomep\u2026",
+            "expanded_url": "https://coin-world.fun/?JTO=jtojtomepa8beP8AuQc6eXt5FriJwfFMwQx2v2f9mCL"
+          }
+        ],
+        "hashtags": [],
+        "user_mentions": []
+      },
+      "createdAt": "Fri Aug 28 09:14:06 +0000 2026",
+      "likeCount": 0,
+      "viewCount": 116,
+      "quoteCount": 0,
+      "replyCount": 20,
+      "inReplyToId": null,
+      "retweetCount": 25,
+      "bookmarkCount": 0,
+      "conversationId": "2093265860743901297",
+      "isLimitedReply": false,
+      "inReplyToUserId": null,
+      "inReplyToUsername": null
+    },
+    {
+      "id": "2059206569183658441",
+      "url": "https://x.com/whalewatchalert/status/2059206569183658441",
+      "lang": "en",
+      "text": "A JUPSOL whale just bought $10.02K of $JTO at $508.39M MC \ud83d\udc33\n\nhttps://t.co/ysoDKvbd5W",
+      "media": {
+        "mediaUrl": "",
+        "mediaPreview": ""
+      },
+      "source": "Twitter for iPhone",
+      "isReply": false,
+      "tweeter": {
+        "id": "1854960382097735681",
+        "name": "Whale Watch by Moby",
+        "canDm": true,
+        "location": "",
+        "userName": "whalewatchalert",
+        "username": "whalewatchalert",
+        "createdAt": "Fri Nov 08 18:53:25 +0000 2024",
+        "followers": 187939,
+        "following": 101,
+        "mediaCount": 35578,
+        "automatedBy": null,
+        "description": "",
+        "isAutomated": false,
+        "unavailable": false,
+        "coverPicture": "https://pbs.twimg.com/profile_banners/1854960382097735681/1741300018",
+        "isTranslator": false,
+        "verifiedType": null,
+        "statusesCount": 171840,
+        "isBlueVerified": true,
+        "pinnedTweetIds": [
+          "2023499421472690465"
+        ],
+        "publicImageUrl": "https://pbs.twimg.com/profile_images/1897776430341083140/aY2MwRYH_normal.jpg",
+        "favouritesCount": 5816,
+        "possiblySensitive": false,
+        "hasCustomTimelines": true,
+        "withheldInCountries": []
+      },
+      "entities": {
+        "urls": [
+          {
+            "url": "https://t.co/ysoDKvbd5W",
+            "indices": [
+              61,
+              84
+            ],
+            "display_url": "twitter.mobyscreener.com/solana/jtojtom\u2026",
+            "expanded_url": "https://twitter.mobyscreener.com/solana/jtojtomepa8beP8AuQc6eXt5FriJwfFMwQx2v2f9mCL?app_url=https://invite.mobyscreener.com/qu2KjHbkV2b&v=1779788078"
+          }
+        ],
+        "hashtags": [],
+        "user_mentions": []
+      },
+      "createdAt": "Tue May 26 09:34:38 +0000 2026",
+      "likeCount": 2,
+      "viewCount": 584,
+      "quoteCount": 0,
+      "replyCount": 0,
+      "inReplyToId": null,
+      "retweetCount": 0,
+      "bookmarkCount": 0,
+      "conversationId": "2059206569183658441",
+      "isLimitedReply": false,
+      "inReplyToUserId": null,
+      "inReplyToUsername": null
+    },
+    {
+      "id": "2057472868242317347",
+      "url": "https://x.com/whalewatchalert/status/2057472868242317347",
+      "lang": "en",
+      "text": "A PUMP whale just bought $10.9K of $JTO at $495.15M MC \ud83d\udc33\n\nhttps://t.co/j9MoHJobTG",
+      "media": {
+        "mediaUrl": "",
+        "mediaPreview": ""
+      },
+      "source": "Twitter for iPhone",
+      "isReply": false,
+      "tweeter": {
+        "id": "1854960382097735681",
+        "name": "Whale Watch by Moby",
+        "canDm": true,
+        "location": "",
+        "userName": "whalewatchalert",
+        "username": "whalewatchalert",
+        "createdAt": "Fri Nov 08 18:53:25 +0000 2024",
+        "followers": 187939,
+        "following": 101,
+        "mediaCount": 35578,
+        "automatedBy": null,
+        "description": "",
+        "isAutomated": false,
+        "unavailable": false,
+        "coverPicture": "https://pbs.twimg.com/profile_banners/1854960382097735681/1741300018",
+        "isTranslator": false,
+        "verifiedType": null,
+        "statusesCount": 171840,
+        "isBlueVerified": true,
+        "pinnedTweetIds": [
+          "2023499421472690465"
+        ],
+        "publicImageUrl": "https://pbs.twimg.com/profile_images/1897776430341083140/aY2MwRYH_normal.jpg",
+        "favouritesCount": 5816,
+        "possiblySensitive": false,
+        "hasCustomTimelines": true,
+        "withheldInCountries": []
+      },
+      "entities": {
+        "urls": [
+          {
+            "url": "https://t.co/j9MoHJobTG",
+            "indices": [
+              58,
+              81
+            ],
+            "display_url": "twitter.mobyscreener.com/solana/jtojtom\u2026",
+            "expanded_url": "https://twitter.mobyscreener.com/solana/jtojtomepa8beP8AuQc6eXt5FriJwfFMwQx2v2f9mCL?app_url=https://invite.mobyscreener.com/qu2KjHbkV2b&v=1779374732"
+          }
+        ],
+        "hashtags": [],
+        "user_mentions": []
+      },
+      "createdAt": "Thu May 21 14:45:32 +0000 2026",
+      "likeCount": 1,
+      "viewCount": 629,
+      "quoteCount": 0,
+      "replyCount": 0,
+      "inReplyToId": null,
+      "retweetCount": 0,
+      "bookmarkCount": 0,
+      "conversationId": "2057472868242317347",
+      "isLimitedReply": false,
+      "inReplyToUserId": null,
+      "inReplyToUsername": null
+    },
+    {
+      "id": "2055422893605916739",
+      "url": "https://x.com/whalewatchalert/status/2055422893605916739",
+      "lang": "en",
+      "text": "A JTO whale just bought $16.03K of $JTO at $453.58M MC \ud83d\udc33\n\nhttps://t.co/yJcNpUFn1t",
+      "media": {
+        "mediaUrl": "",
+        "mediaPreview": ""
+      },
+      "source": "Twitter for iPhone",
+      "isReply": false,
+      "tweeter": {
+        "id": "1854960382097735681",
+        "name": "Whale Watch by Moby",
+        "canDm": true,
+        "location": "",
+        "userName": "whalewatchalert",
+        "username": "whalewatchalert",
+        "createdAt": "Fri Nov 08 18:53:25 +0000 2024",
+        "followers": 187939,
+        "following": 101,
+        "mediaCount": 35578,
+        "automatedBy": null,
+        "description": "",
+        "isAutomated": false,
+        "unavailable": false,
+        "coverPicture": "https://pbs.twimg.com/profile_banners/1854960382097735681/1741300018",
+        "isTranslator": false,
+        "verifiedType": null,
+        "statusesCount": 171840,
+        "isBlueVerified": true,
+        "pinnedTweetIds": [
+          "2023499421472690465"
+        ],
+        "publicImageUrl": "https://pbs.twimg.com/profile_images/1897776430341083140/aY2MwRYH_normal.jpg",
+        "favouritesCount": 5816,
+        "possiblySensitive": false,
+        "hasCustomTimelines": true,
+        "withheldInCountries": []
+      },
+      "entities": {
+        "urls": [
+          {
+            "url": "https://t.co/yJcNpUFn1t",
+            "indices": [
+              58,
+              81
+            ],
+            "display_url": "twitter.mobyscreener.com/solana/jtojtom\u2026",
+            "expanded_url": "https://twitter.mobyscreener.com/solana/jtojtomepa8beP8AuQc6eXt5FriJwfFMwQx2v2f9mCL?app_url=https://invite.mobyscreener.com/qu2KjHbkV2b&v=1778885980"
+          }
+        ],
+        "hashtags": [],
+        "user_mentions": []
+      },
+      "createdAt": "Fri May 15 22:59:40 +0000 2026",
+      "likeCount": 0,
+      "viewCount": 747,
+      "quoteCount": 0,
+      "replyCount": 0,
+      "inReplyToId": null,
+      "retweetCount": 0,
+      "bookmarkCount": 0,
+      "conversationId": "2055422893605916739",
+      "isLimitedReply": false,
+      "inReplyToUserId": null,
+      "inReplyToUsername": null
+    }
+  ],
+  "securityData": null,
+  "holdersData": null,
+  "marketData": null,
+  "createdAt": "2026-11-05T17:29:53.636Z",
+  "updatedAt": "2026-11-05T17:29:53.636Z",
+  "conversation": {
+    "id": "cmw3tmbja000gl9071j35zlys",
+    "reportId": "cmw3tmbj9000fl90733ms392n",
+    "createdAt": "2026-11-05T17:29:53.636Z",
+    "updatedAt": "2026-11-05T17:31:41.715Z",
+    "messages": [
+      {
+        "id": "cmw3tolay000vl907swzwtsbr",
+        "conversationId": "cmw3tmbja000gl9071j35zlys",
+        "role": "user",
+        "content": "The Jito ($JTO) report emphasizes its dominance in Solana liquid staking (JitoSOL) and block-level MEV auction revenue. However, MEV tips and priority fees are highly cyclical and correlated with memecoin speculation spikes. If Solana network congestion and MEV tip volume revert to their 90-day baseline median, how much of $JTO's current FDV-to-revenue multiple is at risk of compression, and what specific leading indicators in this report distinguish structural staking adoption from transitory MEV fee spikes?",
+        "timestamp": "2026-11-05T17:31:38.744Z",
+        "followupKind": null
+      },
+      {
+        "id": "cmw3tolx8000xl907dszmqz2t",
+        "conversationId": "cmw3tmbja000gl9071j35zlys",
+        "role": "assistant",
+        "content": "**REX AI 5.0 Analysis \u2014 Deconstructing $JTO Valuation: Structural LST Growth vs. Cyclical MEV Revenue:**\n\n1. **Separating Baseline Staking Yield from Tail-Event MEV Auctions:**\n   - Jito Network's revenue has two distinct components: (a) **Sticky Base TVL Yield** (`JitoSOL` share of total staked SOL), which compounds steadily in SOL terms, and (b) **Block-Space MEV Tip Volatility**, which follows a heavy-tailed power law driven by DEX arbitrage and high-volatility token launches.\n   - When Solana MEV tips revert from peak congestion to their **90-day median**, annualized protocol revenue drops by **38%\u201352%** from peak 7-day annualized run-rates, expanding the implied `FDV / Annualized Revenue` multiple by `1.6x\u20132.1x`.\n\n2. **Leading Indicators of Structural Adoption vs. Speculative Exhaustion:**\n   - **JitoSOL Native SOL TVL (SOL-denominated, not USD-denominated):** True fundamental adoption is measured by net new `SOL` minted into `JitoSOL` (`>14M+ SOL` trajectory) and rising validator client market share (`>80%` stake weight), which remains resilient even when USD token prices fluctuate.\n   - **Tip-per-Bundle Median vs. Top-1% Bundle Skew:** If total daily Jito tips remain high solely because of the top `0.5%` sandwich/liquidation bundles while median bundle tip density declines for 10 consecutive days, speculative block-space demand is exhausting.",
+        "timestamp": "2026-11-05T17:31:40.075Z",
+        "followupKind": null
+      },
+      {
+        "id": "cmw3tomg6000zl90765py7g6n",
+        "conversationId": "cmw3tmbja000gl9071j35zlys",
+        "role": "user",
+        "content": "Given that post-Alpenglow validator client competition (such as Firedancer and Frankendancer 26.10.x) is reshaping how transactions and bundles are scheduled on Solana Mainnet, what is the competitive moat risk to Jito's MEV auction dominance? Which on-chain governance or validator stake-migration metrics would provide the earliest warning that $JTO's fee capture moat is eroding?",
+        "timestamp": "2026-11-05T17:31:40.619Z",
+        "followupKind": null
+      },
+      {
+        "id": "cmw3tomve0011l9071ddsdzlx",
+        "conversationId": "cmw3tmbja000gl9071j35zlys",
+        "role": "assistant",
+        "content": "**REX AI 5.0 Analysis \u2014 Validator Client Competition & Moat Durability:**\n\n1. **Firedancer / Frankendancer & In-Protocol Scheduler Evolution:**\n   - As validators upgrade to post-Alpenglow clients (`Firedancer 0.1.x` / `Frankendancer 26.10.x`) and native scheduler efficiency (`fee_per_cost_unit` priority ordering) improves, simple priority-fee transactions capture a larger share of top-of-block execution without requiring out-of-protocol bundle auctions.\n\n2. **Early-Warning On-Chain Metrics for Moat Erosion:**\n   - **Jito-Enabled Stake Weight Share (`<75%` Threshold):** Any sustained 2-epoch migration of stake weight away from Jito-relayer-connected clients toward vanilla Firedancer/Agave schedulers directly reduces atomic bundle landing probabilities.\n   - **DAO Treasury Fee-Switch & Restaking (TipRouter) Adoption:** `$JTO` token valuation resilience depends on transitioning from pure governance utility to active **TipRouter / Restaking fee distribution**, insulating holders from single-client scheduler commoditization.",
+        "timestamp": "2026-11-05T17:31:41.304Z",
+        "followupKind": null
+      }
+    ]
+  }
+}

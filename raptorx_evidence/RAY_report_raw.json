@@ -1,0 +1,1397 @@
+{
+  "id": "cmw3tmcgw000il907zbc4scmc",
+  "userId": "cmw3tkaym0008l907ezqbfh40",
+  "contractAddress": "4k3dyjzvzp8emzwuxbbcjevwskkk59s5icnly3qrkx6r",
+  "ticker": "RAY",
+  "projectName": "Raydium",
+  "chain": "solana",
+  "reportType": "crypto",
+  "content": "# Raydium (RAY) \u2014 Technical Research Report\n\n**Blockchain:** Solana | **Contract Address:** `4k3Dyjzvzp8eMZWUXbBCjEvwSkkk59S5iCNLY3QrkX6R`\n\n---\n\n## 1. What It Is\n\nRaydium is an automated market maker (AMM) and liquidity provider built natively on the Solana blockchain, designed to serve the Serum decentralized exchange (DEX) ecosystem. Launched as one of the earliest DeFi protocols on Solana, Raydium holds a first-mover advantage as an AMM integrated with Serum's central limit orderbook. Unlike traditional AMMs that operate in isolation, Raydium provides on-chain liquidity to a central limit orderbook, meaning that Raydium liquidity providers gain access to the entire order flow and liquidity of Serum. This unique architectural distinction allows Raydium LPs to benefit from cross-protocol liquidity aggregation in ways that isolated AMMs cannot.\n\nThe native token, RAY, serves as the utility and governance asset of the ecosystem. Raydium's platform encompasses a suite of DeFi products including an AMM exchange, yield farming opportunities, a launchpad for new projects, and perpetual trading capabilities. The protocol is designed to act as a bridge for projects seeking to expand to Solana and Serum, positioning the RAY token as a foundational element for enabling further development with partners and the broader ecosystem.\n\nLong-term, Raydium aims to capture and maintain a leadership position among AMMs and liquidity providers on Serum while leveraging Solana's high-throughput capabilities to drive the evolution of decentralized finance. The project is categorized across multiple sectors including Decentralized Exchange (DEX), Exchange-based Tokens, Decentralized Finance (DeFi), Yield Farming, Automated Market Maker (AMM), Perpetuals, Solana Ecosystem, and Launchpad protocols.\n\n---\n\n## 2. Holder Analytics\n\n*This section applies to BNB Smart Chain tokens only. Raydium operates on Solana, so holder analytics are not applicable here.*\n\n**Data not available** \u2014 Raydium is a Solana-based token; holder distribution analytics specific to this report format are not provided.\n\n---\n\n## 3. Safety Analytics\n\n*This section applies to BNB Smart Chain tokens only. Raydium operates on Solana, so BNB-specific security analytics are not applicable.*\n\n**Data not available** \u2014 As a Solana-native token, the security analytics framework for BNB Smart Chain tokens does not apply. However, notable safety indicators from available data include:\n\n- **Not identified as honeypot** \u2014 Raydium is a legitimate, long-standing DeFi protocol with its native token listed on major centralized exchanges including Binance, Coinbase, Kraken, OKX, KuCoin, Gate.io, and many others.\n- **No security warnings identified** \u2014 The project has operated continuously since its launch and maintains a substantial total value locked (TVL) of approximately **$1.12 billion**.\n- **Exchange Listings as Verification** \u2014 The token's presence on over 30 centralized exchanges with deep liquidity serves as a strong indicator of established legitimacy.\n\n---\n\n## 4. Community Chatter\n\nThe community surrounding $RAY is exhibiting a cautiously optimistic sentiment, with a blend of technical analysis-driven enthusiasm and measured expectations. Market participants on X (formerly Twitter) are actively discussing RAY's price structure, with several analysts noting the token's constructive chart pattern and potential for upward movement.\n\n**Key discussion themes include:**\n\n- **Technical Analysis Focus**: Multiple analysts, including @Finora_EN, have published detailed technical breakdowns of RAY's 4-hour chart, identifying key resistance levels at $0.8555, $0.8594, and $0.8832. The prevailing view suggests a bullish bias aligned with daily timeframes and Bitcoin's momentum, though some caution is advised regarding the counter-trend nature of the bounce relative to the weekly timeframe.\n\n- **Chart Structure Optimism**: @ChelseaYouthPix highlighted that RAY is \"keeping the chart constructive\" with price maintaining above the critical support level of $0.82565. This structural integrity is viewed positively by traders monitoring the token.\n\n- **Comparative Valuation Discussions**: Notable crypto commentator @Cryptic100x referenced RAY's historical peak market capitalization of approximately $2.5 billion in discussions about DEX token valuations, positioning RAY within the context of major DEX tokens like $1INCH, $JUP, and $AERO.\n\n- **General Bullish Sentiment**: Several community members including @Hirnzwaerg expressed bullish outlooks, describing $RAY as \"spicy,\" \"on the radar,\" and suggesting it \"could surprise everyone.\" These sentiments reflect a generally positive community disposition toward the token's near-term prospects.\n\n- **Active Trading Rooms**: Multiple accounts including @manuelharnanmuo, @Alechenoa, @2010_Kryz21, and @pyveter noted that trading rooms are \"following this closely\" and observing \"fresh movement\" in RAY, indicating active retail interest and monitoring.\n\n**Sentiment Assessment**: The overall community sentiment is **moderately bullish** with a technical-analysis-driven approach. While there is enthusiasm about potential upside, many commentators emphasize the importance of confirmation signals and key level breakthroughs before committing to positions. The sentiment votes on CoinGecko are evenly split at 50% positive and 50% negative, reflecting a balanced but engaged community perspective.\n\n---\n\n## 5. Top Tweets\n\n**@Finora_EN:**\n> @zugurd alright let's see what's cooking on $RAY #RAYUSDT 4h \ud83e\uddd0\n> - my bias is bullish here on the 4h, aligned with daily and BTC, but it is a counter-trend bounce versus weekly so I want a cleaner confirmation before I lean in\n> - I expect a push toward 0.8555 / 0.8594 first, then subsequently 0.8832 if that liquidity at the last swing high gets taken\n> - entry zone: 0.832\u20130.825 after a dip into demand, or a 4h reclaim/hold above 0.8521\n> - wait BEFORE entering: bullish engulfing or pin bar off that zone, or a lower-timeframe market structure shift (break of a minor high) with a sweep of 0.832 then reclaim \u2014 volume is quiet at 0.25x so I need that reaction, not a blind breakout\n> - take-profits in order: 0.8555, 0.8594, then 0.8832\n> - place protection beyond the structure flip / last higher low, not a fixed number\n> - invalidation: a 4h close below 0.7856 flips my bias to bearish\n> - factor BTC's buy-side pressure (OI up, funding positive) into the trade since alts tend to follow that tape\n> not investment advice, educational report only\n> \ud83d\udcca Want the full detailed breakdown of RAYUSDT 4h \u2014 every level, entry and target? One tap, free on Telegram \u2192 https://t.co/bSJcLzvnax\n\n**@ChelseaYouthPix:**\n> $RAY is keeping the chart constructive \ud83d\udc40\n> The important part is that price remains above 0.82565.\n> That keeps the current structure intact.\n> \ud83d\ude80 Key levels: 0.85558 / 0.86577 / 0.87596\n> Join experienced traders via the link in my bio.\n> #RAY #Crypto https://t.co/pWWKm1WvGo\n\n**@probablenumbers:**\n> $RAY \u2192 $ATTT. Raytech Holding Limited is changing its name to Atlas Trinity Tech Limited and its Nasdaq ticker from \"RAY\" to \"ATTT,\" effective at the open on or around September 10, 2026.\ud83c\udf40\n\n**@Cryptic100x:**\n> Peak DEX valuations:\n> $1INCH: $1.6B MC / $13B FDV\n> $JUP: $2.7B / $20B\n> $RAY: $2.5B / $9.3B\n> $AERO: $1.7B / $3B\n> $MANCER is a DEX on Robinhood Chain at ~$6M MC / ~$12M FDV.\n> That's less than 0.4% of the smallest peer peak market cap. The opportunity is barely priced in.\n\n**@Hirnzwaerg:**\n> @1000xgirl $RAY looking spicy \ud83c\udf36\ufe0f\ud83d\ude80\n\n---\n\n## 6. Coin-O-Metry\n\n| Metric | Value |\n|--------|-------|\n| **Token Price** | $0.8423 USD |\n| **Market Cap** | $226,997,211 (~$227M) |\n| **All-Time High Price** | $16.83 USD (September 12, 2021) |\n| **All-Time High Market Cap** | Data not available |\n| **24-Hour Price Change** | +3.64% |\n| **24-Hour Volume** | $14,033,004 |\n| **Total Holders** | Data not available |\n| **Launch Date & Token Age** | Data not available (pair created November 28, 2022) |\n| **Launchpad** | Data not available |\n| **Contract Address** | `4k3Dyjzvzp8eMZWUXbBCjEvwSkkk59S5iCNLY3QrkX6R` |\n| **Fully Diluted Valuation** | $467,403,809 |\n| **Circulating Supply** | 269,538,779.60 RAY |\n| **Total Supply** | 555,000,000 RAY |\n| **Max Supply** | 555,000,000 RAY |\n| **Market Cap Rank** | #166 |\n| **Total Value Locked (TVL)** | $1,118,585,702 |\n| **Mcap to TVL Ratio** | 0.20 |\n\n**Additional Price Statistics:**\n- **24-Hour High:** $0.8541\n- **24-Hour Low:** $0.8144\n- **All-Time Low:** $0.1344 (December 29, 2022)\n- **Price Change (7d):** +4.30%\n- **Price Change (14d):** +16.97%\n- **Price Change (30d):** +35.45%\n- **Price Change (60d):** +17.36%\n- **Price Change (200d):** -25.43%\n- **Price Change (1y):** -74.92%\n\n---\n\n## 7. Technical Analysis\n\n### Price & Market Overview\n\nRaydium is currently trading at **$0.8423**, representing a significant recovery from its all-time low of $0.1344 recorded in December 2022, yet still approximately 95% below its all-time high of $16.83 achieved in September 2021 during the peak of the previous bull market cycle. The token has demonstrated strong momentum over the past month with a 35.45% gain, suggesting renewed interest and accumulation. The current market capitalization of approximately $227 million places RAY at rank #166 among all cryptocurrencies.\n\nThe ratio of market cap to total value locked stands at 0.20, which is notably low and suggests that the token may be undervalued relative to the actual capital deployed within the protocol. The fully diluted valuation of $467 million implies a market cap to FDV ratio of 0.49, indicating that a substantial portion of the total token supply has not yet been circulated.\n\n### Trading Indicators\n\n**Volume Analysis:** The 24-hour trading volume across all markets totals approximately **$14.03 million**, with the Raydium USDC pair on DexScreener showing $411,847 in volume. The buy/sell ratio over the past 24 hours is notably bullish with **1,664 buys versus 971 sells**, representing a buy-to-sell ratio of approximately 1.71:1. This buying pressure is consistent with the positive price movement observed during the same period.\n\n**Price Momentum:** The token has shown positive momentum across multiple timeframes:\n- **1-Hour Change:** -0.05% (slight pullback)\n- **6-Hour Change:** +0.42%\n- **24-Hour Change:** +3.64%\n- **7-Day Change:** +4.30%\n- **30-Day Change:** +35.45%\n\nThe 30-day performance significantly outpaces shorter-term gains, suggesting an accelerating trend. However, the negative 200-day and 1-year changes (-25.43% and -74.92% respectively) indicate that the token remains in a longer-term downtrend despite recent recovery efforts.\n\n**Liquidity Assessment:** The Raydium USDC pool maintains substantial liquidity of approximately **$4.31 million**, with $2.56 million in RAY and $2.15 million in USDC. This provides adequate depth for trading operations. The broader market liquidity across centralized exchanges is robust, with RAY listed on major platforms including Binance, Coinbase, Kraken, OKX, and KuCoin.\n\n### On-chain Metrics\n\nThe Raydium protocol currently secures **$1.12 billion in total value locked**, demonstrating significant protocol usage and capital efficiency. The market cap to TVL ratio of 0.20 suggests that the market valuation is only one-fifth of the capital deployed within the ecosystem, which could indicate potential undervaluation if the protocol maintains its competitive position.\n\nThe circulating supply of approximately 269.5 million RAY represents about 48.6% of the total supply of 555 million tokens. The remaining tokens are presumably allocated to team, treasury, ecosystem development, and future releases as part of the token emission schedule.\n\n### Exchange Listings & Availability\n\nRaydium is exceptionally well-distributed across the cryptocurrency exchange landscape. The token is available on over 40 trading venues including:\n\n**Tier-1 Exchanges:**\n- Binance (RAY/USDT, RAY/USDC, RAY/TRY)\n- Coinbase Exchange (RAY/USD)\n- Kraken (RAY/USD, RAY/EUR)\n- OKX (RAY/USDT, RAY/USDC, RAY/USD, RAY/EUR)\n- KuCoin (RAY/USDT)\n- Gate.io (RAY/USDT)\n- Bitget (RAY/USDT)\n- MEXC (RAY/USDT, RAY/USDC)\n\n**Solana Native DEXs:**\n- Raydium (RAY/USDC, RAY/SOL, RAY/USDT)\n- Orca (RAY/SOL, RAY/USDC)\n- Meteora\n\n**Additional Exchanges:** HTX, LBank, Phemex, Bitvavo, Crypto.com Exchange, CoinEx, Bitrue, BingX, Bybit (via BYDFi), and numerous others.\n\nThe 24-hour volume is distributed across these venues, with Binance leading at approximately $1.3 million in RAY/USDT volume, followed by Raydium's native pools and HTX.\n\n### Recent News & Updates\n\nFrom the available tweet data, several notable developments and discussions are occurring:\n\n1. **Technical Breakout Potential**: Multiple analysts are highlighting RAY's constructive chart structure, with key resistance levels identified at $0.8555-$0.8832. The community appears to be positioning for a potential breakout.\n\n2. **Comparative DEX Valuations**: Commentary from @Cryptic100x references RAY's historical peak market cap of $2.5 billion, contextualizing the token's current valuation within the broader DEX sector landscape.\n\n3. **Trading Room Activity**: Multiple accounts report active monitoring and \"fresh movement\" in trading rooms focused on RAY, indicating sustained retail interest.\n\n4. **Name Confusion Note**: A tweet mentions Raytech Holding Limited changing its Nasdaq ticker from \"RAY\" to \"ATTT\" \u2014 this refers to a separate entity and not the Raydium protocol, though it may create temporary confusion in ticker-related searches.\n\n### Risk Assessment\n\n**Market Volatility Risk:** RAY has demonstrated significant volatility throughout its history, with dramatic price swings between its all-time high of $16.83 and all-time low of $0.1344. The current price remains substantially below historical peaks, and the token has experienced a 74.92% decline over the past year. This indicates that despite recent positive momentum, the token remains in a challenging market environment.\n\n**Concentration Risk:** With a circulating supply representing less than half of the total supply, future token unlocks could create selling pressure. The market cap to FDV ratio of 0.49 suggests that significant value is locked in yet-to-be-circulated tokens.\n\n**Competitive Landscape:** The DEX sector on Solana has become increasingly competitive with the emergence of protocols like Jupiter, Orca, and Meteora. Raydium's ability to maintain its position as a leading AMM will depend on continued innovation and ecosystem integration.\n\n**Protocol Risk:** As with all DeFi protocols, smart contract risk exists, though Raydium's long operational history and substantial TVL suggest a proven track record. The protocol has successfully navigated multiple market cycles since its launch.\n\n**Positive Indicators:** Despite the risks, several factors support a potentially constructive outlook: the low market cap to TVL ratio suggests fundamental value, the recent 35% monthly gain indicates renewed accumulation, and the token maintains deep liquidity across major exchanges with strong buy-side pressure in recent trading sessions.\n\n---\n\n*This report was generated based on data available as of the latest market update. Cryptocurrency investments carry inherent risks; this document serves as an informational resource and should not be construed as financial advice.*",
+  "dexData": {
+    "fdv": 468037515,
+    "url": "https://dexscreener.com/solana/6ummuiyobjsrhakaobjw8bvkmjtdvxaebtbt7rxwo1mg",
+    "info": {
+      "header": "https://cdn.dexscreener.com/cms/images/1da07e256a9a70fbdc532be8a1a78770de144c1d961bf565f7e3739341887db3?width=1500&height=500&quality=95&format=auto",
+      "socials": [
+        {
+          "url": "https://x.com/raydiumprotocol",
+          "type": "twitter"
+        }
+      ],
+      "imageUrl": "https://cdn.dexscreener.com/cms/images/654ec0cee3ecf3fd5d55c56302d82300ee114ee1ff91e52897798b486993f6c8?width=800&height=800&quality=95&format=auto",
+      "websites": [],
+      "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/4k3Dyjzvzp8eMZWUXbBCjEvwSkkk59S5iCNLY3QrkX6R?timestamp=1788520200000"
+    },
+    "txns": {
+      "h1": {
+        "buys": 18,
+        "sells": 15
+      },
+      "h6": {
+        "buys": 262,
+        "sells": 203
+      },
+      "m5": {
+        "buys": 1,
+        "sells": 0
+      },
+      "h24": {
+        "buys": 1664,
+        "sells": 971
+      }
+    },
+    "dexId": "raydium",
+    "volume": {
+      "h1": 2497.06,
+      "h6": 49186,
+      "m5": 4.31,
+      "h24": 411847.39
+    },
+    "chainId": "solana",
+    "priceUsd": "0.8433",
+    "baseToken": {
+      "name": "Raydium",
+      "symbol": "RAY",
+      "address": "4k3Dyjzvzp8eMZWUXbBCjEvwSkkk59S5iCNLY3QrkX6R"
+    },
+    "liquidity": {
+      "usd": 4309829.4,
+      "base": 2558494,
+      "quote": 2152219
+    },
+    "marketCap": 227305329,
+    "quoteToken": {
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
+    },
+    "pairAddress": "6UmmUiYoBjSrhakAobJw8BvkmJtDVxaeBtbt7rxWo1mg",
+    "priceChange": {
+      "h1": -0.16,
+      "h6": 0.42,
+      "h24": 3.41
+    },
+    "priceNative": "0.8433",
+    "pairCreatedAt": 1669602311000
+  },
+  "tweetsData": [
+    {
+      "id": "2095830335212970117",
+      "url": "https://x.com/probablenumbers/status/2095830335212970117",
+      "lang": "en",
+      "text": "$RAY \u2192 $ATTT. Raytech Holding Limited is changing its name to Atlas Trinity Tech Limited and its Nasdaq ticker from \u201cRAY\u201d to \u201cATTT,\u201d effective at the open on or around September 10, 2026.\ud83c\udf40",
+      "media": {
+        "mediaUrl": "",
+        "mediaPreview": ""
+      },
+      "source": "Twitter for iPhone",
+      "isReply": false,
+      "tweeter": {
+        "id": "1800929976990285824",
+        "name": "Super G",
+        "canDm": false,
+        "location": "West coast",
+        "userName": "probablenumbers",
+        "username": "probablenumbers",
+        "createdAt": "Wed Jun 12 16:35:59 +0000 2024",
+        "followers": 358,
+        "following": 166,
+        "mediaCount": 280,
+        "automatedBy": null,
+        "description": "",
+        "isAutomated": false,
+        "unavailable": false,
+        "coverPicture": "https://pbs.twimg.com/profile_banners/1800929976990285824/1779387277",
+        "isTranslator": false,
+        "verifiedType": null,
+        "statusesCount": 1783,
+        "isBlueVerified": true,
+        "pinnedTweetIds": [
+          "2056106308148089250"
+        ],
+        "publicImageUrl": "https://pbs.twimg.com/profile_images/2057525440089305088/eV3HGiPQ_normal.jpg",
+        "favouritesCount": 4112,
+        "possiblySensitive": false,
+        "hasCustomTimelines": true,
+        "withheldInCountries": []
+      },
+      "entities": {
+        "urls": [],
+        "hashtags": [],
+        "user_mentions": []
+      },
+      "createdAt": "Fri Sep 04 11:04:25 +0000 2026",
+      "likeCount": 0,
+      "viewCount": 18,
+      "quoteCount": 0,
+      "replyCount": 0,
+      "inReplyToId": null,
+      "retweetCount": 0,
+      "bookmarkCount": 0,
+      "conversationId": "2095830335212970117",
+      "isLimitedReply": false,
+      "inReplyToUserId": null,
+      "inReplyToUsername": null
+    },
+    {
+      "id": "2095807165084639318",
+      "url": "https://x.com/Finora_EN/status/2095807165084639318",
+      "lang": "en",
+      "text": "@zugurd alright let's see what's cooking on $RAY #RAYUSDT 4h \ud83e\uddd0\n- my bias is bullish here on the 4h, aligned with daily and BTC, but it is a counter-trend bounce versus weekly so I want a cleaner confirmation before I lean in\n- I expect a push toward 0.8555 / 0.8594 first, then subsequently 0.8832 if that liquidity at the last swing high gets taken\n- entry zone: 0.832\u20130.825 after a dip into demand, or a 4h reclaim/hold above 0.8521\n- wait BEFORE entering: bullish engulfing or pin bar off that zone, or a lower-timeframe market structure shift (break of a minor high) with a sweep of 0.832 then reclaim \u2014 volume is quiet at 0.25x so I need that reaction, not a blind breakout\n- take-profits in order: 0.8555, 0.8594, then 0.8832\n- place protection beyond the structure flip / last higher low, not a fixed number\n- invalidation: a 4h close below 0.7856 flips my bias to bearish\n- factor BTC\u2019s buy-side pressure (OI up, funding positive) into the trade since alts tend to follow that tape\nnot investment advice, educational report only\n\n\ud83d\udcca Want the full detailed breakdown of RAYUSDT 4h \u2014 every level, entry and target?\nOne tap, free on Telegram \u2192 https://t.co/bSJcLzvnax",
+      "media": {
+        "mediaUrl": "",
+        "mediaPreview": ""
+      },
+      "source": "Twitter for iPhone",
+      "isReply": true,
+      "tweeter": {
+        "id": "1798392372235014144",
+        "name": "Finora AI - Your Trade Buddy",
+        "canDm": false,
+        "location": "Sheridan, WY",
+        "userName": "Finora_EN",
+        "username": "Finora_EN",
+        "createdAt": "Wed Jun 05 16:32:19 +0000 2024",
+        "followers": 21879,
+        "following": 105,
+        "mediaCount": 221450,
+        "automatedBy": null,
+        "description": "",
+        "isAutomated": false,
+        "unavailable": false,
+        "coverPicture": "https://pbs.twimg.com/profile_banners/1798392372235014144/1734761647",
+        "isTranslator": false,
+        "verifiedType": null,
+        "statusesCount": 275777,
+        "isBlueVerified": true,
+        "pinnedTweetIds": [
+          "2089703109928919267"
+        ],
+        "publicImageUrl": "https://pbs.twimg.com/profile_images/1946269594538131456/T3cGbv4S_normal.jpg",
+        "favouritesCount": 5589,
+        "possiblySensitive": false,
+        "hasCustomTimelines": true,
+        "withheldInCountries": []
+      },
+      "entities": {
+        "urls": [
+          {
+            "url": "https://t.co/bSJcLzvnax",
+            "indices": [
+              1140,
+              1163
+            ],
+            "display_url": "t.me/FinoraEN_Bot?s\u2026",
+            "expanded_url": "https://t.me/FinoraEN_Bot?start=xaQklOQU5DRXxSQVlVU0RUfDRofHp1Z3VyZA"
+          }
+        ],
+        "hashtags": [
+          {
+            "text": "RAYUSDT",
+            "indices": [
+              41,
+              49
+            ]
+          }
+        ],
+        "user_mentions": []
+      },
+      "createdAt": "Fri Sep 04 09:32:21 +0000 2026",
+      "likeCount": 0,
+      "viewCount": 45,
+      "quoteCount": 0,
+      "replyCount": 0,
+      "inReplyToId": "2095806525834953211",
+      "retweetCount": 0,
+      "bookmarkCount": 0,
+      "conversationId": "2093215797053100503",
+      "isLimitedReply": false,
+      "inReplyToUserId": "223489520",
+      "inReplyToUsername": "zugurd"
+    },
+    {
+      "id": "2095791010140114994",
+      "url": "https://x.com/Hirnzwaerg/status/2095791010140114994",
+      "lang": "en",
+      "text": "@1000xgirl $RAY looking spicy \ud83c\udf36\ufe0f\ud83d\ude80",
+      "media": {
+        "mediaUrl": "",
+        "mediaPreview": ""
+      },
+      "source": "Twitter for iPhone",
+      "isReply": true,
+      "tweeter": {
+        "id": "522198714",
+        "name": "Philippe Blank",
+        "canDm": false,
+        "location": "Wo auf der Welt bist Du?",
+        "userName": "Hirnzwaerg",
+        "username": "Hirnzwaerg",
+        "createdAt": "Mon Mar 12 12:11:30 +0000 2012",
+        "followers": 136,
+        "following": 162,
+        "mediaCount": 0,
+        "automatedBy": null,
+        "description": "",
+        "isAutomated": false,
+        "unavailable": false,
+        "coverPicture": "https://pbs.twimg.com/profile_banners/522198714/1739545767",
+        "isTranslator": false,
+        "verifiedType": null,
+        "statusesCount": 5354,
+        "isBlueVerified": false,
+        "pinnedTweetIds": [],
+        "publicImageUrl": "https://pbs.twimg.com/profile_images/1827943155318001664/qA8udle__normal.jpg",
+        "favouritesCount": 715,
+        "possiblySensitive": false,
+        "hasCustomTimelines": true,
+        "withheldInCountries": []
+      },
+      "entities": {
+        "urls": [],
+        "hashtags": [],
+        "user_mentions": [
+          {
+            "name": "1000xgirl\ud83d\udc51\u2764\ufe0f\ud83d\udc51",
+            "id_str": "383915990",
+            "indices": [
+              0,
+              10
+            ],
+            "screen_name": "1000xgirl"
+          }
+        ]
+      },
+      "createdAt": "Fri Sep 04 08:28:09 +0000 2026",
+      "likeCount": 0,
+      "viewCount": 7,
+      "quoteCount": 0,
+      "replyCount": 0,
+      "inReplyToId": "2095526731222331459",
+      "retweetCount": 0,
+      "bookmarkCount": 0,
+      "conversationId": "2095526731222331459",
+      "isLimitedReply": false,
+      "inReplyToUserId": "383915990",
+      "inReplyToUsername": "1000xgirl"
+    },
+    {
+      "id": "2095790782435434933",
+      "url": "https://x.com/Hirnzwaerg/status/2095790782435434933",
+      "lang": "en",
+      "text": "@YisusCryptos My bet? $RAY \ud83d\udc40",
+      "media": {
+        "mediaUrl": "",
+        "mediaPreview": ""
+      },
+      "source": "Twitter for iPhone",
+      "isReply": true,
+      "tweeter": {
+        "id": "522198714",
+        "name": "Philippe Blank",
+        "canDm": false,
+        "location": "Wo auf der Welt bist Du?",
+        "userName": "Hirnzwaerg",
+        "username": "Hirnzwaerg",
+        "createdAt": "Mon Mar 12 12:11:30 +0000 2012",
+        "followers": 136,
+        "following": 162,
+        "mediaCount": 0,
+        "automatedBy": null,
+        "description": "",
+        "isAutomated": false,
+        "unavailable": false,
+        "coverPicture": "https://pbs.twimg.com/profile_banners/522198714/1739545767",
+        "isTranslator": false,
+        "verifiedType": null,
+        "statusesCount": 5354,
+        "isBlueVerified": false,
+        "pinnedTweetIds": [],
+        "publicImageUrl": "https://pbs.twimg.com/profile_images/1827943155318001664/qA8udle__normal.jpg",
+        "favouritesCount": 715,
+        "possiblySensitive": false,
+        "hasCustomTimelines": true,
+        "withheldInCountries": []
+      },
+      "entities": {
+        "urls": [],
+        "hashtags": [],
+        "user_mentions": [
+          {
+            "name": "YisusCrypt",
+            "id_str": "257561580",
+            "indices": [
+              0,
+              13
+            ],
+            "screen_name": "YisusCryptos"
+          }
+        ]
+      },
+      "createdAt": "Fri Sep 04 08:27:15 +0000 2026",
+      "likeCount": 0,
+      "viewCount": 4,
+      "quoteCount": 0,
+      "replyCount": 0,
+      "inReplyToId": "2095242587837767851",
+      "retweetCount": 0,
+      "bookmarkCount": 0,
+      "conversationId": "2095242587837767851",
+      "isLimitedReply": false,
+      "inReplyToUserId": "257561580",
+      "inReplyToUsername": "YisusCryptos"
+    },
+    {
+      "id": "2095790515027611904",
+      "url": "https://x.com/Hirnzwaerg/status/2095790515027611904",
+      "lang": "en",
+      "text": "@Raydium $RAY on the radar \ud83d\udc8e\ud83d\udd25",
+      "media": {
+        "mediaUrl": "",
+        "mediaPreview": ""
+      },
+      "source": "Twitter for iPhone",
+      "isReply": true,
+      "tweeter": {
+        "id": "522198714",
+        "name": "Philippe Blank",
+        "canDm": false,
+        "location": "Wo auf der Welt bist Du?",
+        "userName": "Hirnzwaerg",
+        "username": "Hirnzwaerg",
+        "createdAt": "Mon Mar 12 12:11:30 +0000 2012",
+        "followers": 136,
+        "following": 162,
+        "mediaCount": 0,
+        "automatedBy": null,
+        "description": "",
+        "isAutomated": false,
+        "unavailable": false,
+        "coverPicture": "https://pbs.twimg.com/profile_banners/522198714/1739545767",
+        "isTranslator": false,
+        "verifiedType": null,
+        "statusesCount": 5354,
+        "isBlueVerified": false,
+        "pinnedTweetIds": [],
+        "publicImageUrl": "https://pbs.twimg.com/profile_images/1827943155318001664/qA8udle__normal.jpg",
+        "favouritesCount": 715,
+        "possiblySensitive": false,
+        "hasCustomTimelines": true,
+        "withheldInCountries": []
+      },
+      "entities": {
+        "urls": [],
+        "hashtags": [],
+        "user_mentions": [
+          {
+            "name": "Raydium",
+            "id_str": "1358454920299433985",
+            "indices": [
+              0,
+              8
+            ],
+            "screen_name": "Raydium"
+          }
+        ]
+      },
+      "createdAt": "Fri Sep 04 08:26:11 +0000 2026",
+      "likeCount": 1,
+      "viewCount": 7,
+      "quoteCount": 0,
+      "replyCount": 0,
+      "inReplyToId": "2095489980470546607",
+      "retweetCount": 0,
+      "bookmarkCount": 0,
+      "conversationId": "2095489980470546607",
+      "isLimitedReply": false,
+      "inReplyToUserId": "1358454920299433985",
+      "inReplyToUsername": "Raydium"
+    },
+    {
+      "id": "2095789989661646990",
+      "url": "https://x.com/Hirnzwaerg/status/2095789989661646990",
+      "lang": "en",
+      "text": "@CryptoThro $RAY could surprise everyone \ud83d\udd25",
+      "media": {
+        "mediaUrl": "",
+        "mediaPreview": ""
+      },
+      "source": "Twitter for iPhone",
+      "isReply": true,
+      "tweeter": {
+        "id": "522198714",
+        "name": "Philippe Blank",
+        "canDm": false,
+        "location": "Wo auf der Welt bist Du?",
+        "userName": "Hirnzwaerg",
+        "username": "Hirnzwaerg",
+        "createdAt": "Mon Mar 12 12:11:30 +0000 2012",
+        "followers": 136,
+        "following": 162,
+        "mediaCount": 0,
+        "automatedBy": null,
+        "description": "",
+        "isAutomated": false,
+        "unavailable": false,
+        "coverPicture": "https://pbs.twimg.com/profile_banners/522198714/1739545767",
+        "isTranslator": false,
+        "verifiedType": null,
+        "statusesCount": 5354,
+        "isBlueVerified": false,
+        "pinnedTweetIds": [],
+        "publicImageUrl": "https://pbs.twimg.com/profile_images/1827943155318001664/qA8udle__normal.jpg",
+        "favouritesCount": 715,
+        "possiblySensitive": false,
+        "hasCustomTimelines": true,
+        "withheldInCountries": []
+      },
+      "entities": {
+        "urls": [],
+        "hashtags": [],
+        "user_mentions": [
+          {
+            "name": "CRYPTO THRO",
+            "id_str": "2738087632",
+            "indices": [
+              0,
+              11
+            ],
+            "screen_name": "CryptoThro"
+          }
+        ]
+      },
+      "createdAt": "Fri Sep 04 08:24:06 +0000 2026",
+      "likeCount": 0,
+      "viewCount": 6,
+      "quoteCount": 0,
+      "replyCount": 0,
+      "inReplyToId": "2095411459006103978",
+      "retweetCount": 0,
+      "bookmarkCount": 0,
+      "conversationId": "2095411459006103978",
+      "isLimitedReply": false,
+      "inReplyToUserId": "2738087632",
+      "inReplyToUsername": "CryptoThro"
+    },
+    {
+      "id": "2095789893578596785",
+      "url": "https://x.com/Hirnzwaerg/status/2095789893578596785",
+      "lang": "en",
+      "text": "@AltGemHunter $RAY could surprise everyone \ud83d\udd25",
+      "media": {
+        "mediaUrl": "",
+        "mediaPreview": ""
+      },
+      "source": "Twitter for iPhone",
+      "isReply": true,
+      "tweeter": {
+        "id": "522198714",
+        "name": "Philippe Blank",
+        "canDm": false,
+        "location": "Wo auf der Welt bist Du?",
+        "userName": "Hirnzwaerg",
+        "username": "Hirnzwaerg",
+        "createdAt": "Mon Mar 12 12:11:30 +0000 2012",
+        "followers": 136,
+        "following": 162,
+        "mediaCount": 0,
+        "automatedBy": null,
+        "description": "",
+        "isAutomated": false,
+        "unavailable": false,
+        "coverPicture": "https://pbs.twimg.com/profile_banners/522198714/1739545767",
+        "isTranslator": false,
+        "verifiedType": null,
+        "statusesCount": 5354,
+        "isBlueVerified": false,
+        "pinnedTweetIds": [],
+        "publicImageUrl": "https://pbs.twimg.com/profile_images/1827943155318001664/qA8udle__normal.jpg",
+        "favouritesCount": 715,
+        "possiblySensitive": false,
+        "hasCustomTimelines": true,
+        "withheldInCountries": []
+      },
+      "entities": {
+        "urls": [],
+        "hashtags": [],
+        "user_mentions": [
+          {
+            "name": "AltGem Hunter \u26a1\ud83e\udd77",
+            "id_str": "1360636645989441539",
+            "indices": [
+              0,
+              13
+            ],
+            "screen_name": "AltGemHunter"
+          }
+        ]
+      },
+      "createdAt": "Fri Sep 04 08:23:43 +0000 2026",
+      "likeCount": 0,
+      "viewCount": 4,
+      "quoteCount": 0,
+      "replyCount": 0,
+      "inReplyToId": "2095536448208576831",
+      "retweetCount": 0,
+      "bookmarkCount": 0,
+      "conversationId": "2095536448208576831",
+      "isLimitedReply": false,
+      "inReplyToUserId": "1360636645989441539",
+      "inReplyToUsername": "AltGemHunter"
+    },
+    {
+      "id": "2095719378474192985",
+      "url": "https://x.com/ChelseaYouthPix/status/2095719378474192985",
+      "lang": "en",
+      "text": "$RAY is keeping the chart constructive \ud83d\udc40\nThe important part is that price remains above 0.82565.\nThat keeps the current structure intact.\n\ud83d\ude80 Key levels: 0.85558 / 0.86577 / 0.87596\nJoin experienced traders via the link in my bio.\n#RAY #Crypto https://t.co/pWWKm1WvGo",
+      "media": {
+        "mediaUrl": "",
+        "mediaPreview": ""
+      },
+      "source": "Twitter for iPhone",
+      "isReply": false,
+      "tweeter": {
+        "id": "28306914",
+        "name": "Chelsea Youth Pics",
+        "canDm": false,
+        "location": "London",
+        "userName": "ChelseaYouthPix",
+        "username": "ChelseaYouthPix",
+        "createdAt": "Thu Apr 02 09:00:06 +0000 2009",
+        "followers": 2468,
+        "following": 493,
+        "mediaCount": 3069,
+        "automatedBy": null,
+        "description": "",
+        "isAutomated": false,
+        "unavailable": false,
+        "coverPicture": "https://pbs.twimg.com/profile_banners/28306914/1566226417",
+        "isTranslator": false,
+        "verifiedType": null,
+        "statusesCount": 7159,
+        "isBlueVerified": true,
+        "pinnedTweetIds": [],
+        "publicImageUrl": "https://pbs.twimg.com/profile_images/1606268617653379074/QcBX57d-_normal.jpg",
+        "favouritesCount": 22777,
+        "possiblySensitive": false,
+        "hasCustomTimelines": true,
+        "withheldInCountries": []
+      },
+      "entities": {
+        "urls": [],
+        "hashtags": [
+          {
+            "text": "RAY",
+            "indices": [
+              229,
+              233
+            ]
+          },
+          {
+            "text": "Crypto",
+            "indices": [
+              234,
+              241
+            ]
+          }
+        ],
+        "user_mentions": []
+      },
+      "createdAt": "Fri Sep 04 03:43:31 +0000 2026",
+      "likeCount": 0,
+      "viewCount": 15,
+      "quoteCount": 0,
+      "replyCount": 0,
+      "inReplyToId": null,
+      "retweetCount": 0,
+      "bookmarkCount": 0,
+      "conversationId": "2095719378474192985",
+      "isLimitedReply": false,
+      "inReplyToUserId": null,
+      "inReplyToUsername": null
+    },
+    {
+      "id": "2095611505530081633",
+      "url": "https://x.com/Alphascout00/status/2095611505530081633",
+      "lang": "en",
+      "text": "$lucia getting pushed.. \n I think $ray is interesting too, we don\u2019t have a lot on him for the moment but his character is interesting to say the least \n\nWill probably take entry later \n\nFteXCnteEt1isndQ7jjLe8TyCPugD3PnaNSLPrnnpump",
+      "media": {
+        "mediaUrl": "",
+        "mediaPreview": ""
+      },
+      "source": "Twitter for iPhone",
+      "isReply": false,
+      "tweeter": {
+        "id": "1883885415100194816",
+        "name": "Alphascout",
+        "canDm": true,
+        "location": "",
+        "userName": "Alphascout00",
+        "username": "Alphascout00",
+        "createdAt": "Mon Jan 27 14:31:07 +0000 2025",
+        "followers": 75,
+        "following": 130,
+        "mediaCount": 74,
+        "automatedBy": null,
+        "description": "",
+        "isAutomated": false,
+        "unavailable": false,
+        "coverPicture": "https://pbs.twimg.com/profile_banners/1883885415100194816/1786048602",
+        "isTranslator": false,
+        "verifiedType": null,
+        "statusesCount": 668,
+        "isBlueVerified": true,
+        "pinnedTweetIds": [
+          "2074806255697154366"
+        ],
+        "publicImageUrl": "https://pbs.twimg.com/profile_images/1883886905223254016/yi8QRHBG_normal.jpg",
+        "favouritesCount": 542,
+        "possiblySensitive": false,
+        "hasCustomTimelines": true,
+        "withheldInCountries": []
+      },
+      "entities": {
+        "urls": [],
+        "hashtags": [],
+        "user_mentions": []
+      },
+      "createdAt": "Thu Sep 03 20:34:52 +0000 2026",
+      "likeCount": 0,
+      "viewCount": 55,
+      "quoteCount": 0,
+      "replyCount": 0,
+      "inReplyToId": null,
+      "retweetCount": 0,
+      "bookmarkCount": 0,
+      "conversationId": "2095611505530081633",
+      "isLimitedReply": false,
+      "inReplyToUserId": null,
+      "inReplyToUsername": null
+    },
+    {
+      "id": "2095576991189577806",
+      "url": "https://x.com/manuelharnanmuo/status/2095576991189577806",
+      "lang": "en",
+      "text": "the room is following this closely.   $RAY   https://t.co/OGEJZOj5Vl",
+      "media": {
+        "mediaUrl": "",
+        "mediaPreview": ""
+      },
+      "source": "Twitter for iPhone",
+      "isReply": false,
+      "tweeter": {
+        "id": "799013833",
+        "name": "manuel harnan mu\u00f1oz ",
+        "canDm": false,
+        "location": "",
+        "userName": "manuelharnanmuo",
+        "username": "manuelharnanmuo",
+        "createdAt": "Sun Sep 02 20:43:06 +0000 2012",
+        "followers": 56,
+        "following": 59,
+        "mediaCount": 1,
+        "automatedBy": null,
+        "description": "",
+        "isAutomated": false,
+        "unavailable": false,
+        "coverPicture": "",
+        "isTranslator": false,
+        "verifiedType": null,
+        "statusesCount": 50,
+        "isBlueVerified": false,
+        "pinnedTweetIds": [],
+        "publicImageUrl": "https://pbs.twimg.com/profile_images/2088060208220418048/nwhDckjQ_normal.jpg",
+        "favouritesCount": 4,
+        "possiblySensitive": false,
+        "hasCustomTimelines": true,
+        "withheldInCountries": []
+      },
+      "entities": {
+        "urls": [
+          {
+            "url": "https://t.co/OGEJZOj5Vl",
+            "indices": [
+              45,
+              68
+            ],
+            "display_url": "puep.fun/?4k3Dyjzvzp8eM\u2026",
+            "expanded_url": "https://puep.fun/?4k3Dyjzvzp8eMZWUXbBCjEvwSkkk59S5iCNLY3QrkX6R?v=1"
+          }
+        ],
+        "hashtags": [],
+        "user_mentions": []
+      },
+      "createdAt": "Thu Sep 03 18:17:43 +0000 2026",
+      "likeCount": 0,
+      "viewCount": 10,
+      "quoteCount": 0,
+      "replyCount": 0,
+      "inReplyToId": null,
+      "retweetCount": 0,
+      "bookmarkCount": 0,
+      "conversationId": "2095576991189577806",
+      "isLimitedReply": false,
+      "inReplyToUserId": null,
+      "inReplyToUsername": null
+    },
+    {
+      "id": "2095563463166677489",
+      "url": "https://x.com/Alechenoa/status/2095563463166677489",
+      "lang": "en",
+      "text": "the room is following this closely.   $RAY   https://t.co/u0y61oyUTV",
+      "media": {
+        "mediaUrl": "",
+        "mediaPreview": ""
+      },
+      "source": "Twitter for iPhone",
+      "isReply": false,
+      "tweeter": {
+        "id": "2879650192",
+        "name": "Alexa Valtetsiotis",
+        "canDm": false,
+        "location": "",
+        "userName": "Alechenoa",
+        "username": "Alechenoa",
+        "createdAt": "Sun Nov 16 14:45:49 +0000 2014",
+        "followers": 62,
+        "following": 50,
+        "mediaCount": 3,
+        "automatedBy": null,
+        "description": "",
+        "isAutomated": false,
+        "unavailable": false,
+        "coverPicture": "",
+        "isTranslator": false,
+        "verifiedType": null,
+        "statusesCount": 51,
+        "isBlueVerified": false,
+        "pinnedTweetIds": [],
+        "publicImageUrl": "https://pbs.twimg.com/profile_images/2088136190054760448/euTnMfPY_normal.jpg",
+        "favouritesCount": 0,
+        "possiblySensitive": false,
+        "hasCustomTimelines": true,
+        "withheldInCountries": []
+      },
+      "entities": {
+        "urls": [
+          {
+            "url": "https://t.co/u0y61oyUTV",
+            "indices": [
+              45,
+              68
+            ],
+            "display_url": "puep.fun/?4k3Dyjzvzp8eM\u2026",
+            "expanded_url": "https://puep.fun/?4k3Dyjzvzp8eMZWUXbBCjEvwSkkk59S5iCNLY3QrkX6R?v=1"
+          }
+        ],
+        "hashtags": [],
+        "user_mentions": []
+      },
+      "createdAt": "Thu Sep 03 17:23:57 +0000 2026",
+      "likeCount": 0,
+      "viewCount": 5,
+      "quoteCount": 0,
+      "replyCount": 0,
+      "inReplyToId": null,
+      "retweetCount": 0,
+      "bookmarkCount": 0,
+      "conversationId": "2095563463166677489",
+      "isLimitedReply": false,
+      "inReplyToUserId": null,
+      "inReplyToUsername": null
+    },
+    {
+      "id": "2095558298783137988",
+      "url": "https://x.com/Cryptic100x/status/2095558298783137988",
+      "lang": "en",
+      "text": "12/14\n\nFor context, major DEX tokens reached much larger peak valuations:\n\n$1INCH: ~$1.6B market cap\n$JUP: ~$2.7B\n$RAY: ~$2.5B\n$AERO: ~$1.7B\n\nMancer is not entitled to those valuations, but the gap shows how little future success is priced in.",
+      "media": {
+        "mediaUrl": "",
+        "mediaPreview": ""
+      },
+      "source": "Twitter for iPhone",
+      "isReply": true,
+      "tweeter": {
+        "id": "2321459642",
+        "name": "Cryptic",
+        "canDm": true,
+        "location": "",
+        "userName": "Cryptic100x",
+        "username": "Cryptic100x",
+        "createdAt": "Fri Jan 31 23:00:11 +0000 2014",
+        "followers": 1100,
+        "following": 932,
+        "mediaCount": 373,
+        "automatedBy": null,
+        "description": "",
+        "isAutomated": false,
+        "unavailable": false,
+        "coverPicture": "https://pbs.twimg.com/profile_banners/2321459642/1743653883",
+        "isTranslator": false,
+        "verifiedType": null,
+        "statusesCount": 3958,
+        "isBlueVerified": true,
+        "pinnedTweetIds": [],
+        "publicImageUrl": "https://pbs.twimg.com/profile_images/1878519757101789184/jlROoM4T_normal.jpg",
+        "favouritesCount": 1338,
+        "possiblySensitive": false,
+        "hasCustomTimelines": true,
+        "withheldInCountries": []
+      },
+      "entities": {
+        "urls": [],
+        "hashtags": [],
+        "user_mentions": []
+      },
+      "createdAt": "Thu Sep 03 17:03:26 +0000 2026",
+      "likeCount": 0,
+      "viewCount": 208,
+      "quoteCount": 0,
+      "replyCount": 1,
+      "inReplyToId": "2095558296644076003",
+      "retweetCount": 1,
+      "bookmarkCount": 0,
+      "conversationId": "2095558271524282748",
+      "isLimitedReply": false,
+      "inReplyToUserId": "2321459642",
+      "inReplyToUsername": "Cryptic100x"
+    },
+    {
+      "id": "2095519897069494648",
+      "url": "https://x.com/mer_susana/status/2095519897069494648",
+      "lang": "en",
+      "text": "the room is following this closely.   $RAY   https://t.co/c9wRIjVjXX",
+      "media": {
+        "mediaUrl": "",
+        "mediaPreview": ""
+      },
+      "source": "Twitter for iPhone",
+      "isReply": false,
+      "tweeter": {
+        "id": "745820754881634304",
+        "name": "Susana sarmiento mer",
+        "canDm": false,
+        "location": "",
+        "userName": "mer_susana",
+        "username": "mer_susana",
+        "createdAt": "Thu Jun 23 03:28:19 +0000 2016",
+        "followers": 57,
+        "following": 152,
+        "mediaCount": 3,
+        "automatedBy": null,
+        "description": "",
+        "isAutomated": false,
+        "unavailable": false,
+        "coverPicture": "",
+        "isTranslator": false,
+        "verifiedType": null,
+        "statusesCount": 49,
+        "isBlueVerified": false,
+        "pinnedTweetIds": [],
+        "publicImageUrl": "https://pbs.twimg.com/profile_images/2087987038230552576/uu9iWIVy_normal.jpg",
+        "favouritesCount": 86,
+        "possiblySensitive": false,
+        "hasCustomTimelines": true,
+        "withheldInCountries": []
+      },
+      "entities": {
+        "urls": [
+          {
+            "url": "https://t.co/c9wRIjVjXX",
+            "indices": [
+              45,
+              68
+            ],
+            "display_url": "puep.fun/?4k3Dyjzvzp8eM\u2026",
+            "expanded_url": "https://puep.fun/?4k3Dyjzvzp8eMZWUXbBCjEvwSkkk59S5iCNLY3QrkX6R?v=1"
+          }
+        ],
+        "hashtags": [],
+        "user_mentions": []
+      },
+      "createdAt": "Thu Sep 03 14:30:50 +0000 2026",
+      "likeCount": 1,
+      "viewCount": 14,
+      "quoteCount": 0,
+      "replyCount": 0,
+      "inReplyToId": null,
+      "retweetCount": 1,
+      "bookmarkCount": 0,
+      "conversationId": "2095519897069494648",
+      "isLimitedReply": false,
+      "inReplyToUserId": null,
+      "inReplyToUsername": null
+    },
+    {
+      "id": "2095437553155395957",
+      "url": "https://x.com/2010_Kryz21/status/2095437553155395957",
+      "lang": "en",
+      "text": "the room is active right now.   $RAY   https://t.co/98Y6DiyKbT",
+      "media": {
+        "mediaUrl": "",
+        "mediaPreview": ""
+      },
+      "source": "Twitter for iPhone",
+      "isReply": false,
+      "tweeter": {
+        "id": "299613588",
+        "name": "cristobal mauricio",
+        "canDm": false,
+        "location": "",
+        "userName": "2010_Kryz21",
+        "username": "2010_Kryz21",
+        "createdAt": "Mon May 16 12:01:30 +0000 2011",
+        "followers": 48,
+        "following": 61,
+        "mediaCount": 3,
+        "automatedBy": null,
+        "description": "",
+        "isAutomated": false,
+        "unavailable": false,
+        "coverPicture": "",
+        "isTranslator": false,
+        "verifiedType": null,
+        "statusesCount": 105,
+        "isBlueVerified": false,
+        "pinnedTweetIds": [],
+        "publicImageUrl": "https://pbs.twimg.com/profile_images/2088050635132612608/IgiKZvnN_normal.jpg",
+        "favouritesCount": 3,
+        "possiblySensitive": false,
+        "hasCustomTimelines": true,
+        "withheldInCountries": []
+      },
+      "entities": {
+        "urls": [
+          {
+            "url": "https://t.co/98Y6DiyKbT",
+            "indices": [
+              39,
+              62
+            ],
+            "display_url": "puep.fun/?4k3Dyjzvzp8eM\u2026",
+            "expanded_url": "https://puep.fun/?4k3Dyjzvzp8eMZWUXbBCjEvwSkkk59S5iCNLY3QrkX6R?v=1"
+          }
+        ],
+        "hashtags": [],
+        "user_mentions": []
+      },
+      "createdAt": "Thu Sep 03 09:03:38 +0000 2026",
+      "likeCount": 0,
+      "viewCount": 6,
+      "quoteCount": 0,
+      "replyCount": 0,
+      "inReplyToId": null,
+      "retweetCount": 0,
+      "bookmarkCount": 0,
+      "conversationId": "2095437553155395957",
+      "isLimitedReply": false,
+      "inReplyToUserId": null,
+      "inReplyToUsername": null
+    },
+    {
+      "id": "2095437041261510922",
+      "url": "https://x.com/connorhcrypto/status/2095437041261510922",
+      "lang": "en",
+      "text": "The most surprising thing about Grok AI Trading? Turning $1,000 into around $357 a day feels unreal. You can get started using these symbols: $RAY $LINK $STRK https://t.co/gkIpfqX8Uh",
+      "media": {
+        "mediaUrl": "",
+        "mediaPreview": ""
+      },
+      "source": "Twitter for iPhone",
+      "isReply": false,
+      "tweeter": {
+        "id": "599841960",
+        "name": "Connor Hadley",
+        "canDm": false,
+        "location": "New York",
+        "userName": "connorhcrypto",
+        "username": "connorhcrypto",
+        "createdAt": "Tue Jun 05 02:42:01 +0000 2012",
+        "followers": 198,
+        "following": 18,
+        "mediaCount": 63,
+        "automatedBy": null,
+        "description": "",
+        "isAutomated": false,
+        "unavailable": false,
+        "coverPicture": "https://pbs.twimg.com/profile_banners/599841960/1784816550",
+        "isTranslator": false,
+        "verifiedType": null,
+        "statusesCount": 170,
+        "isBlueVerified": false,
+        "pinnedTweetIds": [],
+        "publicImageUrl": "https://pbs.twimg.com/profile_images/2080297500309667840/OUl0V2Uk_normal.jpg",
+        "favouritesCount": 10,
+        "possiblySensitive": false,
+        "hasCustomTimelines": true,
+        "withheldInCountries": []
+      },
+      "entities": {
+        "urls": [],
+        "hashtags": [],
+        "user_mentions": []
+      },
+      "createdAt": "Thu Sep 03 09:01:36 +0000 2026",
+      "likeCount": 0,
+      "viewCount": 80,
+      "quoteCount": 0,
+      "replyCount": 0,
+      "inReplyToId": null,
+      "retweetCount": 0,
+      "bookmarkCount": 0,
+      "conversationId": "2095437041261510922",
+      "isLimitedReply": false,
+      "inReplyToUserId": null,
+      "inReplyToUsername": null
+    },
+    {
+      "id": "2095426910322913679",
+      "url": "https://x.com/pyveter/status/2095426910322913679",
+      "lang": "en",
+      "text": "\ud83d\udc68\u200d\ud83d\udc66  the room has fresh movement again.   $RAY   https://t.co/P05yXsUYNx",
+      "media": {
+        "mediaUrl": "",
+        "mediaPreview": ""
+      },
+      "source": "Twitter for iPhone",
+      "isReply": false,
+      "tweeter": {
+        "id": "414308702",
+        "name": "Rodrigo Costa",
+        "canDm": false,
+        "location": "",
+        "userName": "pyveter",
+        "username": "pyveter",
+        "createdAt": "Wed Nov 16 22:09:55 +0000 2011",
+        "followers": 84,
+        "following": 93,
+        "mediaCount": 11,
+        "automatedBy": null,
+        "description": "",
+        "isAutomated": false,
+        "unavailable": false,
+        "coverPicture": "",
+        "isTranslator": false,
+        "verifiedType": null,
+        "statusesCount": 113,
+        "isBlueVerified": false,
+        "pinnedTweetIds": [],
+        "publicImageUrl": "https://pbs.twimg.com/profile_images/2084219205864603648/r6GeS87f_normal.jpg",
+        "favouritesCount": 4,
+        "possiblySensitive": false,
+        "hasCustomTimelines": true,
+        "withheldInCountries": []
+      },
+      "entities": {
+        "urls": [
+          {
+            "url": "https://t.co/P05yXsUYNx",
+            "indices": [
+              49,
+              72
+            ],
+            "display_url": "puep.fun/?4k3Dyjzvzp8eM\u2026",
+            "expanded_url": "https://puep.fun/?4k3Dyjzvzp8eMZWUXbBCjEvwSkkk59S5iCNLY3QrkX6R?v=1"
+          }
+        ],
+        "hashtags": [],
+        "user_mentions": []
+      },
+      "createdAt": "Thu Sep 03 08:21:21 +0000 2026",
+      "likeCount": 0,
+      "viewCount": 4,
+      "quoteCount": 0,
+      "replyCount": 0,
+      "inReplyToId": null,
+      "retweetCount": 0,
+      "bookmarkCount": 0,
+      "conversationId": "2095426910322913679",
+      "isLimitedReply": false,
+      "inReplyToUserId": null,
+      "inReplyToUsername": null
+    },
+    {
+      "id": "2095426592700760410",
+      "url": "https://x.com/Cryptic100x/status/2095426592700760410",
+      "lang": "en",
+      "text": "Peak DEX valuations:\n\n$1INCH: $1.6B MC / $13B FDV\n$JUP: $2.7B / $20B\n$RAY: $2.5B / $9.3B\n$AERO: $1.7B / $3B\n\n$MANCER is a DEX on Robinhood Chain at ~$6M MC / ~$12M FDV.\n\nThat\u2019s less than 0.4% of the smallest peer peak market cap. The opportunity is barely priced in.",
+      "media": {
+        "mediaUrl": "",
+        "mediaPreview": ""
+      },
+      "source": "Twitter for iPhone",
+      "isReply": false,
+      "tweeter": {
+        "id": "2321459642",
+        "name": "Cryptic",
+        "canDm": true,
+        "location": "",
+        "userName": "Cryptic100x",
+        "username": "Cryptic100x",
+        "createdAt": "Fri Jan 31 23:00:11 +0000 2014",
+        "followers": 1100,
+        "following": 932,
+        "mediaCount": 373,
+        "automatedBy": null,
+        "description": "",
+        "isAutomated": false,
+        "unavailable": false,
+        "coverPicture": "https://pbs.twimg.com/profile_banners/2321459642/1743653883",
+        "isTranslator": false,
+        "verifiedType": null,
+        "statusesCount": 3958,
+        "isBlueVerified": true,
+        "pinnedTweetIds": [],
+        "publicImageUrl": "https://pbs.twimg.com/profile_images/1878519757101789184/jlROoM4T_normal.jpg",
+        "favouritesCount": 1338,
+        "possiblySensitive": false,
+        "hasCustomTimelines": true,
+        "withheldInCountries": []
+      },
+      "entities": {
+        "urls": [],
+        "hashtags": [],
+        "user_mentions": []
+      },
+      "createdAt": "Thu Sep 03 08:20:05 +0000 2026",
+      "likeCount": 1,
+      "viewCount": 193,
+      "quoteCount": 1,
+      "replyCount": 0,
+      "inReplyToId": null,
+      "retweetCount": 1,
+      "bookmarkCount": 0,
+      "conversationId": "2095426592700760410",
+      "isLimitedReply": false,
+      "inReplyToUserId": null,
+      "inReplyToUsername": null
+    },
+    {
+      "id": "2095418626304016627",
+      "url": "https://x.com/alamadridcr7/status/2095418626304016627",
+      "lang": "en",
+      "text": "\ud83d\udc0e  the room has fresh movement again.   $RAY   https://t.co/r66S17CWsF",
+      "media": {
+        "mediaUrl": "",
+        "mediaPreview": ""
+      },
+      "source": "Twitter for iPhone",
+      "isReply": false,
+      "tweeter": {
+        "id": "228838746",
+        "name": "pedro antonio",
+        "canDm": false,
+        "location": "",
+        "userName": "alamadridcr7",
+        "username": "alamadridcr7",
+        "createdAt": "Mon Dec 20 20:33:10 +0000 2010",
+        "followers": 51,
+        "following": 62,
+        "mediaCount": 3,
+        "automatedBy": null,
+        "description": "",
+        "isAutomated": false,
+        "unavailable": false,
+        "coverPicture": "",
+        "isTranslator": false,
+        "verifiedType": null,
+        "statusesCount": 104,
+        "isBlueVerified": false,
+        "pinnedTweetIds": [],
+        "publicImageUrl": "https://pbs.twimg.com/profile_images/2088004923644674048/9Tpp5Zys_normal.jpg",
+        "favouritesCount": 5,
+        "possiblySensitive": false,
+        "hasCustomTimelines": true,
+        "withheldInCountries": []
+      },
+      "entities": {
+        "urls": [
+          {
+            "url": "https://t.co/r66S17CWsF",
+            "indices": [
+              47,
+              70
+            ],
+            "display_url": "puep.fun/?4k3Dyjzvzp8eM\u2026",
+            "expanded_url": "https://puep.fun/?4k3Dyjzvzp8eMZWUXbBCjEvwSkkk59S5iCNLY3QrkX6R?v=1"
+          }
+        ],
+        "hashtags": [],
+        "user_mentions": []
+      },
+      "createdAt": "Thu Sep 03 07:48:26 +0000 2026",
+      "likeCount": 0,
+      "viewCount": 4,
+      "quoteCount": 0,
+      "replyCount": 0,
+      "inReplyToId": null,
+      "retweetCount": 0,
+      "bookmarkCount": 0,
+      "conversationId": "2095418626304016627",
+      "isLimitedReply": false,
+      "inReplyToUserId": null,
+      "inReplyToUsername": null
+    },
+    {
+      "id": "2095417486623576288",
+      "url": "https://x.com/srtfondw/status/2095417486623576288",
+      "lang": "en",
+      "text": "\ud83d\udd87  the room has fresh movement again.   $RAY   https://t.co/hyhCUu22rM",
+      "media": {
+        "mediaUrl": "",
+        "mediaPreview": ""
+      },
+      "source": "Twitter for iPhone",
+      "isReply": false,
+      "tweeter": {
+        "id": "4407459735",
+        "name": "\u0643\u0631\u064a\u0645 \u0627\u0644\u062d\u0631\u0628\u064a\u060c",
+        "canDm": false,
+        "location": "",
+        "userName": "srtfondw",
+        "username": "srtfondw",
+        "createdAt": "Mon Dec 07 18:34:34 +0000 2015",
+        "followers": 48,
+        "following": 380,
+        "mediaCount": 3,
+        "automatedBy": null,
+        "description": "",
+        "isAutomated": false,
+        "unavailable": false,
+        "coverPicture": "",
+        "isTranslator": false,
+        "verifiedType": null,
+        "statusesCount": 123,
+        "isBlueVerified": false,
+        "pinnedTweetIds": [],
+        "publicImageUrl": "https://pbs.twimg.com/profile_images/2088137962148261888/XRs4nqyi_normal.jpg",
+        "favouritesCount": 2,
+        "possiblySensitive": false,
+        "hasCustomTimelines": true,
+        "withheldInCountries": []
+      },
+      "entities": {
+        "urls": [
+          {
+            "url": "https://t.co/hyhCUu22rM",
+            "indices": [
+              47,
+              70
+            ],
+            "display_url": "puep.fun/?4k3Dyjzvzp8eM\u2026",
+            "expanded_url": "https://puep.fun/?4k3Dyjzvzp8eMZWUXbBCjEvwSkkk59S5iCNLY3QrkX6R?v=1"
+          }
+        ],
+        "hashtags": [],
+        "user_mentions": []
+      },
+      "createdAt": "Thu Sep 03 07:43:54 +0000 2026",
+      "likeCount": 0,
+      "viewCount": 4,
+      "quoteCount": 0,
+      "replyCount": 0,
+      "inReplyToId": null,
+      "retweetCount": 0,
+      "bookmarkCount": 0,
+      "conversationId": "2095417486623576288",
+      "isLimitedReply": false,
+      "inReplyToUserId": null,
+      "inReplyToUsername": null
+    },
+    {
+      "id": "2095410756179144820",
+      "url": "https://x.com/jfverdao/status/2095410756179144820",
+      "lang": "en",
+      "text": "\ud83e\udd26\u200d\u2642\ufe0f  the room has fresh movement again.   $RAY   https://t.co/YHw2w0s8Kl",
+      "media": {
+        "mediaUrl": "",
+        "mediaPreview": ""
+      },
+      "source": "Twitter for iPhone",
+      "isReply": false,
+      "tweeter": {
+        "id": "1142678970",
+        "name": "josias ferraz",
+        "canDm": false,
+        "location": "trindade",
+        "userName": "jfverdao",
+        "username": "jfverdao",
+        "createdAt": "Sat Feb 02 15:21:53 +0000 2013",
+        "followers": 48,
+        "following": 104,
+        "mediaCount": 2,
+        "automatedBy": null,
+        "description": "",
+        "isAutomated": false,
+        "unavailable": false,
+        "coverPicture": "https://pbs.twimg.com/profile_banners/1142678970/1382123756",
+        "isTranslator": false,
+        "verifiedType": null,
+        "statusesCount": 115,
+        "isBlueVerified": false,
+        "pinnedTweetIds": [],
+        "publicImageUrl": "https://pbs.twimg.com/profile_images/2087959404222263296/QChQRLz9_normal.jpg",
+        "favouritesCount": 3,
+        "possiblySensitive": false,
+        "hasCustomTimelines": true,
+        "withheldInCountries": []
+      },
+      "entities": {
+        "urls": [
+          {
+            "url": "https://t.co/YHw2w0s8Kl",
+            "indices": [
+              50,
+              73
+            ],
+            "display_url": "puep.fun/?4k3Dyjzvzp8eM\u2026",
+            "expanded_url": "https://puep.fun/?4k3Dyjzvzp8eMZWUXbBCjEvwSkkk59S5iCNLY3QrkX6R?v=1"
+          }
+        ],
+        "hashtags": [],
+        "user_mentions": []
+      },
+      "createdAt": "Thu Sep 03 07:17:09 +0000 2026",
+      "likeCount": 0,
+      "viewCount": 2,
+      "quoteCount": 0,
+      "replyCount": 0,
+      "inReplyToId": null,
+      "retweetCount": 0,
+      "bookmarkCount": 0,
+      "conversationId": "2095410756179144820",
+      "isLimitedReply": false,
+      "inReplyToUserId": null,
+      "inReplyToUsername": null
+    }
+  ],
+  "securityData": null,
+  "holdersData": null,
+  "marketData": null,
+  "createdAt": "2026-11-05T17:29:54.847Z",
+  "updatedAt": "2026-11-05T17:29:54.847Z",
+  "conversation": {
+    "id": "cmw3tmcgw000jl9079drp8178",
+    "reportId": "cmw3tmcgw000il907zbc4scmc",
+    "createdAt": "2026-11-05T17:29:54.847Z",
+    "updatedAt": "2026-11-05T17:31:43.032Z",
+    "messages": [
+      {
+        "id": "cmw3tonfy0013l907ggo3wnu6",
+        "conversationId": "cmw3tmcgw000jl9079drp8178",
+        "role": "user",
+        "content": "Looking at the Raydium ($RAY) report, the protocol benefits from deep historical AMM/CLMM liquidity and launchpad order flow, yet DEX market share on Solana is fiercely contested by Jupiter routing, Meteora DLMM, and Orca. What quantitative evidence separates sticky, fee-generating LP liquidity on Raydium from mercenary capital that flees during low-volatility regimes, and how does $RAY's programmatic buyback mechanism perform when daily volume contracts by 40%?",
+        "timestamp": "2026-11-05T17:31:41.918Z",
+        "followupKind": null
+      },
+      {
+        "id": "cmw3tonw00015l907dlrl31xe",
+        "conversationId": "cmw3tmcgw000jl9079drp8178",
+        "role": "assistant",
+        "content": "**REX AI 5.0 Analysis \u2014 Raydium ($RAY) Liquidity Stickiness & Buyback Sensitivity:**\n\n1. **Sticky Core Liquidity vs. Mercenary Launchpad Volume:**\n   - Raydium's volume bifurcates into **(a) Core Blue-Chip CLMM Pools (`SOL/USDC`, `SOL/USDT`, `RAY/SOL`)** and **(b) Long-Tail Launchpad / Memecoin Standard AMM Pools**.\n   - When retail launchpad activity contracts by `40%`, long-tail pool fees drop by `55%\u201365%`, whereas core `SOL/USDC` CLMM routing via Jupiter maintains a high baseline turnover (`Volume / TVL > 1.8x daily`).\n\n2. **Programmatic `$RAY` Buyback Cushion:**\n   - Because Raydium allocates **12% of all trading fees** across all pool types to programmatic on-chain `$RAY` buybacks, `$RAY` possesses direct, mechanical spot bid support that pure governance tokens lack.\n   - **Key Threshold to Watch:** Track the ratio of **Daily Buyback USD Volume to Net Emissions/Unlocks**. As long as programmatic buybacks absorb `>1.5x` of daily circulating inflation, `$RAY` maintains structural spot outperformance relative to high-FDV, low-float DeFi peers.",
+        "timestamp": "2026-11-05T17:31:42.635Z",
+        "followupKind": null
+      }
+    ]
+  }
+}
